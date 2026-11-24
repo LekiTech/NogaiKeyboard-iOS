@@ -1,0 +1,438 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "About 17,000 Nogai words and 2,300 word pairs, fully offline" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About 17,000 Nogai words and 2,300 word pairs, fully offline"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Около 17 000 ногайских слов и 2 300 пар слов, полностью офлайн"
+          }
+        }
+      }
+    },
+    "Developed by LekiTech" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Developed by LekiTech"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разработано LekiTech"
+          }
+        }
+      }
+    },
+    "Feels native" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feels native"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как системная"
+          }
+        }
+      }
+    },
+    "Full Nogai alphabet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full Nogai alphabet"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Полный ногайский алфавит"
+          }
+        }
+      }
+    },
+    "Hold a key to see more letters, then slide to the one you need." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold a key to see more letters, then slide to the one you need."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удерживайте клавишу, чтобы увидеть другие буквы, и проведите пальцем к нужной."
+          }
+        }
+      }
+    },
+    "How to install" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How to install"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как установить"
+          }
+        }
+      }
+    },
+    "Keyboard settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keyboard settings"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки клавиатуры"
+          }
+        }
+      }
+    },
+    "Layout" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Layout"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Раскладка"
+          }
+        }
+      }
+    },
+    "Long press" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Long press"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Долгое нажатие"
+          }
+        }
+      }
+    },
+    "Matches the iOS keyboard down to the details, in light and dark mode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matches the iOS keyboard down to the details, in light and dark mode"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повторяет клавиатуру iOS до мелочей — в светлой и тёмной теме"
+          }
+        }
+      }
+    },
+    "Never asks for Full Access and sends nothing anywhere — word learning stays on this device and can be reset from the keyboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Never asks for Full Access and sends nothing anywhere — word learning stays on this device and can be reset from the keyboard"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не требует полного доступа и ничего никуда не отправляет — выученные слова остаются на этом устройстве, их можно удалить в настройках клавиатуры"
+          }
+        }
+      }
+    },
+    "Nogai Keyboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nogai Keyboard"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ногайская клавиатура"
+          }
+        }
+      }
+    },
+    "Open Settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Settings"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть Настройки"
+          }
+        }
+      }
+    },
+    "Private by design" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private by design"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приватная по умолчанию"
+          }
+        }
+      }
+    },
+    "Switch languages using the 🌐 key on the keyboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Switch languages using the 🌐 key on the keyboard"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для переключения между языками нажимайте кнопку 🌐 на клавиатуре"
+          }
+        }
+      }
+    },
+    "Tap **Keyboards**" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap **Keyboards**"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите **Клавиатуры**"
+          }
+        }
+      }
+    },
+    "Tap **Open Settings** below" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap **Open Settings** below"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите **«Открыть Настройки»** ниже"
+          }
+        }
+      }
+    },
+    "Tap the ⚙︎ key on the keyboard to change word suggestions, next-word suggestions, learning speed, the long-press delay and the theme. Settings are saved on this device." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap the ⚙︎ key on the keyboard to change word suggestions, next-word suggestions, learning speed, the long-press delay and the theme. Settings are saved on this device."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите клавишу ⚙︎ на клавиатуре, чтобы настроить подсказки слов, подсказку следующего слова, скорость обучения, задержку долгого нажатия и тему. Настройки сохраняются на этом устройстве."
+          }
+        }
+      }
+    },
+    "The Russian layout with one change: the hard sign (ъ) has its own key, where щ is on the Russian keyboard." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Russian layout with one change: the hard sign (ъ) has its own key, where щ is on the Russian keyboard."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Русская раскладка с одним отличием: твёрдый знак (ъ) — на отдельной клавише, там, где на русской клавиатуре щ."
+          }
+        }
+      }
+    },
+    "The built-in dictionary is drawn from a Russian–Nogai dictionary and is still being reviewed; it favours the dictionary forms of verbs, and suggestions may contain spelling variants." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The built-in dictionary is drawn from a Russian–Nogai dictionary and is still being reviewed; it favours the dictionary forms of verbs, and suggestions may contain spelling variants."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Встроенный словарь собран по русско-ногайскому словарю и ещё проверяется; в нём преобладают словарные формы глаголов, а в подсказках возможны варианты написания."
+          }
+        }
+      }
+    },
+    "The keyboard learns the words you type. Its **Dictionary** page lists them; you can delete one word or all of them there." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The keyboard learns the words you type. Its **Dictionary** page lists them; you can delete one word or all of them there."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавиатура запоминает слова, которые вы набираете. Они перечислены на странице **«Словарь»** в её настройках; там можно удалить одно слово или все сразу."
+          }
+        }
+      }
+    },
+    "Tip: you can also add the keyboard via **Settings → General → Keyboard → Keyboards**" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tip: you can also add the keyboard via **Settings → General → Keyboard → Keyboards**"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подсказка: клавиатуру также можно добавить через **Настройки → Основные → Клавиатура → Клавиатуры**"
+          }
+        }
+      }
+    },
+    "Turn on **Nogai**" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn on **Nogai**"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включите **Ногайский**"
+          }
+        }
+      }
+    },
+    "Type in your native language" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type in your native language"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пишите на родном языке"
+          }
+        }
+      }
+    },
+    "Word suggestions" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Word suggestions"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подсказки слов"
+          }
+        }
+      }
+    },
+    "аь, нъ, оь and уь can also be typed key by key: н, then ъ." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "аь, нъ, оь and уь can also be typed key by key: н, then ъ."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "аь, нъ, оь и уь можно набирать и по буквам: н, затем ъ."
+          }
+        }
+      }
+    },
+    "аь, нъ, оь, уь, ё and щ — key by key or with one long press" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "аь, нъ, оь, уь, ё and щ — key by key or with one long press"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "аь, нъ, оь, уь, ё и щ — по буквам или одним долгим нажатием"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

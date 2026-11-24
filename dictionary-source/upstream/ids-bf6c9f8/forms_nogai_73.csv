@@ -1,0 +1,2032 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Transcriptions,AlternativeValues
+73-1-100-1,,73,1-100,"дуныйа, тынышлык",дуныйа,,,,,,,,CyrillTrans;Phonemic,dunɨya
+73-1-100-2,,73,1-100,"дуныйа, тынышлык",тынышлык,,,,,,,,CyrillTrans;Phonemic,tɨnɨšlɨk
+73-1-210-1,,73,1-210,"ер, эл, кырал",ер,,,,,,,,CyrillTrans;Phonemic,yer
+73-1-210-2,,73,1-210,"ер, эл, кырал",эл,,,,,,,,CyrillTrans;Phonemic,el
+73-1-210-3,,73,1-210,"ер, эл, кырал",кырал,,,,,,,,CyrillTrans;Phonemic,kɨral
+73-1-212-1,,73,1-212,ер,ер,,,,,,,,CyrillTrans;Phonemic,yer
+73-1-213-1,,73,1-213,шанъ,шанъ,,,,,,,,CyrillTrans;Phonemic,šaŋ
+73-1-214-1,,73,1-214,"батпак, балшык",батпак,,,,,,,,CyrillTrans;Phonemic,batpak
+73-1-214-2,,73,1-214,"батпак, балшык",балшык,,,,,,,,CyrillTrans;Phonemic,balšɨk
+73-1-215-1,,73,1-215,"кум, кайыр",кум,,,,,,,,CyrillTrans;Phonemic,kum
+73-1-215-2,,73,1-215,"кум, кайыр",кайыр,,,,,,,,CyrillTrans;Phonemic,kayɨr
+73-1-220-1,,73,1-220,"тав, тоьбе",тав,,,,,,,,CyrillTrans;Phonemic,taw
+73-1-220-2,,73,1-220,"тав, тоьбе",тоьбе,,,,,,,,CyrillTrans;Phonemic,töbe
+73-1-222-1,,73,1-222,"кайа, йар, тик йар",кайа,,,,,,,,CyrillTrans;Phonemic,kaya
+73-1-222-2,,73,1-222,"кайа, йар, тик йар",йар,,,,,,,,CyrillTrans;Phonemic,yar
+73-1-222-3,,73,1-222,"кайа, йар, тик йар",тик йар,,,,,,,,CyrillTrans;Phonemic,tik yar
+73-1-230-1,,73,1-230,"шоьллик, тегислик, данъыл, кыр, дала",шоьллик,,,,,,,,CyrillTrans;Phonemic,šöllik
+73-1-230-2,,73,1-230,"шоьллик, тегислик, данъыл, кыр, дала",тегислик,,,,,,,,CyrillTrans;Phonemic,tegislik
+73-1-230-3,,73,1-230,"шоьллик, тегислик, данъыл, кыр, дала",данъыл,,,,,,,,CyrillTrans;Phonemic,daŋɨl
+73-1-230-4,,73,1-230,"шоьллик, тегислик, данъыл, кыр, дала",кыр,,,,,,,,CyrillTrans;Phonemic,kɨr
+73-1-230-5,,73,1-230,"шоьллик, тегислик, данъыл, кыр, дала",дала,,,,,,,,CyrillTrans;Phonemic,dala
+73-1-240-1,,73,1-240,тогай,тогай,,,,,,,,CyrillTrans;Phonemic,togay
+73-1-250-1,,73,1-250,арал,арал,,,,,,,,CyrillTrans;Phonemic,aral
+73-1-260-1,,73,1-260,континент,континент,,,,,,,,CyrillTrans;Phonemic,kontinent
+73-1-270-1,,73,1-270,"сув, йага бой",сув,,,,,,,,CyrillTrans;Phonemic,suw
+73-1-270-2,,73,1-270,"сув, йага бой",йага бой,,,,,,,,CyrillTrans;Phonemic,yaga boy
+73-1-280-1,,73,1-280,дорбын,дорбын,,,,,,,,CyrillTrans;Phonemic,dorbɨn
+73-1-310-1,,73,1-310,сув,сув,,,,,,,,CyrillTrans;Phonemic,suw
+73-1-320-1,,73,1-320,тенъиз,тенъиз,,,,,,,,CyrillTrans;Phonemic,teŋiz
+73-1-322-1,,73,1-322,тынык (тенъиз),тынык,,,,,,,,CyrillTrans;Phonemic,tɨnɨk
+73-1-323-1,,73,1-323,давыллы (тенъиз),давыллы,,,,,,,,CyrillTrans;Phonemic,dawɨllɨ
+73-1-324-1,,73,1-324,"коьбик, коьпиршик",коьбик,,,,,,,,CyrillTrans;Phonemic,köbik
+73-1-324-2,,73,1-324,"коьбик, коьпиршик",коьпиршик,,,,,,,,CyrillTrans;Phonemic,köpiršik
+73-1-329-1,,73,1-329,"океан, дерийа",океан,,,,,,,,CyrillTrans;Phonemic,okean
+73-1-329-2,,73,1-329,"океан, дерийа",дерийа,,,,,,,,CyrillTrans;Phonemic,deriya
+73-1-330-1,,73,1-330,коьл,коьл,,,,,,,,CyrillTrans;Phonemic,köl
+73-1-340-1,,73,1-340,"колтык, залив, бухта",колтык,,,,,,,,CyrillTrans;Phonemic,koltɨk
+73-1-340-2,,73,1-340,"колтык, залив, бухта",залив,,,,,,,,CyrillTrans;Phonemic,zaliw
+73-1-340-3,,73,1-340,"колтык, залив, бухта",бухта,,,,,,,,CyrillTrans;Phonemic,buxta
+73-1-341-1,,73,1-341,лагуна,лагуна,,,,,,,,CyrillTrans;Phonemic,laguna
+73-1-342-1,,73,1-342,риф,риф,,,,,,,,CyrillTrans;Phonemic,rif
+73-1-343-1,,73,1-343,бурын,бурын,,,,,,,,CyrillTrans;Phonemic,burɨn
+73-1-350-1,,73,1-350,толкын,толкын,,,,,,,,CyrillTrans;Phonemic,tolkɨn
+73-1-352-1,,73,1-352,тенъиз сувыныкъ келуьви эм кайтувы,тенъиз сувыныкъ келуьви эм кайтувы,,,,,,,,CyrillTrans;Phonemic,teŋiz suwɨnɨq kelüwi em kaytuwɨ
+73-1-353-1,,73,1-353,кайтув,кайтув,,,,,,,,CyrillTrans;Phonemic,kaytuw
+73-1-354-1,,73,1-354,сув келуьв,сув келуьв,,,,,,,,CyrillTrans;Phonemic,suw kelüw
+73-1-360-1,,73,1-360,"сув, йылла, агын, агым, шокырак",сув,,,,,,,,CyrillTrans;Phonemic,suw
+73-1-360-2,,73,1-360,"сув, йылла, агын, агым, шокырак",йылла,,,,,,,,CyrillTrans;Phonemic,yɨlla
+73-1-360-3,,73,1-360,"сув, йылла, агын, агым, шокырак",агын,,,,,,,,CyrillTrans;Phonemic,agɨn
+73-1-360-4,,73,1-360,"сув, йылла, агын, агым, шокырак",агым,,,,,,,,CyrillTrans;Phonemic,agɨm
+73-1-360-5,,73,1-360,"сув, йылла, агын, агым, шокырак",шокырак,,,,,,,,CyrillTrans;Phonemic,šokɨrak
+73-1-362-1,,73,1-362,сувдыкъ ийирими,сувдыкъ ийирими,,,,,,,,CyrillTrans;Phonemic,suwdɨq iyirimi
+73-1-370-1,,73,1-370,"коьз, булак, шокырак, куйы",коьз,,,,,,,,CyrillTrans;Phonemic,köz
+73-1-370-2,,73,1-370,"коьз, булак, шокырак, куйы",булак,,,,,,,,CyrillTrans;Phonemic,bulak
+73-1-370-3,,73,1-370,"коьз, булак, шокырак, куйы",шокырак,,,,,,,,CyrillTrans;Phonemic,šokɨrak
+73-1-370-4,,73,1-370,"коьз, булак, шокырак, куйы",куйы,,,,,,,,CyrillTrans;Phonemic,kuyɨ
+73-1-380-1,,73,1-380,"батпак, саз",батпак,,,,,,,,CyrillTrans;Phonemic,batpak
+73-1-380-2,,73,1-380,"батпак, саз",саз,,,,,,,,CyrillTrans;Phonemic,saz
+73-1-390-1,,73,1-390,"водопад, сувдыкъ бийикаиктен таменге атылып агувы",водопад,,,,,,,,CyrillTrans;Phonemic,wodopad
+73-1-390-2,,73,1-390,"водопад, сувдыкъ бийикаиктен таменге атылып агувы",сувдыкъ бийикаиктен таменге атылып агувы,,,,,,,,CyrillTrans;Phonemic,suwdɨq biyikaikten tamenge atɨlɨp aguwɨ
+73-1-410-1,,73,1-410,"орман, агашлык",орман,,,,,,,,CyrillTrans;Phonemic,orman
+73-1-410-2,,73,1-410,"орман, агашлык",агашлык,,,,,,,,CyrillTrans;Phonemic,agašlɨk
+73-1-420-1,,73,1-420,терек,терек,,,,,,,,CyrillTrans;Phonemic,terek
+73-1-430-1,,73,1-430,агаш,агаш,,,,,,,,CyrillTrans;Phonemic,agaš
+73-1-440-1,,73,1-440,"тас, кайа",тас,,,,,,,,CyrillTrans;Phonemic,tas
+73-1-440-2,,73,1-440,"тас, кайа",кайа,,,,,,,,CyrillTrans;Phonemic,kaya
+73-1-450-1,,73,1-450,"ер сенъкилдев, ер козгалув",ер сенъкилдев,,,,,,,,CyrillTrans;Phonemic,yer seŋkildew
+73-1-450-2,,73,1-450,"ер сенъкилдев, ер козгалув",ер козгалув,,,,,,,,CyrillTrans;Phonemic,yer kozgaluw
+73-1-510-1,,73,1-510,коьк,коьк,,,,,,,,CyrillTrans;Phonemic,kök
+73-1-520-1,,73,1-520,куьн,куьн,,,,,,,,CyrillTrans;Phonemic,kün
+73-1-530-1,,73,1-530,ай,ай,,,,,,,,CyrillTrans;Phonemic,ay
+73-1-540-1,,73,1-540,йулдыз,йулдыз,,,,,,,,CyrillTrans;Phonemic,yuldɨz
+73-1-550-1,,73,1-550,"айындырык, йасын ок, йасын",айындырык,,,,,,,,CyrillTrans;Phonemic,ayɨndɨrɨk
+73-1-550-2,,73,1-550,"айындырык, йасын ок, йасын",йасын ок,,,,,,,,CyrillTrans;Phonemic,yasɨn ok
+73-1-550-3,,73,1-550,"айындырык, йасын ок, йасын",йасын,,,,,,,,CyrillTrans;Phonemic,yasɨn
+73-1-560-1,,73,1-560,коьк гуьрилдев,коьк гуьрилдев,,,,,,,,CyrillTrans;Phonemic,kök gürildew
+73-1-570-1,,73,1-570,"айындырык, йасын ок",айындырык,,,,,,,,CyrillTrans;Phonemic,ayɨndɨrɨk
+73-1-570-2,,73,1-570,"айындырык, йасын ок",йасын ок,,,,,,,,CyrillTrans;Phonemic,yasɨn ok
+73-1-580-1,,73,1-580,"боран, давел",боран,,,,,,,,CyrillTrans;Phonemic,boran
+73-1-580-2,,73,1-580,"боран, давел",давел,,,,,,,,CyrillTrans;Phonemic,dawel
+73-1-590-1,,73,1-590,курткашык,курткашык,,,,,,,,CyrillTrans;Phonemic,kurtkašɨk
+73-1-610-1,,73,1-610,"йарык, саьвле",йарык,,,,,,,,CyrillTrans;Phonemic,yarɨk
+73-1-610-2,,73,1-610,"йарык, саьвле",саьвле,,,,,,,,CyrillTrans;Phonemic,säwle
+73-1-620-1,,73,1-620,"туьн, каранъалык",туьн,,,,,,,,CyrillTrans;Phonemic,tün
+73-1-620-2,,73,1-620,"туьн, каранъалык",каранъалык,,,,,,,,CyrillTrans;Phonemic,karaŋalɨk
+73-1-630-1,,73,1-630,коьлетки,коьлетки,,,,,,,,CyrillTrans;Phonemic,köletki
+73-1-640-1,,73,1-640,шык,шык,,,,,,,,CyrillTrans;Phonemic,šɨk
+73-1-710-1,,73,1-710,ава,ава,,,,,,,,CyrillTrans;Phonemic,awa
+73-1-720-1,,73,1-720,ел,ел,,,,,,,,CyrillTrans;Phonemic,yel
+73-1-730-1,,73,1-730,булыт,булыт,,,,,,,,CyrillTrans;Phonemic,bulɨt
+73-1-740-1,,73,1-740,туман,туман,,,,,,,,CyrillTrans;Phonemic,tuman
+73-1-750-1,,73,1-750,йамгыр,йамгыр,,,,,,,,CyrillTrans;Phonemic,yamgɨr
+73-1-760-1,,73,1-760,кар,кар,,,,,,,,CyrillTrans;Phonemic,kar
+73-1-770-1,,73,1-770,"буз, бузлавык",буз,,,,,,,,CyrillTrans;Phonemic,buz
+73-1-770-2,,73,1-770,"буз, бузлавык",бузлавык,,,,,,,,CyrillTrans;Phonemic,buzlawɨk
+73-1-780-1,,73,1-780,куьи аьли,куьи аьли,,,,,,,,CyrillTrans;Phonemic,küi äli
+73-1-810-1,,73,1-810,от,от,,,,,,,,CyrillTrans;Phonemic,ot
+73-1-820-1,,73,1-820,йалын,йалын,,,,,,,,CyrillTrans;Phonemic,yalɨn
+73-1-830-1,,73,1-830,туьтин,туьтин,,,,,,,,CyrillTrans;Phonemic,tütin
+73-1-840-1,,73,1-840,куьл,куьл,,,,,,,,CyrillTrans;Phonemic,kül
+73-1-841-1,,73,1-841,кыздырылган коьмир,кыздырылган коьмир,,,,,,,,CyrillTrans;Phonemic,kɨzdɨrɨlgan kömir
+73-1-851-1,,73,1-851,"йагув, йакдырув",йагув,,,,,,,,CyrillTrans;Phonemic,yaguw
+73-1-851-2,,73,1-851,"йагув, йакдырув",йакдырув,,,,,,,,CyrillTrans;Phonemic,yakdɨruw
+73-1-852-1,,73,1-852,йагув,йагув,,,,,,,,CyrillTrans;Phonemic,yaguw
+73-1-860-1,,73,1-860,"йагув, тутандырув",йагув,,,,,,,,CyrillTrans;Phonemic,yaguw
+73-1-860-2,,73,1-860,"йагув, тутандырув",тутандырув,,,,,,,,CyrillTrans;Phonemic,tutandɨruw
+73-1-861-1,,73,1-861,"соьндируьв, тымдырув",соьндируьв,,,,,,,,CyrillTrans;Phonemic,söndirüw
+73-1-861-2,,73,1-861,"соьндируьв, тымдырув",тымдырув,,,,,,,,CyrillTrans;Phonemic,tɨmdɨruw
+73-1-870-1,,73,1-870,серник,серник,,,,,,,,CyrillTrans;Phonemic,sernik
+73-1-880-1,,73,1-880,агаш,агаш,,,,,,,,CyrillTrans;Phonemic,agaš
+73-1-890-1,,73,1-890,агаш коьмири,агаш коьмири,,,,,,,,CyrillTrans;Phonemic,agaš kömiri
+73-2-100-1,,73,2-100,"аьдем, киси, инсан",аьдем,,,,,,,,CyrillTrans;Phonemic,ädem
+73-2-100-2,,73,2-100,"аьдем, киси, инсан",киси,,,,,,,,CyrillTrans;Phonemic,kisi
+73-2-100-3,,73,2-100,"аьдем, киси, инсан",инсан,,,,,,,,CyrillTrans;Phonemic,insan
+73-2-210-1,,73,2-210,"эр киси, эркек",эр киси,,,,,,,,CyrillTrans;Phonemic,er kisi
+73-2-210-2,,73,2-210,"эр киси, эркек",эркек,,,,,,,,CyrillTrans;Phonemic,erkek
+73-2-220-1,,73,2-220,"хатын, пише",хатын,,,,,,,,CyrillTrans;Phonemic,xatɨn
+73-2-220-2,,73,2-220,"хатын, пише",пише,,,,,,,,CyrillTrans;Phonemic,piše
+73-2-230-1,,73,2-230,эркек,эркек,,,,,,,,CyrillTrans;Phonemic,erkek
+73-2-240-1,,73,2-240,ургашы,ургашы,,,,,,,,CyrillTrans;Phonemic,urgašɨ
+73-2-250-1,,73,2-250,"кеде, йас",кеде,,,,,,,,CyrillTrans;Phonemic,kede
+73-2-250-2,,73,2-250,"кеде, йас",йас,,,,,,,,CyrillTrans;Phonemic,yas
+73-2-251-1,,73,2-251,йас аьдем,йас аьдем,,,,,,,,CyrillTrans;Phonemic,yas ädem
+73-2-260-1,,73,2-260,"кыз, кызалак",кыз,,,,,,,,CyrillTrans;Phonemic,kɨz
+73-2-260-2,,73,2-260,"кыз, кызалак",кызалак,,,,,,,,CyrillTrans;Phonemic,kɨzalak
+73-2-261-1,,73,2-261,"кыз, еткен кыз",кыз,,,,,,,,CyrillTrans;Phonemic,kɨz
+73-2-261-2,,73,2-261,"кыз, еткен кыз",еткен кыз,,,,,,,,CyrillTrans;Phonemic,yetken kɨz
+73-2-270-1,,73,2-270,"бала, сабий",бала,,,,,,,,CyrillTrans;Phonemic,bala
+73-2-270-2,,73,2-270,"бала, сабий",сабий,,,,,,,,CyrillTrans;Phonemic,sabiy
+73-2-280-1,,73,2-280,"кишкей йас (кыз), бала",кишкей йас,,,,,,,,CyrillTrans;Phonemic,kiškey yas
+73-2-280-2,,73,2-280,"кишкей йас (кыз), бала",бала,,,,,,,,CyrillTrans;Phonemic,bala
+73-2-310-1,,73,2-310,"эр, бай, киев",эр,,,,,,,,CyrillTrans;Phonemic,er
+73-2-310-2,,73,2-310,"эр, бай, киев",бай,,,,,,,,CyrillTrans;Phonemic,bay
+73-2-310-3,,73,2-310,"эр, бай, киев",киев,,,,,,,,CyrillTrans;Phonemic,kiew
+73-2-320-1,,73,2-320,"хатын, пише",хатын,,,,,,,,CyrillTrans;Phonemic,xatɨn
+73-2-320-2,,73,2-320,"хатын, пише",пише,,,,,,,,CyrillTrans;Phonemic,piše
+73-2-330-1,,73,2-330,"хатын алув, эрге барув, байга (киевга) барув",хатын алув,,,,,,,,CyrillTrans;Phonemic,xatɨn aluw
+73-2-330-2,,73,2-330,"хатын алув, эрге барув, байга (киевга) барув",эрге барув,,,,,,,,CyrillTrans;Phonemic,erge baruw
+73-2-330-3,,73,2-330,"хатын алув, эрге барув, байга (киевга) барув",байга барув,,,,,,,,CyrillTrans;Phonemic,bayga baruw
+73-2-340-1,,73,2-340,"той, неке кыйув, уьйленуьв",той,,,,,,,,CyrillTrans;Phonemic,toy
+73-2-340-2,,73,2-340,"той, неке кыйув, уьйленуьв",неке кыйув,,,,,,,,CyrillTrans;Phonemic,neke kɨyuw
+73-2-340-3,,73,2-340,"той, неке кыйув, уьйленуьв",уьйленуьв,,,,,,,,CyrillTrans;Phonemic,üylenüw
+73-2-341-1,,73,2-341,айырылув,айырылув,,,,,,,,CyrillTrans;Phonemic,ayɨrɨluw
+73-2-350-1,,73,2-350,ата,ата,,,,,,,,CyrillTrans;Phonemic,ata
+73-2-360-1,,73,2-360,ана,ана,,,,,,,,CyrillTrans;Phonemic,ana
+73-2-370-1,,73,2-370,ата-ана,ата-ана,,,,,,,,CyrillTrans;Phonemic,ata-ana
+73-2-380-1,,73,2-380,"хатынлы, уьйленген",хатынлы,,,,,,,,CyrillTrans;Phonemic,xatɨnlɨ
+73-2-380-2,,73,2-380,"хатынлы, уьйленген",уьйленген,,,,,,,,CyrillTrans;Phonemic,üylengen
+73-2-390-1,,73,2-390,"байга барган, эрли киевге, барган",байга барган,,,,,,,,CyrillTrans;Phonemic,bayga bargan
+73-2-390-2,,73,2-390,"байга барган, эрли киевге, барган",эрли киевге,,,,,,,,CyrillTrans;Phonemic,erli kiewge
+73-2-390-3,,73,2-390,"байга барган, эрли киевге, барган",барган,,,,,,,,CyrillTrans;Phonemic,bargan
+73-2-410-1,,73,2-410,"йас, ул, кеде",йас,,,,,,,,CyrillTrans;Phonemic,yas
+73-2-410-2,,73,2-410,"йас, ул, кеде",ул,,,,,,,,CyrillTrans;Phonemic,ul
+73-2-410-3,,73,2-410,"йас, ул, кеде",кеде,,,,,,,,CyrillTrans;Phonemic,kede
+73-2-420-1,,73,2-420,кыз,кыз,,,,,,,,CyrillTrans;Phonemic,kɨz
+73-2-430-1,,73,2-430,"балалар, тувгаилар",балалар,,,,,,,,CyrillTrans;Phonemic,balalar
+73-2-430-2,,73,2-430,"балалар, тувгаилар",тувгаилар,,,,,,,,CyrillTrans;Phonemic,tuwgailar
+73-2-440-1,,73,2-440,"кардаш, ага, ини, аданас",кардаш,,,,,,,,CyrillTrans;Phonemic,kardaš
+73-2-440-2,,73,2-440,"кардаш, ага, ини, аданас",ага,,,,,,,,CyrillTrans;Phonemic,aga
+73-2-440-3,,73,2-440,"кардаш, ага, ини, аданас",ини,,,,,,,,CyrillTrans;Phonemic,ini
+73-2-440-4,,73,2-440,"кардаш, ага, ини, аданас",аданас,,,,,,,,CyrillTrans;Phonemic,adanas
+73-2-444-1,,73,2-444,ага,ага,,,,,,,,CyrillTrans;Phonemic,aga
+73-2-445-1,,73,2-445,ини,ини,,,,,,,,CyrillTrans;Phonemic,ini
+73-2-450-1,,73,2-450,"синъли, аьптей, карындас",синъли,,,,,,,,CyrillTrans;Phonemic,siŋli
+73-2-450-2,,73,2-450,"синъли, аьптей, карындас",аьптей,,,,,,,,CyrillTrans;Phonemic,äptey
+73-2-450-3,,73,2-450,"синъли, аьптей, карындас",карындас,,,,,,,,CyrillTrans;Phonemic,karɨndas
+73-2-454-1,,73,2-454,аьптей,аьптей,,,,,,,,CyrillTrans;Phonemic,äptey
+73-2-455-1,,73,2-455,"карындас, синъли",карындас,,,,,,,,CyrillTrans;Phonemic,karɨndas
+73-2-455-2,,73,2-455,"карындас, синъли",синъли,,,,,,,,CyrillTrans;Phonemic,siŋli
+73-2-456-1,,73,2-456,"аданас, карындас",аданас,,,,,,,,CyrillTrans;Phonemic,adanas
+73-2-456-2,,73,2-456,"аданас, карындас",карындас,,,,,,,,CyrillTrans;Phonemic,karɨndas
+73-2-458-1,,73,2-458,эгизлер,эгизлер,,,,,,,,CyrillTrans;Phonemic,egizler
+73-2-460-1,,73,2-460,атай,атай,,,,,,,,CyrillTrans;Phonemic,atay
+73-2-461-1,,73,2-461,карт,карт,,,,,,,,CyrillTrans;Phonemic,kart
+73-2-470-1,,73,2-470,"анай, эней, тетей",анай,,,,,,,,CyrillTrans;Phonemic,anay
+73-2-470-2,,73,2-470,"анай, эней, тетей",эней,,,,,,,,CyrillTrans;Phonemic,eney
+73-2-470-3,,73,2-470,"анай, эней, тетей",тетей,,,,,,,,CyrillTrans;Phonemic,tetey
+73-2-471-1,,73,2-471,куртка,куртка,,,,,,,,CyrillTrans;Phonemic,kurtka
+73-2-480-1,,73,2-480,"унык, йиен",унык,,,,,,,,CyrillTrans;Phonemic,unɨk
+73-2-480-2,,73,2-480,"унык, йиен",йиен,,,,,,,,CyrillTrans;Phonemic,yiyen
+73-2-490-1,,73,2-490,йиен кыз,йиен кыз,,,,,,,,CyrillTrans;Phonemic,yiyen kɨz
+73-2-510-1,,73,2-510,"ага, акай, кардаш",ага,,,,,,,,CyrillTrans;Phonemic,aga
+73-2-510-2,,73,2-510,"ага, акай, кардаш",акай,,,,,,,,CyrillTrans;Phonemic,akay
+73-2-510-3,,73,2-510,"ага, акай, кардаш",кардаш,,,,,,,,CyrillTrans;Phonemic,kardaš
+73-2-511-1,,73,2-511,нагаш акай,нагаш акай,,,,,,,,CyrillTrans;Phonemic,nagaš akay
+73-2-512-1,,73,2-512,акай,акай,,,,,,,,CyrillTrans;Phonemic,akay
+73-2-520-1,,73,2-520,"аьптей, абай",аьптей,,,,,,,,CyrillTrans;Phonemic,äptey
+73-2-520-2,,73,2-520,"аьптей, абай",абай,,,,,,,,CyrillTrans;Phonemic,abay
+73-2-521-1,,73,2-521,"аьптей, абай",аьптей,,,,,,,,CyrillTrans;Phonemic,äptey
+73-2-521-2,,73,2-521,"аьптей, абай",абай,,,,,,,,CyrillTrans;Phonemic,abay
+73-2-522-1,,73,2-522,абай,абай,,,,,,,,CyrillTrans;Phonemic,abay
+73-2-530-1,,73,2-530,йиен,йиен,,,,,,,,CyrillTrans;Phonemic,yiyen
+73-2-540-1,,73,2-540,йиен (кыз),йиен,,,,,,,,CyrillTrans;Phonemic,yiyen
+73-2-550-1,,73,2-550,"аркалдас, боьле",аркалдас,,,,,,,,CyrillTrans;Phonemic,arkaldas
+73-2-550-2,,73,2-550,"аркалдас, боьле",боьле,,,,,,,,CyrillTrans;Phonemic,böle
+73-2-560-1,,73,2-560,"тукым, ата-бабалар",тукым,,,,,,,,CyrillTrans;Phonemic,tukɨm
+73-2-560-2,,73,2-560,"тукым, ата-бабалар",ата-бабалар,,,,,,,,CyrillTrans;Phonemic,ata-babalar
+73-2-570-1,,73,2-570,"тукым, тувганлар",тукым,,,,,,,,CyrillTrans;Phonemic,tukɨm
+73-2-570-2,,73,2-570,"тукым, тувганлар",тувганлар,,,,,,,,CyrillTrans;Phonemic,tuwganlar
+73-2-610-1,,73,2-610,кайната,кайната,,,,,,,,CyrillTrans;Phonemic,kaynata
+73-2-611-1,,73,2-611,кайната,кайната,,,,,,,,CyrillTrans;Phonemic,kaynata
+73-2-620-1,,73,2-620,кайнана,кайнана,,,,,,,,CyrillTrans;Phonemic,kaynana
+73-2-621-1,,73,2-621,кайнана,кайнана,,,,,,,,CyrillTrans;Phonemic,kaynana
+73-2-630-1,,73,2-630,киев,киев,,,,,,,,CyrillTrans;Phonemic,kiew
+73-2-631-1,,73,2-631,киев,киев,,,,,,,,CyrillTrans;Phonemic,kiew
+73-2-640-1,,73,2-640,келин,келин,,,,,,,,CyrillTrans;Phonemic,kelin
+73-2-641-1,,73,2-641,"келин, енъгей, кешек",келин,,,,,,,,CyrillTrans;Phonemic,kelin
+73-2-641-2,,73,2-641,"келин, енъгей, кешек",енъгей,,,,,,,,CyrillTrans;Phonemic,yeŋgey
+73-2-641-3,,73,2-641,"келин, енъгей, кешек",кешек,,,,,,,,CyrillTrans;Phonemic,kešek
+73-2-710-1,,73,2-710,оьгей ата,оьгей ата,,,,,,,,CyrillTrans;Phonemic,ögey ata
+73-2-720-1,,73,2-720,оьгей ана,оьгей ана,,,,,,,,CyrillTrans;Phonemic,ögey ana
+73-2-730-1,,73,2-730,"оьгей увыл, оьгей кеде",оьгей увыл,,,,,,,,CyrillTrans;Phonemic,ögey uwɨl
+73-2-730-2,,73,2-730,"оьгей увыл, оьгей кеде",оьгей кеде,,,,,,,,CyrillTrans;Phonemic,ögey kede
+73-2-740-1,,73,2-740,"оьксиз кыз, оьгей кыз",оьксиз кыз,,,,,,,,CyrillTrans;Phonemic,öksiz kɨz
+73-2-740-2,,73,2-740,"оьксиз кыз, оьгей кыз",оьгей кыз,,,,,,,,CyrillTrans;Phonemic,ögey kɨz
+73-2-750-1,,73,2-750,"оьксиз, етим",оьксиз,,,,,,,,CyrillTrans;Phonemic,öksiz
+73-2-750-2,,73,2-750,"оьксиз, етим",етим,,,,,,,,CyrillTrans;Phonemic,yetim
+73-2-760-1,,73,2-760,"тул, хатын",тул,,,,,,,,CyrillTrans;Phonemic,tul
+73-2-760-2,,73,2-760,"тул, хатын",хатын,,,,,,,,CyrillTrans;Phonemic,xatɨn
+73-2-770-1,,73,2-770,тул эркек,тул эркек,,,,,,,,CyrillTrans;Phonemic,tul erkek
+73-2-810-1,,73,2-810,къардашлар,къардашлар,,,,,,,,CyrillTrans;Phonemic,qardašlar
+73-2-820-1,,73,2-820,аьел,аьел,,,,,,,,CyrillTrans;Phonemic,äyel
+73-2-910-1,,73,2-910,мен,мен,,,,,,,,CyrillTrans;Phonemic,men
+73-2-920-1,,73,2-920,"сен, сиз",сен,,,,,,,,CyrillTrans;Phonemic,sen
+73-2-920-2,,73,2-920,"сен, сиз",сиз,,,,,,,,CyrillTrans;Phonemic,siz
+73-2-930-1,,73,2-930,ол,ол,,,,,,,,CyrillTrans;Phonemic,ol
+73-2-940-1,,73,2-940,биз,биз,,,,,,,,CyrillTrans;Phonemic,biz
+73-2-950-1,,73,2-950,сиз,сиз,,,,,,,,CyrillTrans;Phonemic,siz
+73-2-960-1,,73,2-960,олар,олар,,,,,,,,CyrillTrans;Phonemic,olar
+73-3-110-1,,73,3-110,айван,айван,,,,,,,,CyrillTrans;Phonemic,aywan
+73-3-120-1,,73,3-120,эркек,эркек,,,,,,,,CyrillTrans;Phonemic,erkek
+73-3-130-1,,73,3-130,пише,пише,,,,,,,,CyrillTrans;Phonemic,piše
+73-3-150-1,,73,3-150,"уьй айваны, тувар, мал",уьй айваны,,,,,,,,CyrillTrans;Phonemic,üy aywanɨ
+73-3-150-2,,73,3-150,"уьй айваны, тувар, мал",тувар,,,,,,,,CyrillTrans;Phonemic,tuwar
+73-3-150-3,,73,3-150,"уьй айваны, тувар, мал",мал,,,,,,,,CyrillTrans;Phonemic,mal
+73-3-160-1,,73,3-160,"йайлав, шоьллик, кыслав, оьрис",йайлав,,,,,,,,CyrillTrans;Phonemic,yaylaw
+73-3-160-2,,73,3-160,"йайлав, шоьллик, кыслав, оьрис",шоьллик,,,,,,,,CyrillTrans;Phonemic,šöllik
+73-3-160-3,,73,3-160,"йайлав, шоьллик, кыслав, оьрис",кыслав,,,,,,,,CyrillTrans;Phonemic,kɨslaw
+73-3-160-4,,73,3-160,"йайлав, шоьллик, кыслав, оьрис",оьрис,,,,,,,,CyrillTrans;Phonemic,öris
+73-3-180-1,,73,3-180,койшы,койшы,,,,,,,,CyrillTrans;Phonemic,koyšɨ
+73-3-190-1,,73,3-190,"ат азбары, аран, кора, шир, шетен, коьтерме",ат азбары,,,,,,,,CyrillTrans;Phonemic,at azbarɨ
+73-3-190-2,,73,3-190,"ат азбары, аран, кора, шир, шетен, коьтерме",аран,,,,,,,,CyrillTrans;Phonemic,aran
+73-3-190-3,,73,3-190,"ат азбары, аран, кора, шир, шетен, коьтерме",кора,,,,,,,,CyrillTrans;Phonemic,kora
+73-3-190-4,,73,3-190,"ат азбары, аран, кора, шир, шетен, коьтерме",шир,,,,,,,,CyrillTrans;Phonemic,šir
+73-3-190-5,,73,3-190,"ат азбары, аран, кора, шир, шетен, коьтерме",шетен,,,,,,,,CyrillTrans;Phonemic,šeten
+73-3-190-6,,73,3-190,"ат азбары, аран, кора, шир, шетен, коьтерме",коьтерме,,,,,,,,CyrillTrans;Phonemic,köterme
+73-3-200-1,,73,3-200,"тувар, мал",тувар,,,,,,,,CyrillTrans;Phonemic,tuwar
+73-3-200-2,,73,3-200,"тувар, мал",мал,,,,,,,,CyrillTrans;Phonemic,mal
+73-3-210-1,,73,3-210,оьгиз,оьгиз,,,,,,,,CyrillTrans;Phonemic,ögiz
+73-3-220-1,,73,3-220,оьгиз,оьгиз,,,,,,,,CyrillTrans;Phonemic,ögiz
+73-3-230-1,,73,3-230,сыйыр,сыйыр,,,,,,,,CyrillTrans;Phonemic,sɨyɨr
+73-3-240-1,,73,3-240,бузав,бузав,,,,,,,,CyrillTrans;Phonemic,buzaw
+73-3-250-1,,73,3-250,"кой, кошкар",кой,,,,,,,,CyrillTrans;Phonemic,koy
+73-3-250-2,,73,3-250,"кой, кошкар",кошкар,,,,,,,,CyrillTrans;Phonemic,koškar
+73-3-260-1,,73,3-260,кошкар,кошкар,,,,,,,,CyrillTrans;Phonemic,koškar
+73-3-280-1,,73,3-280,кой,кой,,,,,,,,CyrillTrans;Phonemic,koy
+73-3-290-1,,73,3-290,козы,козы,,,,,,,,CyrillTrans;Phonemic,kozɨ
+73-3-320-1,,73,3-320,"кабан, донъыз",кабан,,,,,,,,CyrillTrans;Phonemic,kaban
+73-3-320-2,,73,3-320,"кабан, донъыз",донъыз,,,,,,,,CyrillTrans;Phonemic,doŋɨz
+73-3-340-1,,73,3-340,"донъыз, шошка",донъыз,,,,,,,,CyrillTrans;Phonemic,doŋɨz
+73-3-340-2,,73,3-340,"донъыз, шошка",шошка,,,,,,,,CyrillTrans;Phonemic,šoška
+73-3-350-1,,73,3-350,донъыз,донъыз,,,,,,,,CyrillTrans;Phonemic,doŋɨz
+73-3-360-1,,73,3-360,эшки,эшки,,,,,,,,CyrillTrans;Phonemic,eški
+73-3-370-1,,73,3-370,теке,теке,,,,,,,,CyrillTrans;Phonemic,teke
+73-3-380-1,,73,3-380,улак,улак,,,,,,,,CyrillTrans;Phonemic,ulak
+73-3-410-1,,73,3-410,ат,ат,,,,,,,,CyrillTrans;Phonemic,at
+73-3-420-1,,73,3-420,айгыр,айгыр,,,,,,,,CyrillTrans;Phonemic,aygɨr
+73-3-440-1,,73,3-440,"байтар, бие",байтар,,,,,,,,CyrillTrans;Phonemic,baytar
+73-3-440-2,,73,3-440,"байтар, бие",бие,,,,,,,,CyrillTrans;Phonemic,biye
+73-3-450-1,,73,3-450,"тай, кулын",тай,,,,,,,,CyrillTrans;Phonemic,tay
+73-3-450-2,,73,3-450,"тай, кулын",кулын,,,,,,,,CyrillTrans;Phonemic,kulɨn
+73-3-460-1,,73,3-460,эшек,эшек,,,,,,,,CyrillTrans;Phonemic,ešek
+73-3-470-1,,73,3-470,катыр,катыр,,,,,,,,CyrillTrans;Phonemic,katɨr
+73-3-500-1,,73,3-500,уьй кус,уьй кус,,,,,,,,CyrillTrans;Phonemic,üy kus
+73-3-520-1,,73,3-520,кораз,кораз,,,,,,,,CyrillTrans;Phonemic,koraz
+73-3-540-1,,73,3-540,тавык,тавык,,,,,,,,CyrillTrans;Phonemic,tawɨk
+73-3-550-1,,73,3-550,шипий,шипий,,,,,,,,CyrillTrans;Phonemic,šipiy
+73-3-560-1,,73,3-560,каз,каз,,,,,,,,CyrillTrans;Phonemic,kaz
+73-3-570-1,,73,3-570,баьпий,баьпий,,,,,,,,CyrillTrans;Phonemic,bäpiy
+73-3-580-1,,73,3-580,уйа,уйа,,,,,,,,CyrillTrans;Phonemic,uya
+73-3-581-1,,73,3-581,кус,кус,,,,,,,,CyrillTrans;Phonemic,kus
+73-3-582-1,,73,3-582,чайка,чайка,,,,,,,,CyrillTrans;Phonemic,čayka
+73-3-583-1,,73,3-583,гьажилакълакъ,гьажилакълакъ,,,,,,,,CyrillTrans;Phonemic,gazilaqlaq
+73-3-584-1,,73,3-584,карагус,карагус,,,,,,,,CyrillTrans;Phonemic,karagus
+73-3-585-1,,73,3-585,"лашын, каршыга кус",лашын,,,,,,,,CyrillTrans;Phonemic,lašɨn
+73-3-585-2,,73,3-585,"лашын, каршыга кус",каршыга кус,,,,,,,,CyrillTrans;Phonemic,karšɨga kus
+73-3-586-1,,73,3-586,карагус,карагус,,,,,,,,CyrillTrans;Phonemic,karagus
+73-3-591-1,,73,3-591,ерганат,ерганат,,,,,,,,CyrillTrans;Phonemic,yerganat
+73-3-592-1,,73,3-592,попугай,попугай,,,,,,,,CyrillTrans;Phonemic,popugay
+73-3-593-1,,73,3-593,карга,карга,,,,,,,,CyrillTrans;Phonemic,karga
+73-3-594-1,,73,3-594,коьгершин,коьгершин,,,,,,,,CyrillTrans;Phonemic,kögeršin
+73-3-596-1,,73,3-596,"обыргус, епалак, манъкагус",обыргус,,,,,,,,CyrillTrans;Phonemic,obɨrgus
+73-3-596-2,,73,3-596,"обыргус, епалак, манъкагус",епалак,,,,,,,,CyrillTrans;Phonemic,yepalak
+73-3-596-3,,73,3-596,"обыргус, епалак, манъкагус",манъкагус,,,,,,,,CyrillTrans;Phonemic,maŋkagus
+73-3-610-1,,73,3-610,ийт,ийт,,,,,,,,CyrillTrans;Phonemic,iyt
+73-3-614-1,,73,3-614,"койан, тавшан",койан,,,,,,,,CyrillTrans;Phonemic,koyan
+73-3-614-2,,73,3-614,"койан, тавшан",тавшан,,,,,,,,CyrillTrans;Phonemic,tawšan
+73-3-620-1,,73,3-620,мысык,мысык,,,,,,,,CyrillTrans;Phonemic,mɨsɨk
+73-3-630-1,,73,3-630,"шышкан, крыса, туье шышкан",шышкан,,,,,,,,CyrillTrans;Phonemic,šɨškan
+73-3-630-2,,73,3-630,"шышкан, крыса, туье шышкан",крыса,,,,,,,,CyrillTrans;Phonemic,krɨsa
+73-3-630-3,,73,3-630,"шышкан, крыса, туье шышкан",туье шышкан,,,,,,,,CyrillTrans;Phonemic,tüye šɨškan
+73-3-650-1,,73,3-650,"балык, шабак",балык,,,,,,,,CyrillTrans;Phonemic,balɨk
+73-3-650-2,,73,3-650,"балык, шабак",шабак,,,,,,,,CyrillTrans;Phonemic,šabak
+73-3-652-1,,73,3-652,балыктынъ канаты,балыктынъ канаты,,,,,,,,CyrillTrans;Phonemic,balɨktɨŋ kanatɨ
+73-3-653-1,,73,3-653,балыктынъ кабыгы,балыктынъ кабыгы,,,,,,,,CyrillTrans;Phonemic,balɨktɨŋ kabɨgɨ
+73-3-654-1,,73,3-654,"сагак, йыранак, былыктыкъ тыныс алатаган органы",сагак,,,,,,,,CyrillTrans;Phonemic,sagak
+73-3-654-2,,73,3-654,"сагак, йыранак, былыктыкъ тыныс алатаган органы",йыранак,,,,,,,,CyrillTrans;Phonemic,yɨranak
+73-3-654-3,,73,3-654,"сагак, йыранак, былыктыкъ тыныс алатаган органы",былыктыкъ тыныс алатаган органы,,,,,,,,CyrillTrans;Phonemic,bɨlɨktɨq tɨnɨs alatagan organɨ
+73-3-655-1,,73,3-655,"ракушка, бакашайак",ракушка,,,,,,,,CyrillTrans;Phonemic,rakuška
+73-3-655-2,,73,3-655,"ракушка, бакашайак",бакашайак,,,,,,,,CyrillTrans;Phonemic,bakašayak
+73-3-661-1,,73,3-661,"акулы, йырткыш балык",акулы,,,,,,,,CyrillTrans;Phonemic,akulɨ
+73-3-661-2,,73,3-661,"акулы, йырткыш балык",йырткыш балык,,,,,,,,CyrillTrans;Phonemic,yɨrtkɨš balɨk
+73-3-662-1,,73,3-662,дельфин,дельфин,,,,,,,,CyrillTrans;Phonemic,delʲfin
+73-3-663-1,,73,3-663,кит,кит,,,,,,,,CyrillTrans;Phonemic,kit
+73-3-665-1,,73,3-665,йылан балык,йылан балык,,,,,,,,CyrillTrans;Phonemic,yɨlan balɨk
+73-3-710-1,,73,3-710,боьри,боьри,,,,,,,,CyrillTrans;Phonemic,böri
+73-3-720-1,,73,3-720,арслан,арслан,,,,,,,,CyrillTrans;Phonemic,arslan
+73-3-730-1,,73,3-730,айув,айув,,,,,,,,CyrillTrans;Phonemic,ayuw
+73-3-740-1,,73,3-740,туьлки,туьлки,,,,,,,,CyrillTrans;Phonemic,tülki
+73-3-750-1,,73,3-750,"керекшин, бугы, лань",керекшин,,,,,,,,CyrillTrans;Phonemic,kerekšin
+73-3-750-2,,73,3-750,"керекшин, бугы, лань",бугы,,,,,,,,CyrillTrans;Phonemic,bugɨ
+73-3-750-3,,73,3-750,"керекшин, бугы, лань",лань,,,,,,,,CyrillTrans;Phonemic,lanʲ
+73-3-760-1,,73,3-760,маймыл,маймыл,,,,,,,,CyrillTrans;Phonemic,maymɨl
+73-3-770-1,,73,3-770,"пил, бил",пил,,,,,,,,CyrillTrans;Phonemic,pil
+73-3-770-2,,73,3-770,"пил, бил",бил,,,,,,,,CyrillTrans;Phonemic,bil
+73-3-780-1,,73,3-780,туье,туье,,,,,,,,CyrillTrans;Phonemic,tüye
+73-3-810-1,,73,3-810,курткумырска йануварлар,курткумырска йануварлар,,,,,,,,CyrillTrans;Phonemic,kurtkumɨrska yanuwarlar
+73-3-811-1,,73,3-811,бийт,бийт,,,,,,,,CyrillTrans;Phonemic,biyt
+73-3-812-1,,73,3-812,сирке,сирке,,,,,,,,CyrillTrans;Phonemic,sirke
+73-3-813-1,,73,3-813,буьрше,буьрше,,,,,,,,CyrillTrans;Phonemic,bürše
+73-3-814-1,,73,3-814,кыркайак,кыркайак,,,,,,,,CyrillTrans;Phonemic,kɨrkayak
+73-3-815-1,,73,3-815,арпелек,арпелек,,,,,,,,CyrillTrans;Phonemic,arpelek
+73-3-816-1,,73,3-816,таракан,таракан,,,,,,,,CyrillTrans;Phonemic,tarakan
+73-3-817-1,,73,3-817,кумырска,кумырска,,,,,,,,CyrillTrans;Phonemic,kumɨrska
+73-3-818-1,,73,3-818,"бий, оьрмекши",бий,,,,,,,,CyrillTrans;Phonemic,biy
+73-3-818-2,,73,3-818,"бий, оьрмекши",оьрмекши,,,,,,,,CyrillTrans;Phonemic,örmekši
+73-3-819-1,,73,3-819,"бий шымылдыгы, шатыр",бий шымылдыгы,,,,,,,,CyrillTrans;Phonemic,biy šɨmɨldɨgɨ
+73-3-819-2,,73,3-819,"бий шымылдыгы, шатыр",шатыр,,,,,,,,CyrillTrans;Phonemic,šatɨr
+73-3-820-1,,73,3-820,балшыбын,балшыбын,,,,,,,,CyrillTrans;Phonemic,balšɨbɨn
+73-3-821-1,,73,3-821,"балавыз, кавыз",балавыз,,,,,,,,CyrillTrans;Phonemic,balawɨz
+73-3-821-2,,73,3-821,"балавыз, кавыз",кавыз,,,,,,,,CyrillTrans;Phonemic,kawɨz
+73-3-822-1,,73,3-822,"балшыбын уйа, бал шетен",балшыбын уйа,,,,,,,,CyrillTrans;Phonemic,balšɨbɨn uya
+73-3-822-2,,73,3-822,"балшыбын уйа, бал шетен",бал шетен,,,,,,,,CyrillTrans;Phonemic,bal šeten
+73-3-823-1,,73,3-823,сона,сона,,,,,,,,CyrillTrans;Phonemic,sona
+73-3-830-1,,73,3-830,шыбын,шыбын,,,,,,,,CyrillTrans;Phonemic,šɨbɨn
+73-3-831-1,,73,3-831,"ширкей, сокыр шыбын",ширкей,,,,,,,,CyrillTrans;Phonemic,širkey
+73-3-831-2,,73,3-831,"ширкей, сокыр шыбын",сокыр шыбын,,,,,,,,CyrillTrans;Phonemic,sokɨr šɨbɨn
+73-3-832-1,,73,3-832,"ширкей, сокыр шыбын",ширкей,,,,,,,,CyrillTrans;Phonemic,širkey
+73-3-832-2,,73,3-832,"ширкей, сокыр шыбын",сокыр шыбын,,,,,,,,CyrillTrans;Phonemic,sokɨr šɨbɨn
+73-3-840-1,,73,3-840,курт,курт,,,,,,,,CyrillTrans;Phonemic,kurt
+73-3-850-1,,73,3-850,йылан,йылан,,,,,,,,CyrillTrans;Phonemic,yɨlan
+73-3-910-1,,73,3-910,йарык беретаган курт,йарык беретаган курт,,,,,,,,CyrillTrans;Phonemic,yarɨk beretagan kurt
+73-3-920-1,,73,3-920,куьпелек,куьпелек,,,,,,,,CyrillTrans;Phonemic,küpelek
+73-3-930-1,,73,3-930,шегертки,шегертки,,,,,,,,CyrillTrans;Phonemic,šegertki
+73-3-940-1,,73,3-940,ылув,ылув,,,,,,,,CyrillTrans;Phonemic,ɨluw
+73-3-950-1,,73,3-950,бака,бака,,,,,,,,CyrillTrans;Phonemic,baka
+73-3-960-1,,73,3-960,"кесертки, шегертки",кесертки,,,,,,,,CyrillTrans;Phonemic,kesertki
+73-3-960-2,,73,3-960,"кесертки, шегертки",шегертки,,,,,,,,CyrillTrans;Phonemic,šegertki
+73-3-970-1,,73,3-970,крокодил,крокодил,,,,,,,,CyrillTrans;Phonemic,krokodil
+73-3-980-1,,73,3-980,тасбака,тасбака,,,,,,,,CyrillTrans;Phonemic,tasbaka
+73-4-110-1,,73,4-110,"каркыра, кевде",каркыра,,,,,,,,CyrillTrans;Phonemic,karkɨra
+73-4-110-2,,73,4-110,"каркыра, кевде",кевде,,,,,,,,CyrillTrans;Phonemic,kewde
+73-4-120-1,,73,4-120,"тери, коьн",тери,,,,,,,,CyrillTrans;Phonemic,teri
+73-4-120-2,,73,4-120,"тери, коьн",коьн,,,,,,,,CyrillTrans;Phonemic,kön
+73-4-130-1,,73,4-130,каркыра,каркыра,,,,,,,,CyrillTrans;Phonemic,karkɨra
+73-4-140-1,,73,4-140,шаш,шаш,,,,,,,,CyrillTrans;Phonemic,šaš
+73-4-142-1,,73,4-142,сакал,сакал,,,,,,,,CyrillTrans;Phonemic,sakal
+73-4-144-1,,73,4-144,туьк,туьк,,,,,,,,CyrillTrans;Phonemic,tük
+73-4-145-1,,73,4-145,туьк,туьк,,,,,,,,CyrillTrans;Phonemic,tük
+73-4-146-1,,73,4-146,кайызгак,кайызгак,,,,,,,,CyrillTrans;Phonemic,kayɨzgak
+73-4-150-1,,73,4-150,кан,кан,,,,,,,,CyrillTrans;Phonemic,kan
+73-4-151-1,,73,4-151,кан тамыр,кан тамыр,,,,,,,,CyrillTrans;Phonemic,kan tamɨr
+73-4-160-1,,73,4-160,суьек,суьек,,,,,,,,CyrillTrans;Phonemic,süyek
+73-4-162-1,,73,4-162,куйрык,куйрык,,,,,,,,CyrillTrans;Phonemic,kuyrɨk
+73-4-170-1,,73,4-170,муьйиз,муьйиз,,,,,,,,CyrillTrans;Phonemic,müyiz
+73-4-180-1,,73,4-180,куйрык,куйрык,,,,,,,,CyrillTrans;Phonemic,kuyrɨk
+73-4-190-1,,73,4-190,"сырт, арка",сырт,,,,,,,,CyrillTrans;Phonemic,sɨrt
+73-4-190-2,,73,4-190,"сырт, арка",арка,,,,,,,,CyrillTrans;Phonemic,arka
+73-4-191-1,,73,4-191,"арка адек, омыртка",арка адек,,,,,,,,CyrillTrans;Phonemic,arka adek
+73-4-191-2,,73,4-191,"арка адек, омыртка",омыртка,,,,,,,,CyrillTrans;Phonemic,omɨrtka
+73-4-200-1,,73,4-200,бас,бас,,,,,,,,CyrillTrans;Phonemic,bas
+73-4-201-1,,73,4-201,шеке,шеке,,,,,,,,CyrillTrans;Phonemic,šeke
+73-4-202-1,,73,4-202,"бас суьек, така",бас суьек,,,,,,,,CyrillTrans;Phonemic,bas süyek
+73-4-202-2,,73,4-202,"бас суьек, така",така,,,,,,,,CyrillTrans;Phonemic,taka
+73-4-203-1,,73,4-203,мый,мый,,,,,,,,CyrillTrans;Phonemic,mɨy
+73-4-204-1,,73,4-204,"йуз, шырай, сытат, бет",йуз,,,,,,,,CyrillTrans;Phonemic,yuz
+73-4-204-2,,73,4-204,"йуз, шырай, сытат, бет",шырай,,,,,,,,CyrillTrans;Phonemic,šɨray
+73-4-204-3,,73,4-204,"йуз, шырай, сытат, бет",сытат,,,,,,,,CyrillTrans;Phonemic,sɨtat
+73-4-204-4,,73,4-204,"йуз, шырай, сытат, бет",бет,,,,,,,,CyrillTrans;Phonemic,bet
+73-4-205-1,,73,4-205,манълай,манълай,,,,,,,,CyrillTrans;Phonemic,maŋlay
+73-4-207-1,,73,4-207,"шеке, йак",шеке,,,,,,,,CyrillTrans;Phonemic,šeke
+73-4-207-2,,73,4-207,"шеке, йак",йак,,,,,,,,CyrillTrans;Phonemic,yak
+73-4-208-1,,73,4-208,"ек, бет",ек,,,,,,,,CyrillTrans;Phonemic,yek
+73-4-208-2,,73,4-208,"ек, бет",бет,,,,,,,,CyrillTrans;Phonemic,bet
+73-4-209-1,,73,4-209,иек,иек,,,,,,,,CyrillTrans;Phonemic,iyek
+73-4-210-1,,73,4-210,коьз,коьз,,,,,,,,CyrillTrans;Phonemic,köz
+73-4-212-1,,73,4-212,кас,кас,,,,,,,,CyrillTrans;Phonemic,kas
+73-4-213-1,,73,4-213,коьз кабак,коьз кабак,,,,,,,,CyrillTrans;Phonemic,köz kabak
+73-4-214-1,,73,4-214,кирпик,кирпик,,,,,,,,CyrillTrans;Phonemic,kirpik
+73-4-215-1,,73,4-215,"коьзди кысув, коьзди йымув",коьзди кысув,,,,,,,,CyrillTrans;Phonemic,közdi kɨsuw
+73-4-215-2,,73,4-215,"коьзди кысув, коьзди йымув",коьзди йымув,,,,,,,,CyrillTrans;Phonemic,közdi yɨmuw
+73-4-220-1,,73,4-220,кулак,кулак,,,,,,,,CyrillTrans;Phonemic,kulak
+73-4-221-1,,73,4-221,кулак туьби,кулак туьби,,,,,,,,CyrillTrans;Phonemic,kulak tübi
+73-4-222-1,,73,4-222,кулак куькирт,кулак куькирт,,,,,,,,CyrillTrans;Phonemic,kulak kükirt
+73-4-230-1,,73,4-230,бурын,бурын,,,,,,,,CyrillTrans;Phonemic,burɨn
+73-4-231-1,,73,4-231,танав,танав,,,,,,,,CyrillTrans;Phonemic,tanaw
+73-4-232-1,,73,4-232,"сыбас, лайла, бурынпок, симирик",сыбас,,,,,,,,CyrillTrans;Phonemic,sɨbas
+73-4-232-2,,73,4-232,"сыбас, лайла, бурынпок, симирик",лайла,,,,,,,,CyrillTrans;Phonemic,layla
+73-4-232-3,,73,4-232,"сыбас, лайла, бурынпок, симирик",бурынпок,,,,,,,,CyrillTrans;Phonemic,burɨnpok
+73-4-232-4,,73,4-232,"сыбас, лайла, бурынпок, симирик",симирик,,,,,,,,CyrillTrans;Phonemic,simirik
+73-4-240-1,,73,4-240,авыз,авыз,,,,,,,,CyrillTrans;Phonemic,awɨz
+73-4-241-1,,73,4-241,бурын,бурын,,,,,,,,CyrillTrans;Phonemic,burɨn
+73-4-250-1,,73,4-250,эрин,эрин,,,,,,,,CyrillTrans;Phonemic,erin
+73-4-260-1,,73,4-260,тил,тил,,,,,,,,CyrillTrans;Phonemic,til
+73-4-270-1,,73,4-270,тис,тис,,,,,,,,CyrillTrans;Phonemic,tis
+73-4-271-1,,73,4-271,тис эти,тис эти,,,,,,,,CyrillTrans;Phonemic,tis eti
+73-4-272-1,,73,4-272,азув тис,азув тис,,,,,,,,CyrillTrans;Phonemic,azuw tis
+73-4-280-1,,73,4-280,мойын,мойын,,,,,,,,CyrillTrans;Phonemic,moyɨn
+73-4-281-1,,73,4-281,екке,екке,,,,,,,,CyrillTrans;Phonemic,ek̄e
+73-4-290-1,,73,4-290,тамак,тамак,,,,,,,,CyrillTrans;Phonemic,tamak
+73-4-300-1,,73,4-300,ийин,ийин,,,,,,,,CyrillTrans;Phonemic,iyin
+73-4-301-1,,73,4-301,йавырын калак,йавырын калак,,,,,,,,CyrillTrans;Phonemic,yawɨrɨn kalak
+73-4-302-1,,73,4-302,"омырав суьек, кандис",омырав суьек,,,,,,,,CyrillTrans;Phonemic,omɨraw süyek
+73-4-302-2,,73,4-302,"омырав суьек, кандис",кандис,,,,,,,,CyrillTrans;Phonemic,kandis
+73-4-310-1,,73,4-310,кол,кол,,,,,,,,CyrillTrans;Phonemic,kol
+73-4-312-1,,73,4-312,колтык,колтык,,,,,,,,CyrillTrans;Phonemic,koltɨk
+73-4-320-1,,73,4-320,шыганак,шыганак,,,,,,,,CyrillTrans;Phonemic,šɨganak
+73-4-321-1,,73,4-321,билек,билек,,,,,,,,CyrillTrans;Phonemic,bilek
+73-4-330-1,,73,4-330,колдынъ ушы,колдынъ ушы,,,,,,,,CyrillTrans;Phonemic,koldɨŋ ušɨ
+73-4-331-1,,73,4-331,айа,айа,,,,,,,,CyrillTrans;Phonemic,aya
+73-4-340-1,,73,4-340,бармак,бармак,,,,,,,,CyrillTrans;Phonemic,barmak
+73-4-342-1,,73,4-342,бас бармак,бас бармак,,,,,,,,CyrillTrans;Phonemic,bas barmak
+73-4-344-1,,73,4-344,тыркак,тыркак,,,,,,,,CyrillTrans;Phonemic,tɨrkak
+73-4-345-1,,73,4-345,тырнак,тырнак,,,,,,,,CyrillTrans;Phonemic,tɨrnak
+73-4-350-1,,73,4-350,айак,айак,,,,,,,,CyrillTrans;Phonemic,ayak
+73-4-351-1,,73,4-351,"йанбас, сан",йанбас,,,,,,,,CyrillTrans;Phonemic,yanbas
+73-4-351-2,,73,4-351,"йанбас, сан",сан,,,,,,,,CyrillTrans;Phonemic,san
+73-4-352-1,,73,4-352,"балтыр, борбай",балтыр,,,,,,,,CyrillTrans;Phonemic,baltɨr
+73-4-352-2,,73,4-352,"балтыр, борбай",борбай,,,,,,,,CyrillTrans;Phonemic,borbay
+73-4-360-1,,73,4-360,тиз,тиз,,,,,,,,CyrillTrans;Phonemic,tiz
+73-4-370-1,,73,4-370,табан,табан,,,,,,,,CyrillTrans;Phonemic,taban
+73-4-371-1,,73,4-371,"тобык, тобык суьеги",тобык,,,,,,,,CyrillTrans;Phonemic,tobɨk
+73-4-371-2,,73,4-371,"тобык, тобык суьеги",тобык суьеги,,,,,,,,CyrillTrans;Phonemic,tobɨk süyegi
+73-4-372-1,,73,4-372,оькше,оькше,,,,,,,,CyrillTrans;Phonemic,ökše
+73-4-374-1,,73,4-374,ыз,ыз,,,,,,,,CyrillTrans;Phonemic,ɨz
+73-4-380-1,,73,4-380,бармак,бармак,,,,,,,,CyrillTrans;Phonemic,barmak
+73-4-392-1,,73,4-392,канат,канат,,,,,,,,CyrillTrans;Phonemic,kanat
+73-4-393-1,,73,4-393,"кушына, канат",кушына,,,,,,,,CyrillTrans;Phonemic,kušɨna
+73-4-393-2,,73,4-393,"кушына, канат",канат,,,,,,,,CyrillTrans;Phonemic,kanat
+73-4-400-1,,73,4-400,коькирек суьеклер,коькирек суьеклер,,,,,,,,CyrillTrans;Phonemic,kökirek süyekler
+73-4-410-1,,73,4-410,"коькирек, эмшек",коькирек,,,,,,,,CyrillTrans;Phonemic,kökirek
+73-4-410-2,,73,4-410,"коькирек, эмшек",эмшек,,,,,,,,CyrillTrans;Phonemic,emšek
+73-4-412-1,,73,4-412,эмшек,эмшек,,,,,,,,CyrillTrans;Phonemic,emšek
+73-4-420-1,,73,4-420,елин,елин,,,,,,,,CyrillTrans;Phonemic,yelin
+73-4-430-1,,73,4-430,киндик,киндик,,,,,,,,CyrillTrans;Phonemic,kindik
+73-4-440-1,,73,4-440,йурек,йурек,,,,,,,,CyrillTrans;Phonemic,yurek
+73-4-441-1,,73,4-441,оьпке,оьпке,,,,,,,,CyrillTrans;Phonemic,öpke
+73-4-450-1,,73,4-450,бавыр,бавыр,,,,,,,,CyrillTrans;Phonemic,bawɨr
+73-4-451-1,,73,4-451,буьйрек,буьйрек,,,,,,,,CyrillTrans;Phonemic,büyrek
+73-4-452-1,,73,4-452,талак,талак,,,,,,,,CyrillTrans;Phonemic,talak
+73-4-460-1,,73,4-460,асказан,асказан,,,,,,,,CyrillTrans;Phonemic,askazan
+73-4-461-1,,73,4-461,шеклер,шеклер,,,,,,,,CyrillTrans;Phonemic,šekler
+73-4-462-1,,73,4-462,бел,бел,,,,,,,,CyrillTrans;Phonemic,bel
+73-4-463-1,,73,4-463,"сан, быт, бут",сан,,,,,,,,CyrillTrans;Phonemic,san
+73-4-463-2,,73,4-463,"сан, быт, бут",быт,,,,,,,,CyrillTrans;Phonemic,bɨt
+73-4-463-3,,73,4-463,"сан, быт, бут",бут,,,,,,,,CyrillTrans;Phonemic,but
+73-4-464-1,,73,4-464,куйрык,куйрык,,,,,,,,CyrillTrans;Phonemic,kuyrɨk
+73-4-470-1,,73,4-470,бала йатак,бала йатак,,,,,,,,CyrillTrans;Phonemic,bala yatak
+73-4-490-1,,73,4-490,котак,котак,,,,,,,,CyrillTrans;Phonemic,kotak
+73-4-492-1,,73,4-492,"боькоьв, боькоьш, котак, шумуй",боькоьв,,,,,,,,CyrillTrans;Phonemic,bököw
+73-4-492-2,,73,4-492,"боькоьв, боькоьш, котак, шумуй",боькоьш,,,,,,,,CyrillTrans;Phonemic,bököš
+73-4-492-3,,73,4-492,"боькоьв, боькоьш, котак, шумуй",котак,,,,,,,,CyrillTrans;Phonemic,kotak
+73-4-492-4,,73,4-492,"боькоьв, боькоьш, котак, шумуй",шумуй,,,,,,,,CyrillTrans;Phonemic,šumey
+73-4-510-1,,73,4-510,тыныс алув,тыныс алув,,,,,,,,CyrillTrans;Phonemic,tɨnɨs aluw
+73-4-520-1,,73,4-520,эснев,эснев,,,,,,,,CyrillTrans;Phonemic,esnew
+73-4-521-1,,73,4-521,сыкылдав,сыкылдав,,,,,,,,CyrillTrans;Phonemic,sɨkɨldaw
+73-4-530-1,,73,4-530,йоьткируьв,йоьткируьв,,,,,,,,CyrillTrans;Phonemic,yötkirüw
+73-4-540-1,,73,4-540,шуьшкируьв,шуьшкируьв,,,,,,,,CyrillTrans;Phonemic,šüškirüw
+73-4-550-1,,73,4-550,терлев,терлев,,,,,,,,CyrillTrans;Phonemic,terlew
+73-4-560-1,,73,4-560,"туькиршик, туькируьв",туькиршик,,,,,,,,CyrillTrans;Phonemic,tükiršik
+73-4-560-2,,73,4-560,"туькиршик, туькируьв",туькируьв,,,,,,,,CyrillTrans;Phonemic,tükirüw
+73-4-570-1,,73,4-570,кусувы келуьв,кусувы келуьв,,,,,,,,CyrillTrans;Phonemic,kusuwɨ kelüw
+73-4-580-1,,73,4-580,тислев,тислев,,,,,,,,CyrillTrans;Phonemic,tislew
+73-4-590-1,,73,4-590,йалав,йалав,,,,,,,,CyrillTrans;Phonemic,yalaw
+73-4-591-1,,73,4-591,"силекейин шыбыртмак, тоькмек",силекейин шыбыртмак,,,,,,,,CyrillTrans;Phonemic,silekeyin šɨbɨrtmak
+73-4-591-2,,73,4-591,"силекейин шыбыртмак, тоькмек",тоькмек,,,,,,,,CyrillTrans;Phonemic,tökmek
+73-4-610-1,,73,4-610,"уйкламак, уйклав",уйкламак,,,,,,,,CyrillTrans;Phonemic,uyklamak
+73-4-610-2,,73,4-610,"уйкламак, уйклав",уйклав,,,,,,,,CyrillTrans;Phonemic,uyklaw
+73-4-612-1,,73,4-612,хурылдав,хурылдав,,,,,,,,CyrillTrans;Phonemic,xurɨldaw
+73-4-620-1,,73,4-620,"туьс коьруьв, ойланув",туьс коьруьв,,,,,,,,CyrillTrans;Phonemic,tüs körüw
+73-4-620-2,,73,4-620,"туьс коьруьв, ойланув",ойланув,,,,,,,,CyrillTrans;Phonemic,oylanuw
+73-4-630-1,,73,4-630,"уйанмак, уйанув",уйанмак,,,,,,,,CyrillTrans;Phonemic,uyanmak
+73-4-630-2,,73,4-630,"уйанмак, уйанув",уйанув,,,,,,,,CyrillTrans;Phonemic,uyanuw
+73-4-640-1,,73,4-640,осырув,осырув,,,,,,,,CyrillTrans;Phonemic,osɨruw
+73-4-650-1,,73,4-650,несеп этуьв,несеп этуьв,,,,,,,,CyrillTrans;Phonemic,nesep etüw
+73-4-660-1,,73,4-660,эжигии этуьв,эжигии этуьв,,,,,,,,CyrillTrans;Phonemic,ežigiʔi etüw
+73-4-670-1,,73,4-670,йувыкласувлык,йувыкласувлык,,,,,,,,CyrillTrans;Phonemic,yuwɨklasuwlɨk
+73-4-680-1,,73,4-680,"дирилдев, калтырав",дирилдев,,,,,,,,CyrillTrans;Phonemic,dirildew
+73-4-680-2,,73,4-680,"дирилдев, калтырав",калтырав,,,,,,,,CyrillTrans;Phonemic,kaltɨraw
+73-4-690-1,,73,4-690,шамылув,шамылув,,,,,,,,CyrillTrans;Phonemic,šamɨluw
+73-4-710-1,,73,4-710,таптырув,таптырув,,,,,,,,CyrillTrans;Phonemic,taptɨruw
+73-4-720-1,,73,4-720,"тувув, атув",тувув,,,,,,,,CyrillTrans;Phonemic,tuwuw
+73-4-720-2,,73,4-720,"тувув, атув",атув,,,,,,,,CyrillTrans;Phonemic,atuw
+73-4-730-1,,73,4-730,"авыр айаклы, йукли",авыр айаклы,,,,,,,,CyrillTrans;Phonemic,awɨr ayaklɨ
+73-4-730-2,,73,4-730,"авыр айаклы, йукли",йукли,,,,,,,,CyrillTrans;Phonemic,yukli
+73-4-732-1,,73,4-732,авыр айаклы болув,авыр айаклы болув,,,,,,,,CyrillTrans;Phonemic,awɨr ayaklɨ boluw
+73-4-740-1,,73,4-740,"йашамак, енлы, йашав",йашамак,,,,,,,,CyrillTrans;Phonemic,yašamak
+73-4-740-2,,73,4-740,"йашамак, енлы, йашав",енлы,,,,,,,,CyrillTrans;Phonemic,yenlɨ
+73-4-740-3,,73,4-740,"йашамак, енлы, йашав",йашав,,,,,,,,CyrillTrans;Phonemic,yašaw
+73-4-750-1,,73,4-750,"кешкен, оьлмек, оьлуьв, оьлген",кешкен,,,,,,,,CyrillTrans;Phonemic,kešken
+73-4-750-2,,73,4-750,"кешкен, оьлмек, оьлуьв, оьлген",оьлмек,,,,,,,,CyrillTrans;Phonemic,ölmek
+73-4-750-3,,73,4-750,"кешкен, оьлмек, оьлуьв, оьлген",оьлуьв,,,,,,,,CyrillTrans;Phonemic,ölüw
+73-4-750-4,,73,4-750,"кешкен, оьлмек, оьлуьв, оьлген",оьлген,,,,,,,,CyrillTrans;Phonemic,ölgen
+73-4-751-1,,73,4-751,йутылган,йутылган,,,,,,,,CyrillTrans;Phonemic,yutɨlgan
+73-4-760-1,,73,4-760,"оьлтирмек, оьлтируьв",оьлтирмек,,,,,,,,CyrillTrans;Phonemic,öltirmek
+73-4-760-2,,73,4-760,"оьлтирмек, оьлтируьв",оьлтируьв,,,,,,,,CyrillTrans;Phonemic,öltirüw
+73-4-770-1,,73,4-770,"лесин, лес, суьек",лесин,,,,,,,,CyrillTrans;Phonemic,lesin
+73-4-770-2,,73,4-770,"лесин, лес, суьек",лес,,,,,,,,CyrillTrans;Phonemic,les
+73-4-770-3,,73,4-770,"лесин, лес, суьек",суьек,,,,,,,,CyrillTrans;Phonemic,süyek
+73-4-780-1,,73,4-780,коьмуьв,коьмуьв,,,,,,,,CyrillTrans;Phonemic,kömüw
+73-4-790-1,,73,4-790,"мезар, кабыр, коьр",мезар,,,,,,,,CyrillTrans;Phonemic,mezar
+73-4-790-2,,73,4-790,"мезар, кабыр, коьр",кабыр,,,,,,,,CyrillTrans;Phonemic,kabɨr
+73-4-790-3,,73,4-790,"мезар, кабыр, коьр",коьр,,,,,,,,CyrillTrans;Phonemic,kör
+73-4-810-1,,73,4-810,"куьшли, куватлы",куьшли,,,,,,,,CyrillTrans;Phonemic,küšli
+73-4-810-2,,73,4-810,"куьшли, куватлы",куватлы,,,,,,,,CyrillTrans;Phonemic,kuwatlɨ
+73-4-820-1,,73,4-820,"арык, осал, аьлсиз",арык,,,,,,,,CyrillTrans;Phonemic,arɨk
+73-4-820-2,,73,4-820,"арык, осал, аьлсиз",осал,,,,,,,,CyrillTrans;Phonemic,osal
+73-4-820-3,,73,4-820,"арык, осал, аьлсиз",аьлсиз,,,,,,,,CyrillTrans;Phonemic,älsiz
+73-4-830-1,,73,4-830,"сав, савлык",сав,,,,,,,,CyrillTrans;Phonemic,saw
+73-4-830-2,,73,4-830,"сав, савлык",савлык,,,,,,,,CyrillTrans;Phonemic,sawlɨk
+73-4-840-1,,73,4-840,"авырувлы, авырув",авырувлы,,,,,,,,CyrillTrans;Phonemic,awɨruwlɨ
+73-4-840-2,,73,4-840,"авырувлы, авырув",авырув,,,,,,,,CyrillTrans;Phonemic,awɨruw
+73-4-841-1,,73,4-841,"кыздырма токъ гыстув, безгек тутув",кыздырма токъ гыстув,,,,,,,,CyrillTrans;Phonemic,kɨzdɨrma toq gɨstuw
+73-4-841-2,,73,4-841,"кыздырма токъ гыстув, безгек тутув",безгек тутув,,,,,,,,CyrillTrans;Phonemic,bezgek tutuw
+73-4-842-1,,73,4-842,"боьтеге, ур, зоб",боьтеге,,,,,,,,CyrillTrans;Phonemic,bötege
+73-4-842-2,,73,4-842,"боьтеге, ур, зоб",ур,,,,,,,,CyrillTrans;Phonemic,ur
+73-4-842-3,,73,4-842,"боьтеге, ур, зоб",зоб,,,,,,,,CyrillTrans;Phonemic,zob
+73-4-843-1,,73,4-843,"сувык тийув, сувык алув",сувык тийув,,,,,,,,CyrillTrans;Phonemic,suwɨk tiyuw
+73-4-843-2,,73,4-843,"сувык тийув, сувык алув",сувык алув,,,,,,,,CyrillTrans;Phonemic,suwɨk aluw
+73-4-850-1,,73,4-850,"ера, иринли ера",ера,,,,,,,,CyrillTrans;Phonemic,yera
+73-4-850-2,,73,4-850,"ера, иринли ера",иринли ера,,,,,,,,CyrillTrans;Phonemic,irinli yera
+73-4-852-1,,73,4-852,"урып авыртув, урып коьгерткей ер",урып авыртув,,,,,,,,CyrillTrans;Phonemic,urɨp awɨrtuw
+73-4-852-2,,73,4-852,"урып авыртув, урып коьгерткей ер",урып коьгерткей ер,,,,,,,,CyrillTrans;Phonemic,urɨp kögertkey yer
+73-4-853-1,,73,4-853,сисик,сисик,,,,,,,,CyrillTrans;Phonemic,sisik
+73-4-854-1,,73,4-854,кышув,кышув,,,,,,,,CyrillTrans;Phonemic,kɨšuw
+73-4-855-1,,73,4-855,"кабаршык, сувлы сисик",кабаршык,,,,,,,,CyrillTrans;Phonemic,kabaršɨk
+73-4-855-2,,73,4-855,"кабаршык, сувлы сисик",сувлы сисик,,,,,,,,CyrillTrans;Phonemic,suwlɨ sisik
+73-4-856-1,,73,4-856,"иринлеигенер, шыйкан",иринлеигенер,,,,,,,,CyrillTrans;Phonemic,irinleigener
+73-4-856-2,,73,4-856,"иринлеигенер, шыйкан",шыйкан,,,,,,,,CyrillTrans;Phonemic,šɨykan
+73-4-857-1,,73,4-857,ирин,ирин,,,,,,,,CyrillTrans;Phonemic,irin
+73-4-858-1,,73,4-858,"йара ызы, тыртык",йара ызы,,,,,,,,CyrillTrans;Phonemic,yara ɨzɨ
+73-4-858-2,,73,4-858,"йара ызы, тыртык",тыртык,,,,,,,,CyrillTrans;Phonemic,tɨrtɨk
+73-4-860-1,,73,4-860,"сав эьтув, эмлев",сав эьтув,,,,,,,,CyrillTrans;Phonemic,saw etuw
+73-4-860-2,,73,4-860,"сав эьтув, эмлев",эмлев,,,,,,,,CyrillTrans;Phonemic,emlew
+73-4-870-1,,73,4-870,"доктор, эмши",доктор,,,,,,,,CyrillTrans;Phonemic,doktor
+73-4-870-2,,73,4-870,"доктор, эмши",эмши,,,,,,,,CyrillTrans;Phonemic,emši
+73-4-880-1,,73,4-880,"эм, дарман",эм,,,,,,,,CyrillTrans;Phonemic,em
+73-4-880-2,,73,4-880,"эм, дарман",дарман,,,,,,,,CyrillTrans;Phonemic,darman
+73-4-890-1,,73,4-890,"ув, агув",ув,,,,,,,,CyrillTrans;Phonemic,uw
+73-4-890-2,,73,4-890,"ув, агув",агув,,,,,,,,CyrillTrans;Phonemic,aguw
+73-4-910-1,,73,4-910,"арыган, талган",арыган,,,,,,,,CyrillTrans;Phonemic,arɨgan
+73-4-910-2,,73,4-910,"арыган, талган",талган,,,,,,,,CyrillTrans;Phonemic,talgan
+73-4-912-1,,73,4-912,"йал алув, тыкшайув, парахатланув",йал алув,,,,,,,,CyrillTrans;Phonemic,yal aluw
+73-4-912-2,,73,4-912,"йал алув, тыкшайув, парахатланув",тыкшайув,,,,,,,,CyrillTrans;Phonemic,tɨkšayuw
+73-4-912-3,,73,4-912,"йал алув, тыкшайув, парахатланув",парахатланув,,,,,,,,CyrillTrans;Phonemic,paraxatlanuw
+73-4-920-1,,73,4-920,эриншек,эриншек,,,,,,,,CyrillTrans;Phonemic,erinšek
+73-4-930-1,,73,4-930,"таз, такыр бас",таз,,,,,,,,CyrillTrans;Phonemic,taz
+73-4-930-2,,73,4-930,"таз, такыр бас",такыр бас,,,,,,,,CyrillTrans;Phonemic,takɨr bas
+73-4-940-1,,73,4-940,"аксакламак, аксаклав",аксакламак,,,,,,,,CyrillTrans;Phonemic,aksaklamak
+73-4-940-2,,73,4-940,"аксакламак, аксаклав",аксаклав,,,,,,,,CyrillTrans;Phonemic,aksaklaw
+73-4-950-1,,73,4-950,"сагыр, санъырав",сагыр,,,,,,,,CyrillTrans;Phonemic,sagɨr
+73-4-950-2,,73,4-950,"сагыр, санъырав",санъырав,,,,,,,,CyrillTrans;Phonemic,saŋɨraw
+73-4-960-1,,73,4-960,"сакав, тилсиз",сакав,,,,,,,,CyrillTrans;Phonemic,sakaw
+73-4-960-2,,73,4-960,"сакав, тилсиз",тилсиз,,,,,,,,CyrillTrans;Phonemic,tilsiz
+73-4-970-1,,73,4-970,сокыр,сокыр,,,,,,,,CyrillTrans;Phonemic,sokɨr
+73-4-980-1,,73,4-980,"эсирик, эсирген",эсирик,,,,,,,,CyrillTrans;Phonemic,esirik
+73-4-980-2,,73,4-980,"эсирик, эсирген",эсирген,,,,,,,,CyrillTrans;Phonemic,esirgen
+73-4-990-1,,73,4-990,"йаланъаш, йаланъашланган",йаланъаш,,,,,,,,CyrillTrans;Phonemic,yalaŋaš
+73-4-990-2,,73,4-990,"йаланъаш, йаланъашланган",йаланъашланган,,,,,,,,CyrillTrans;Phonemic,yalaŋašlangan
+73-5-110-1,,73,5-110,"ашамак, ашав, емек",ашамак,,,,,,,,CyrillTrans;Phonemic,ašamak
+73-5-110-2,,73,5-110,"ашамак, ашав, емек",ашав,,,,,,,,CyrillTrans;Phonemic,ašaw
+73-5-110-3,,73,5-110,"ашамак, ашав, емек",емек,,,,,,,,CyrillTrans;Phonemic,yemek
+73-5-120-1,,73,5-120,"азык, емис, ас",азык,,,,,,,,CyrillTrans;Phonemic,azɨk
+73-5-120-2,,73,5-120,"азык, емис, ас",емис,,,,,,,,CyrillTrans;Phonemic,yemis
+73-5-120-3,,73,5-120,"азык, емис, ас",ас,,,,,,,,CyrillTrans;Phonemic,as
+73-5-121-1,,73,5-121,"пискен, кайнаган",пискен,,,,,,,,CyrillTrans;Phonemic,pisken
+73-5-121-2,,73,5-121,"пискен, кайнаган",кайнаган,,,,,,,,CyrillTrans;Phonemic,kaynagan
+73-5-122-1,,73,5-122,"иший, писпеген",иший,,,,,,,,CyrillTrans;Phonemic,išiy
+73-5-122-2,,73,5-122,"иший, писпеген",писпеген,,,,,,,,CyrillTrans;Phonemic,pispegen
+73-5-123-1,,73,5-123,пискен,пискен,,,,,,,,CyrillTrans;Phonemic,pisken
+73-5-124-1,,73,5-124,"йасыл, иший, писпеген",йасыл,,,,,,,,CyrillTrans;Phonemic,yasɨl
+73-5-124-2,,73,5-124,"йасыл, иший, писпеген",иший,,,,,,,,CyrillTrans;Phonemic,išiy
+73-5-124-3,,73,5-124,"йасыл, иший, писпеген",писпеген,,,,,,,,CyrillTrans;Phonemic,pispegen
+73-5-125-1,,73,5-125,"ширик, шириген",ширик,,,,,,,,CyrillTrans;Phonemic,širik
+73-5-125-2,,73,5-125,"ширик, шириген",шириген,,,,,,,,CyrillTrans;Phonemic,širigen
+73-5-130-1,,73,5-130,ишуьв,ишуьв,,,,,,,,CyrillTrans;Phonemic,išüw
+73-5-140-1,,73,5-140,ашлык,ашлык,,,,,,,,CyrillTrans;Phonemic,ašlɨk
+73-5-141-1,,73,5-141,"ашлык, аш болув",ашлык,,,,,,,,CyrillTrans;Phonemic,ašlɨk
+73-5-141-2,,73,5-141,"ашлык, аш болув",аш болув,,,,,,,,CyrillTrans;Phonemic,aš boluw
+73-5-150-1,,73,5-150,сувсав,сувсав,,,,,,,,CyrillTrans;Phonemic,suwsaw
+73-5-160-1,,73,5-160,"сорув, синъдируьв",сорув,,,,,,,,CyrillTrans;Phonemic,soruw
+73-5-160-2,,73,5-160,"сорув, синъдируьв",синъдируьв,,,,,,,,CyrillTrans;Phonemic,siŋdirüw
+73-5-180-1,,73,5-180,шайнав,шайнав,,,,,,,,CyrillTrans;Phonemic,šaynaw
+73-5-181-1,,73,5-181,йутув,йутув,,,,,,,,CyrillTrans;Phonemic,yutuw
+73-5-190-1,,73,5-190,"туншыктырув, бувмак",туншыктырув,,,,,,,,CyrillTrans;Phonemic,tunšɨktɨruw
+73-5-190-2,,73,5-190,"туншыктырув, бувмак",бувмак,,,,,,,,CyrillTrans;Phonemic,buwmak
+73-5-210-1,,73,5-210,"писирув, кайнатув, асув",писирув,,,,,,,,CyrillTrans;Phonemic,pisiruw
+73-5-210-2,,73,5-210,"писирув, кайнатув, асув",кайнатув,,,,,,,,CyrillTrans;Phonemic,kaynatuw
+73-5-210-3,,73,5-210,"писирув, кайнатув, асув",асув,,,,,,,,CyrillTrans;Phonemic,asuw
+73-5-220-1,,73,5-220,кайнатув,кайнатув,,,,,,,,CyrillTrans;Phonemic,kaynatuw
+73-5-230-1,,73,5-230,"кувырув, кызартув",кувырув,,,,,,,,CyrillTrans;Phonemic,kuwɨruw
+73-5-230-2,,73,5-230,"кувырув, кызартув",кызартув,,,,,,,,CyrillTrans;Phonemic,kɨzartuw
+73-5-240-1,,73,5-240,писируьв,писируьв,,,,,,,,CyrillTrans;Phonemic,pisirüw
+73-5-250-1,,73,5-250,писируьв,писируьв,,,,,,,,CyrillTrans;Phonemic,pisirüw
+73-5-260-1,,73,5-260,казан,казан,,,,,,,,CyrillTrans;Phonemic,kazan
+73-5-270-1,,73,5-270,"чайник, шай казан",чайник,,,,,,,,CyrillTrans;Phonemic,čaynik
+73-5-270-2,,73,5-270,"чайник, шай казан",шай казан,,,,,,,,CyrillTrans;Phonemic,šay kazan
+73-5-280-1,,73,5-280,казан,казан,,,,,,,,CyrillTrans;Phonemic,kazan
+73-5-310-1,,73,5-310,"тепсе, табак",тепсе,,,,,,,,CyrillTrans;Phonemic,tepse
+73-5-310-2,,73,5-310,"тепсе, табак",табак,,,,,,,,CyrillTrans;Phonemic,tabak
+73-5-320-1,,73,5-320,"тарелка, табак",тарелка,,,,,,,,CyrillTrans;Phonemic,tarelka
+73-5-320-2,,73,5-320,"тарелка, табак",табак,,,,,,,,CyrillTrans;Phonemic,tabak
+73-5-330-1,,73,5-330,"кабак, айак",кабак,,,,,,,,CyrillTrans;Phonemic,kabak
+73-5-330-2,,73,5-330,"кабак, айак",айак,,,,,,,,CyrillTrans;Phonemic,ayak
+73-5-340-1,,73,5-340,кумган,кумган,,,,,,,,CyrillTrans;Phonemic,kumgan
+73-5-350-1,,73,5-350,"тостакай, айак",тостакай,,,,,,,,CyrillTrans;Phonemic,tostakay
+73-5-350-2,,73,5-350,"тостакай, айак",айак,,,,,,,,CyrillTrans;Phonemic,ayak
+73-5-360-1,,73,5-360,шайтепшек,шайтепшек,,,,,,,,CyrillTrans;Phonemic,šaytepšek
+73-5-370-1,,73,5-370,касык,касык,,,,,,,,CyrillTrans;Phonemic,kasɨk
+73-5-380-1,,73,5-380,пышак,пышак,,,,,,,,CyrillTrans;Phonemic,pɨšak
+73-5-390-1,,73,5-390,"шанышкыш, сис",шанышкыш,,,,,,,,CyrillTrans;Phonemic,šanɨškɨš
+73-5-390-2,,73,5-390,"шанышкыш, сис",сис,,,,,,,,CyrillTrans;Phonemic,sis
+73-5-391-1,,73,5-391,кыскыш,кыскыш,,,,,,,,CyrillTrans;Phonemic,kɨskɨš
+73-5-410-1,,73,5-410,"аш, ас ашав, азык ашав",аш,,,,,,,,CyrillTrans;Phonemic,aš
+73-5-410-2,,73,5-410,"аш, ас ашав, азык ашав",ас ашав,,,,,,,,CyrillTrans;Phonemic,as ašaw
+73-5-410-3,,73,5-410,"аш, ас ашав, азык ашав",азык ашав,,,,,,,,CyrillTrans;Phonemic,azɨk ašaw
+73-5-420-1,,73,5-420,эртенъги ас,эртенъги ас,,,,,,,,CyrillTrans;Phonemic,erteŋgi as
+73-5-430-1,,73,5-430,экинши эртенъги ас,экинши эртенъги ас,,,,,,,,CyrillTrans;Phonemic,ekinši erteŋgi as
+73-5-440-1,,73,5-440,уьйле (туьски) ас,уьйле ас,,,,,,,,CyrillTrans;Phonemic,üyle as
+73-5-450-1,,73,5-450,кешки ас,кешки ас,,,,,,,,CyrillTrans;Phonemic,keški as
+73-5-460-1,,73,5-460,"тазалав, аршув",тазалав,,,,,,,,CyrillTrans;Phonemic,tazalaw
+73-5-460-2,,73,5-460,"тазалав, аршув",аршув,,,,,,,,CyrillTrans;Phonemic,aršuw
+73-5-470-1,,73,5-470,"элев, шелтев, сувырув, суьзуьв",элев,,,,,,,,CyrillTrans;Phonemic,elew
+73-5-470-2,,73,5-470,"элев, шелтев, сувырув, суьзуьв",шелтев,,,,,,,,CyrillTrans;Phonemic,šeltew
+73-5-470-3,,73,5-470,"элев, шелтев, сувырув, суьзуьв",сувырув,,,,,,,,CyrillTrans;Phonemic,suwɨruw
+73-5-470-4,,73,5-470,"элев, шелтев, сувырув, суьзуьв",суьзуьв,,,,,,,,CyrillTrans;Phonemic,süzüw
+73-5-480-1,,73,5-480,"тыриав, кемируьв, кырув, тазалав, ыскылав",тыриав,,,,,,,,CyrillTrans;Phonemic,tɨriaw
+73-5-480-2,,73,5-480,"тыриав, кемируьв, кырув, тазалав, ыскылав",кемируьв,,,,,,,,CyrillTrans;Phonemic,kemirüw
+73-5-480-3,,73,5-480,"тыриав, кемируьв, кырув, тазалав, ыскылав",кырув,,,,,,,,CyrillTrans;Phonemic,kɨruw
+73-5-480-4,,73,5-480,"тыриав, кемируьв, кырув, тазалав, ыскылав",тазалав,,,,,,,,CyrillTrans;Phonemic,tazalaw
+73-5-480-5,,73,5-480,"тыриав, кемируьв, кырув, тазалав, ыскылав",ыскылав,,,,,,,,CyrillTrans;Phonemic,ɨskɨlaw
+73-5-490-1,,73,5-490,"былгав, араластырув",былгав,,,,,,,,CyrillTrans;Phonemic,bɨlgaw
+73-5-490-2,,73,5-490,"былгав, араластырув",араластырув,,,,,,,,CyrillTrans;Phonemic,aralastɨruw
+73-5-510-1,,73,5-510,оьтпек,оьтпек,,,,,,,,CyrillTrans;Phonemic,ötpek
+73-5-530-1,,73,5-530,ийленген ун,ийленген ун,,,,,,,,CyrillTrans;Phonemic,iylengen un
+73-5-540-1,,73,5-540,унды ийлев,унды ийлев,,,,,,,,CyrillTrans;Phonemic,undɨ iylew
+73-5-550-1,,73,5-550,ун,ун,,,,,,,,CyrillTrans;Phonemic,un
+73-5-560-1,,73,5-560,"басув, сыгув, йанышув, уватув, туьйуьв",басув,,,,,,,,CyrillTrans;Phonemic,basuw
+73-5-560-2,,73,5-560,"басув, сыгув, йанышув, уватув, туьйуьв",сыгув,,,,,,,,CyrillTrans;Phonemic,sɨguw
+73-5-560-3,,73,5-560,"басув, сыгув, йанышув, уватув, туьйуьв",йанышув,,,,,,,,CyrillTrans;Phonemic,yanɨšuw
+73-5-560-4,,73,5-560,"басув, сыгув, йанышув, уватув, туьйуьв",уватув,,,,,,,,CyrillTrans;Phonemic,uwatuw
+73-5-560-5,,73,5-560,"басув, сыгув, йанышув, уватув, туьйуьв",туьйуьв,,,,,,,,CyrillTrans;Phonemic,tüyüw
+73-5-570-1,,73,5-570,"туьйирмен, термен",туьйирмен,,,,,,,,CyrillTrans;Phonemic,tüyirmen
+73-5-570-2,,73,5-570,"туьйирмен, термен",термен,,,,,,,,CyrillTrans;Phonemic,termen
+73-5-580-1,,73,5-580,"аук, кели, авангели, туьйгиш",аук,,,,,,,,CyrillTrans;Phonemic,auk
+73-5-580-2,,73,5-580,"аук, кели, авангели, туьйгиш",кели,,,,,,,,CyrillTrans;Phonemic,keli
+73-5-580-3,,73,5-580,"аук, кели, авангели, туьйгиш",авангели,,,,,,,,CyrillTrans;Phonemic,awangeli
+73-5-580-4,,73,5-580,"аук, кели, авангели, туьйгиш",туьйгиш,,,,,,,,CyrillTrans;Phonemic,tüygiš
+73-5-590-1,,73,5-590,"келисап, шешекейдинъ урлыгы",келисап,,,,,,,,CyrillTrans;Phonemic,kelisap
+73-5-590-2,,73,5-590,"келисап, шешекейдинъ урлыгы",шешекейдинъ урлыгы,,,,,,,,CyrillTrans;Phonemic,šešekeydiŋ urlɨgɨ
+73-5-610-1,,73,5-610,эт,эт,,,,,,,,CyrillTrans;Phonemic,et
+73-5-630-1,,73,5-630,йоьрме,йоьрме,,,,,,,,CyrillTrans;Phonemic,yörme
+73-5-640-1,,73,5-640,сорпа,сорпа,,,,,,,,CyrillTrans;Phonemic,sorpa
+73-5-650-1,,73,5-650,йасылшалар,йасылшалар,,,,,,,,CyrillTrans;Phonemic,yasɨlšalar
+73-5-660-1,,73,5-660,ногыт,ногыт,,,,,,,,CyrillTrans;Phonemic,nogɨt
+73-5-700-1,,73,5-700,ералма,ералма,,,,,,,,CyrillTrans;Phonemic,yeralma
+73-5-710-1,,73,5-710,емис,емис,,,,,,,,CyrillTrans;Phonemic,yemis
+73-5-712-1,,73,5-712,"солкым, бувым, байлам",солкым,,,,,,,,CyrillTrans;Phonemic,solkɨm
+73-5-712-2,,73,5-712,"солкым, бувым, байлам",бувым,,,,,,,,CyrillTrans;Phonemic,buwɨm
+73-5-712-3,,73,5-712,"солкым, бувым, байлам",байлам,,,,,,,,CyrillTrans;Phonemic,baylam
+73-5-750-1,,73,5-750,"шагыр, ийлек, елек, инжир",шагыр,,,,,,,,CyrillTrans;Phonemic,šagɨr
+73-5-750-2,,73,5-750,"шагыр, ийлек, елек, инжир",ийлек,,,,,,,,CyrillTrans;Phonemic,iylek
+73-5-750-3,,73,5-750,"шагыр, ийлек, елек, инжир",елек,,,,,,,,CyrillTrans;Phonemic,yelek
+73-5-750-4,,73,5-750,"шагыр, ийлек, елек, инжир",инжир,,,,,,,,CyrillTrans;Phonemic,inžir
+73-5-760-1,,73,5-760,йузим,йузим,,,,,,,,CyrillTrans;Phonemic,yuzim
+73-5-770-1,,73,5-770,коз,коз,,,,,,,,CyrillTrans;Phonemic,koz
+73-5-780-1,,73,5-780,зайтун,зайтун,,,,,,,,CyrillTrans;Phonemic,zaytun
+73-5-790-1,,73,5-790,йасылша май,йасылша май,,,,,,,,CyrillTrans;Phonemic,yasɨlša may
+73-5-791-1,,73,5-791,"куйрык май, иш май",куйрык май,,,,,,,,CyrillTrans;Phonemic,kuyrɨk may
+73-5-791-2,,73,5-791,"куйрык май, иш май",иш май,,,,,,,,CyrillTrans;Phonemic,iš may
+73-5-810-1,,73,5-810,туз,туз,,,,,,,,CyrillTrans;Phonemic,tuz
+73-5-820-1,,73,5-820,"бурыш, шибжий",бурыш,,,,,,,,CyrillTrans;Phonemic,burɨš
+73-5-820-2,,73,5-820,"бурыш, шибжий",шибжий,,,,,,,,CyrillTrans;Phonemic,šibžiy
+73-5-821-1,,73,5-821,"бурыш, шибжий",бурыш,,,,,,,,CyrillTrans;Phonemic,burɨš
+73-5-821-2,,73,5-821,"бурыш, шибжий",шибжий,,,,,,,,CyrillTrans;Phonemic,šibžiy
+73-5-840-1,,73,5-840,бал,бал,,,,,,,,CyrillTrans;Phonemic,bal
+73-5-850-1,,73,5-850,секер,секер,,,,,,,,CyrillTrans;Phonemic,seker
+73-5-860-1,,73,5-860,суьт,суьт,,,,,,,,CyrillTrans;Phonemic,süt
+73-5-870-1,,73,5-870,"савмак, савув",савмак,,,,,,,,CyrillTrans;Phonemic,sawmak
+73-5-870-2,,73,5-870,"савмак, савув",савув,,,,,,,,CyrillTrans;Phonemic,sawuw
+73-5-880-1,,73,5-880,пыслак,пыслак,,,,,,,,CyrillTrans;Phonemic,pɨslak
+73-5-890-1,,73,5-890,сары май,сары май,,,,,,,,CyrillTrans;Phonemic,sarɨ may
+73-5-900-1,,73,5-900,ишки,ишки,,,,,,,,CyrillTrans;Phonemic,iški
+73-5-910-1,,73,5-910,бал,бал,,,,,,,,CyrillTrans;Phonemic,bal
+73-5-920-1,,73,5-920,шагыр,шагыр,,,,,,,,CyrillTrans;Phonemic,šagɨr
+73-5-930-1,,73,5-930,пиво,пиво,,,,,,,,CyrillTrans;Phonemic,piwo
+73-5-940-1,,73,5-940,боза,боза,,,,,,,,CyrillTrans;Phonemic,boza
+73-5-970-1,,73,5-970,йумыртка,йумыртка,,,,,,,,CyrillTrans;Phonemic,yumɨrtka
+73-5-971-1,,73,5-971,йумарткадынъ сарысы,йумарткадынъ сарысы,,,,,,,,CyrillTrans;Phonemic,yumartkadɨŋ sarɨsɨ
+73-6-110-1,,73,6-110,"кийуьв, кийиндируьв",кийуьв,,,,,,,,CyrillTrans;Phonemic,kiyüw
+73-6-110-2,,73,6-110,"кийуьв, кийиндируьв",кийиндируьв,,,,,,,,CyrillTrans;Phonemic,kiyindirüw
+73-6-120-1,,73,6-120,кийим,кийим,,,,,,,,CyrillTrans;Phonemic,kiyim
+73-6-130-1,,73,6-130,тигуьвши,тигуьвши,,,,,,,,CyrillTrans;Phonemic,tigüwši
+73-6-210-1,,73,6-210,"кумаш, шуга",кумаш,,,,,,,,CyrillTrans;Phonemic,kumaš
+73-6-210-2,,73,6-210,"кумаш, шуга",шуга,,,,,,,,CyrillTrans;Phonemic,šuga
+73-6-220-1,,73,6-220,"йун, каврак",йун,,,,,,,,CyrillTrans;Phonemic,yun
+73-6-220-2,,73,6-220,"йун, каврак",каврак,,,,,,,,CyrillTrans;Phonemic,kawrak
+73-6-230-1,,73,6-230,кендир кумаш,кендир кумаш,,,,,,,,CyrillTrans;Phonemic,kendir kumaš
+73-6-240-1,,73,6-240,мамык,мамык,,,,,,,,CyrillTrans;Phonemic,mamɨk
+73-6-250-1,,73,6-250,"шилле, йибек",шилле,,,,,,,,CyrillTrans;Phonemic,šille
+73-6-250-2,,73,6-250,"шилле, йибек",йибек,,,,,,,,CyrillTrans;Phonemic,yibek
+73-6-270-1,,73,6-270,кийиз,кийиз,,,,,,,,CyrillTrans;Phonemic,kiyiz
+73-6-280-1,,73,6-280,"тери, коьрк",тери,,,,,,,,CyrillTrans;Phonemic,teri
+73-6-280-2,,73,6-280,"тери, коьрк",коьрк,,,,,,,,CyrillTrans;Phonemic,körk
+73-6-290-1,,73,6-290,"коьн, тери",коьн,,,,,,,,CyrillTrans;Phonemic,kön
+73-6-290-2,,73,6-290,"коьн, тери",тери,,,,,,,,CyrillTrans;Phonemic,teri
+73-6-310-1,,73,6-310,йип ийируьв,йип ийируьв,,,,,,,,CyrillTrans;Phonemic,yip iyirüw
+73-6-320-1,,73,6-320,уршык,уршык,,,,,,,,CyrillTrans;Phonemic,uršɨk
+73-6-330-1,,73,6-330,"быруьв, токув",быруьв,,,,,,,,CyrillTrans;Phonemic,bɨrüw
+73-6-330-2,,73,6-330,"быруьв, токув",токув,,,,,,,,CyrillTrans;Phonemic,tokuw
+73-6-340-1,,73,6-340,кумаш согатаган станок,кумаш согатаган станок,,,,,,,,CyrillTrans;Phonemic,kumaš sogatagan stanok
+73-6-350-1,,73,6-350,тигуьв,тигуьв,,,,,,,,CyrillTrans;Phonemic,tigüw
+73-6-360-1,,73,6-360,ийне,ийне,,,,,,,,CyrillTrans;Phonemic,iyne
+73-6-370-1,,73,6-370,"биз, тебен",биз,,,,,,,,CyrillTrans;Phonemic,biz
+73-6-370-2,,73,6-370,"биз, тебен",тебен,,,,,,,,CyrillTrans;Phonemic,teben
+73-6-380-1,,73,6-380,йип,йип,,,,,,,,CyrillTrans;Phonemic,yip
+73-6-390-1,,73,6-390,"сыр, сыйа",сыр,,,,,,,,CyrillTrans;Phonemic,sɨr
+73-6-390-2,,73,6-390,"сыр, сыйа",сыйа,,,,,,,,CyrillTrans;Phonemic,sɨya
+73-6-410-1,,73,6-410,плащ,плащ,,,,,,,,CyrillTrans;Phonemic,plaš̄
+73-6-420-1,,73,6-420,"коьйлек, шыба",коьйлек,,,,,,,,CyrillTrans;Phonemic,köylek
+73-6-420-2,,73,6-420,"коьйлек, шыба",шыба,,,,,,,,CyrillTrans;Phonemic,šɨba
+73-6-430-1,,73,6-430,пальто,пальто,,,,,,,,CyrillTrans;Phonemic,palʲto
+73-6-440-1,,73,6-440,коьйлек,коьйлек,,,,,,,,CyrillTrans;Phonemic,köylek
+73-6-450-1,,73,6-450,йага,йага,,,,,,,,CyrillTrans;Phonemic,yaga
+73-6-460-1,,73,6-460,йубка,йубка,,,,,,,,CyrillTrans;Phonemic,yubka
+73-6-461-1,,73,6-461,йубка,йубка,,,,,,,,CyrillTrans;Phonemic,yubka
+73-6-480-1,,73,6-480,"шалбыр, балак, ыстан, саксыр",шалбыр,,,,,,,,CyrillTrans;Phonemic,šalbɨr
+73-6-480-2,,73,6-480,"шалбыр, балак, ыстан, саксыр",балак,,,,,,,,CyrillTrans;Phonemic,balak
+73-6-480-3,,73,6-480,"шалбыр, балак, ыстан, саксыр",ыстан,,,,,,,,CyrillTrans;Phonemic,ɨstan
+73-6-480-4,,73,6-480,"шалбыр, балак, ыстан, саксыр",саксыр,,,,,,,,CyrillTrans;Phonemic,saksɨr
+73-6-490-1,,73,6-490,шорап,шорап,,,,,,,,CyrillTrans;Phonemic,šorap
+73-6-510-1,,73,6-510,"туфлйа, баьпиш",туфлйа,,,,,,,,CyrillTrans;Phonemic,tuflya
+73-6-510-2,,73,6-510,"туфлйа, баьпиш",баьпиш,,,,,,,,CyrillTrans;Phonemic,bäpiš
+73-6-520-1,,73,6-520,ботинка,ботинка,,,,,,,,CyrillTrans;Phonemic,botinka
+73-6-540-1,,73,6-540,этикши,этикши,,,,,,,,CyrillTrans;Phonemic,etikši
+73-6-550-1,,73,6-550,"шлйапйа, боьрк",шлйапйа,,,,,,,,CyrillTrans;Phonemic,šlyapya
+73-6-550-2,,73,6-550,"шлйапйа, боьрк",боьрк,,,,,,,,CyrillTrans;Phonemic,börk
+73-6-570-1,,73,6-570,белбав,белбав,,,,,,,,CyrillTrans;Phonemic,belbaw
+73-6-580-1,,73,6-580,колкап,колкап,,,,,,,,CyrillTrans;Phonemic,kolkap
+73-6-590-1,,73,6-590,пардав,пардав,,,,,,,,CyrillTrans;Phonemic,pardaw
+73-6-610-1,,73,6-610,кисе,кисе,,,,,,,,CyrillTrans;Phonemic,kise
+73-6-620-1,,73,6-620,"туьйме, саьдеп",туьйме,,,,,,,,CyrillTrans;Phonemic,tüyme
+73-6-620-2,,73,6-620,"туьйме, саьдеп",саьдеп,,,,,,,,CyrillTrans;Phonemic,sädep
+73-6-630-1,,73,6-630,туьйревгиш,туьйревгиш,,,,,,,,CyrillTrans;Phonemic,tüyrewgiš
+73-6-710-1,,73,6-710,безендирив,безендирив,,,,,,,,CyrillTrans;Phonemic,bezendiriw
+73-6-720-1,,73,6-720,"багалы тас, багалы, таслардан этилген зат",багалы тас,,,,,,,,CyrillTrans;Phonemic,bagalɨ tas
+73-6-720-2,,73,6-720,"багалы тас, багалы, таслардан этилген зат",багалы,,,,,,,,CyrillTrans;Phonemic,bagalɨ
+73-6-720-3,,73,6-720,"багалы тас, багалы, таслардан этилген зат",таслардан этилген зат,,,,,,,,CyrillTrans;Phonemic,taslardan etilgen zat
+73-6-730-1,,73,6-730,йузик,йузик,,,,,,,,CyrillTrans;Phonemic,yuzik
+73-6-740-1,,73,6-740,билезик,билезик,,,,,,,,CyrillTrans;Phonemic,bilezik
+73-6-750-1,,73,6-750,"мойыншак, мойшак",мойыншак,,,,,,,,CyrillTrans;Phonemic,moyɨnšak
+73-6-750-2,,73,6-750,"мойыншак, мойшак",мойшак,,,,,,,,CyrillTrans;Phonemic,moyšak
+73-6-760-1,,73,6-760,мойшак,мойшак,,,,,,,,CyrillTrans;Phonemic,moyšak
+73-6-770-1,,73,6-770,"сырга, кулакшын",сырга,,,,,,,,CyrillTrans;Phonemic,sɨrga
+73-6-770-2,,73,6-770,"сырга, кулакшын",кулакшын,,,,,,,,CyrillTrans;Phonemic,kulakšɨn
+73-6-780-1,,73,6-780,"шалма, баскийим",шалма,,,,,,,,CyrillTrans;Phonemic,šalma
+73-6-780-2,,73,6-780,"шалма, баскийим",баскийим,,,,,,,,CyrillTrans;Phonemic,baskiyim
+73-6-810-1,,73,6-810,"колйавлык, бетйавлык",колйавлык,,,,,,,,CyrillTrans;Phonemic,kolyawlɨk
+73-6-810-2,,73,6-810,"колйавлык, бетйавлык",бетйавлык,,,,,,,,CyrillTrans;Phonemic,betyawlɨk
+73-6-820-1,,73,6-820,"тастамал, суьлги",тастамал,,,,,,,,CyrillTrans;Phonemic,tastamal
+73-6-820-2,,73,6-820,"тастамал, суьлги",суьлги,,,,,,,,CyrillTrans;Phonemic,sülgi
+73-6-910-1,,73,6-910,"бастарак, тарак",бастарак,,,,,,,,CyrillTrans;Phonemic,bastarak
+73-6-910-2,,73,6-910,"бастарак, тарак",тарак,,,,,,,,CyrillTrans;Phonemic,tarak
+73-6-920-1,,73,6-920,бастарак,бастарак,,,,,,,,CyrillTrans;Phonemic,bastarak
+73-6-921-1,,73,6-921,"шаш, оьрме",шаш,,,,,,,,CyrillTrans;Phonemic,šaš
+73-6-921-2,,73,6-921,"шаш, оьрме",оьрме,,,,,,,,CyrillTrans;Phonemic,örme
+73-6-930-1,,73,6-930,беки,беки,,,,,,,,CyrillTrans;Phonemic,beki
+73-6-940-1,,73,6-940,"мазь, май",мазь,,,,,,,,CyrillTrans;Phonemic,mazʲ
+73-6-940-2,,73,6-940,"мазь, май",май,,,,,,,,CyrillTrans;Phonemic,may
+73-6-950-1,,73,6-950,сабын,сабын,,,,,,,,CyrillTrans;Phonemic,sabɨn
+73-6-960-1,,73,6-960,бийала,бийала,,,,,,,,CyrillTrans;Phonemic,biyala
+73-7-110-1,,73,7-110,"йашамак, йашав",йашамак,,,,,,,,CyrillTrans;Phonemic,yašamak
+73-7-110-2,,73,7-110,"йашамак, йашав",йашав,,,,,,,,CyrillTrans;Phonemic,yašaw
+73-7-120-1,,73,7-120,уьй,уьй,,,,,,,,CyrillTrans;Phonemic,üy
+73-7-130-1,,73,7-130,"хижина, кишкей уьй",хижина,,,,,,,,CyrillTrans;Phonemic,xižina
+73-7-130-2,,73,7-130,"хижина, кишкей уьй",кишкей уьй,,,,,,,,CyrillTrans;Phonemic,kiškey üy
+73-7-131-1,,73,7-131,"кырдагы уьй, дача",кырдагы уьй,,,,,,,,CyrillTrans;Phonemic,kɨrdagɨ üy
+73-7-131-2,,73,7-131,"кырдагы уьй, дача",дача,,,,,,,,CyrillTrans;Phonemic,dača
+73-7-140-1,,73,7-140,шатыр,шатыр,,,,,,,,CyrillTrans;Phonemic,šatɨr
+73-7-150-1,,73,7-150,азбар,азбар,,,,,,,,CyrillTrans;Phonemic,azbar
+73-7-160-1,,73,7-160,эркеклер уьйи,эркеклер уьйи,,,,,,,,CyrillTrans;Phonemic,erkekler üyi
+73-7-170-1,,73,7-170,"отав, айатуь, казануьй",отав,,,,,,,,CyrillTrans;Phonemic,otaw
+73-7-170-2,,73,7-170,"отав, айатуь, казануьй",айатуь,,,,,,,,CyrillTrans;Phonemic,ayatü
+73-7-170-3,,73,7-170,"отав, айатуь, казануьй",казануьй,,,,,,,,CyrillTrans;Phonemic,kazanüy
+73-7-180-1,,73,7-180,йыйын болатаган уьй,йыйын болатаган уьй,,,,,,,,CyrillTrans;Phonemic,yɨyɨn bolatagan üy
+73-7-210-1,,73,7-210,"уьй, боьме",уьй,,,,,,,,CyrillTrans;Phonemic,üy
+73-7-210-2,,73,7-210,"уьй, боьме",боьме,,,,,,,,CyrillTrans;Phonemic,böme
+73-7-220-1,,73,7-220,"капы, эсик",капы,,,,,,,,CyrillTrans;Phonemic,kapɨ
+73-7-220-2,,73,7-220,"капы, эсик",эсик,,,,,,,,CyrillTrans;Phonemic,esik
+73-7-221-1,,73,7-221,энеге,энеге,,,,,,,,CyrillTrans;Phonemic,enege
+73-7-230-1,,73,7-230,кирт,кирт,,,,,,,,CyrillTrans;Phonemic,kirt
+73-7-231-1,,73,7-231,"токат, йувыртпа",токат,,,,,,,,CyrillTrans;Phonemic,tokat
+73-7-231-2,,73,7-231,"токат, йувыртпа",йувыртпа,,,,,,,,CyrillTrans;Phonemic,yuwɨrtpa
+73-7-240-1,,73,7-240,ашкыш,ашкыш,,,,,,,,CyrillTrans;Phonemic,aškɨš
+73-7-250-1,,73,7-250,"шагарак, терезе",шагарак,,,,,,,,CyrillTrans;Phonemic,šagarak
+73-7-250-2,,73,7-250,"шагарак, терезе",терезе,,,,,,,,CyrillTrans;Phonemic,tereze
+73-7-260-1,,73,7-260,"пол, ер",пол,,,,,,,,CyrillTrans;Phonemic,pol
+73-7-260-2,,73,7-260,"пол, ер",ер,,,,,,,,CyrillTrans;Phonemic,yer
+73-7-270-1,,73,7-270,"там, ирге, дуьгер",там,,,,,,,,CyrillTrans;Phonemic,tam
+73-7-270-2,,73,7-270,"там, ирге, дуьгер",ирге,,,,,,,,CyrillTrans;Phonemic,irge
+73-7-270-3,,73,7-270,"там, ирге, дуьгер",дуьгер,,,,,,,,CyrillTrans;Phonemic,düger
+73-7-310-1,,73,7-310,"камин, отбас",камин,,,,,,,,CyrillTrans;Phonemic,kamin
+73-7-310-2,,73,7-310,"камин, отбас",отбас,,,,,,,,CyrillTrans;Phonemic,otbas
+73-7-320-1,,73,7-320,"тандыр, пеш",тандыр,,,,,,,,CyrillTrans;Phonemic,tandɨr
+73-7-320-2,,73,7-320,"тандыр, пеш",пеш,,,,,,,,CyrillTrans;Phonemic,peš
+73-7-330-1,,73,7-330,"ошак, туьтин йолы, пеш кутыгы",ошак,,,,,,,,CyrillTrans;Phonemic,ošak
+73-7-330-2,,73,7-330,"ошак, туьтин йолы, пеш кутыгы",туьтин йолы,,,,,,,,CyrillTrans;Phonemic,tütin yolɨ
+73-7-330-3,,73,7-330,"ошак, туьтин йолы, пеш кутыгы",пеш кутыгы,,,,,,,,CyrillTrans;Phonemic,peš kutɨgɨ
+73-7-370-1,,73,7-370,"басамак, шапыраш",басамак,,,,,,,,CyrillTrans;Phonemic,basamak
+73-7-370-2,,73,7-370,"басамак, шапыраш",шапыраш,,,,,,,,CyrillTrans;Phonemic,šapɨraš
+73-7-420-1,,73,7-420,орындык,орындык,,,,,,,,CyrillTrans;Phonemic,orɨndɨk
+73-7-421-1,,73,7-421,йастык,йастык,,,,,,,,CyrillTrans;Phonemic,yastɨk
+73-7-422-1,,73,7-422,йуркан,йуркан,,,,,,,,CyrillTrans;Phonemic,yurkan
+73-7-430-1,,73,7-430,елтыргыш,елтыргыш,,,,,,,,CyrillTrans;Phonemic,yeltɨrgɨš
+73-7-440-1,,73,7-440,"стол, сыпыра",стол,,,,,,,,CyrillTrans;Phonemic,stol
+73-7-440-2,,73,7-440,"стол, сыпыра",сыпыра,,,,,,,,CyrillTrans;Phonemic,sɨpɨra
+73-7-450-1,,73,7-450,нап шырак,нап шырак,,,,,,,,CyrillTrans;Phonemic,nap šɨrak
+73-7-460-1,,73,7-460,май шырак,май шырак,,,,,,,,CyrillTrans;Phonemic,may šɨrak
+73-7-470-1,,73,7-470,уьндирик,уьндирик,,,,,,,,CyrillTrans;Phonemic,ündirik
+73-7-480-1,,73,7-480,"шорга, олык",шорга,,,,,,,,CyrillTrans;Phonemic,šorga
+73-7-480-2,,73,7-480,"шорга, олык",олык,,,,,,,,CyrillTrans;Phonemic,olɨk
+73-7-510-1,,73,7-510,"тоьбе, калкы",тоьбе,,,,,,,,CyrillTrans;Phonemic,töbe
+73-7-510-2,,73,7-510,"тоьбе, калкы",калкы,,,,,,,,CyrillTrans;Phonemic,kalkɨ
+73-7-520-1,,73,7-520,тобан тоьбе (калкы),тобан тоьбе,,,,,,,,CyrillTrans;Phonemic,toban töbe
+73-7-530-1,,73,7-530,макас,макас,,,,,,,,CyrillTrans;Phonemic,makas
+73-7-540-1,,73,7-540,"аркалык, макас",аркалык,,,,,,,,CyrillTrans;Phonemic,arkalɨk
+73-7-540-2,,73,7-540,"аркалык, макас",макас,,,,,,,,CyrillTrans;Phonemic,makas
+73-7-550-1,,73,7-550,"аркалык, тартпы, созба аркалык",аркалык,,,,,,,,CyrillTrans;Phonemic,arkalɨk
+73-7-550-2,,73,7-550,"аркалык, тартпы, созба аркалык",тартпы,,,,,,,,CyrillTrans;Phonemic,tartpɨ
+73-7-550-3,,73,7-550,"аркалык, тартпы, созба аркалык",созба аркалык,,,,,,,,CyrillTrans;Phonemic,sozba arkalɨk
+73-7-560-1,,73,7-560,"багана, столб",багана,,,,,,,,CyrillTrans;Phonemic,bagana
+73-7-560-2,,73,7-560,"багана, столб",столб,,,,,,,,CyrillTrans;Phonemic,stolb
+73-7-570-1,,73,7-570,такта,такта,,,,,,,,CyrillTrans;Phonemic,takta
+73-7-580-1,,73,7-580,арка,арка,,,,,,,,CyrillTrans;Phonemic,arka
+73-7-610-1,,73,7-610,тас уста,тас уста,,,,,,,,CyrillTrans;Phonemic,tas usta
+73-7-620-1,,73,7-620,кербиш,кербиш,,,,,,,,CyrillTrans;Phonemic,kerbiš
+73-7-630-1,,73,7-630,"йибитилген, кириш",йибитилген,,,,,,,,CyrillTrans;Phonemic,yibitilgen
+73-7-630-2,,73,7-630,"йибитилген, кириш",кириш,,,,,,,,CyrillTrans;Phonemic,kiriš
+73-7-640-1,,73,7-640,"балшык уьй, саман уьи",балшык уьй,,,,,,,,CyrillTrans;Phonemic,balšɨk üy
+73-7-640-2,,73,7-640,"балшык уьй, саман уьи",саман уьи,,,,,,,,CyrillTrans;Phonemic,saman üi
+73-8-110-1,,73,8-110,фермер,фермер,,,,,,,,CyrillTrans;Phonemic,fermer
+73-8-120-1,,73,8-120,"данъыл, кыр, авлак, дала",данъыл,,,,,,,,CyrillTrans;Phonemic,daŋɨl
+73-8-120-2,,73,8-120,"данъыл, кыр, авлак, дала",кыр,,,,,,,,CyrillTrans;Phonemic,kɨr
+73-8-120-3,,73,8-120,"данъыл, кыр, авлак, дала",авлак,,,,,,,,CyrillTrans;Phonemic,awlak
+73-8-120-4,,73,8-120,"данъыл, кыр, авлак, дала",дала,,,,,,,,CyrillTrans;Phonemic,dala
+73-8-130-1,,73,8-130,бав,бав,,,,,,,,CyrillTrans;Phonemic,baw
+73-8-150-1,,73,8-150,ерди ислетуьв,ерди ислетуьв,,,,,,,,CyrillTrans;Phonemic,yerdi isletüw
+73-8-160-1,,73,8-160,"кара, азбар",кара,,,,,,,,CyrillTrans;Phonemic,kara
+73-8-160-2,,73,8-160,"кара, азбар",азбар,,,,,,,,CyrillTrans;Phonemic,azbar
+73-8-170-1,,73,8-170,"эндек, шунъкыр, ор",эндек,,,,,,,,CyrillTrans;Phonemic,endek
+73-8-170-2,,73,8-170,"эндек, шунъкыр, ор",шунъкыр,,,,,,,,CyrillTrans;Phonemic,šuŋkɨr
+73-8-170-3,,73,8-170,"эндек, шунъкыр, ор",ор,,,,,,,,CyrillTrans;Phonemic,or
+73-8-210-1,,73,8-210,"ер айдав, сабан айдав",ер айдав,,,,,,,,CyrillTrans;Phonemic,yer aydaw
+73-8-210-2,,73,8-210,"ер айдав, сабан айдав",сабан айдав,,,,,,,,CyrillTrans;Phonemic,saban aydaw
+73-8-212-1,,73,8-212,"сабанлык, баразна, айдалган ер",сабанлык,,,,,,,,CyrillTrans;Phonemic,sabanlɨk
+73-8-212-2,,73,8-212,"сабанлык, баразна, айдалган ер",баразна,,,,,,,,CyrillTrans;Phonemic,barazna
+73-8-212-3,,73,8-212,"сабанлык, баразна, айдалган ер",айдалган ер,,,,,,,,CyrillTrans;Phonemic,aydalgan yer
+73-8-220-1,,73,8-220,казув,казув,,,,,,,,CyrillTrans;Phonemic,kazuw
+73-8-230-1,,73,8-230,казгыр,казгыр,,,,,,,,CyrillTrans;Phonemic,kazgɨr
+73-8-240-1,,73,8-240,"казгыр, саьвек",казгыр,,,,,,,,CyrillTrans;Phonemic,kazgɨr
+73-8-240-2,,73,8-240,"казгыр, саьвек",саьвек,,,,,,,,CyrillTrans;Phonemic,säwek
+73-8-250-1,,73,8-250,"маьтик, шапкы",маьтик,,,,,,,,CyrillTrans;Phonemic,mätik
+73-8-250-2,,73,8-250,"маьтик, шапкы",шапкы,,,,,,,,CyrillTrans;Phonemic,šapkɨ
+73-8-260-1,,73,8-260,"сис, сенек",сис,,,,,,,,CyrillTrans;Phonemic,sis
+73-8-260-2,,73,8-260,"сис, сенек",сенек,,,,,,,,CyrillTrans;Phonemic,senek
+73-8-270-1,,73,8-270,тырнавгыш,тырнавгыш,,,,,,,,CyrillTrans;Phonemic,tɨrnawgɨš
+73-8-310-1,,73,8-310,"шашмак, шашув",шашмак,,,,,,,,CyrillTrans;Phonemic,šašmak
+73-8-310-2,,73,8-310,"шашмак, шашув",шашув,,,,,,,,CyrillTrans;Phonemic,šašuw
+73-8-311-1,,73,8-311,урлык,урлык,,,,,,,,CyrillTrans;Phonemic,urlɨk
+73-8-320-1,,73,8-320,"шалув, орув",шалув,,,,,,,,CyrillTrans;Phonemic,šaluw
+73-8-320-2,,73,8-320,"шалув, орув",орув,,,,,,,,CyrillTrans;Phonemic,oruw
+73-8-330-1,,73,8-330,"орак, шалгы",орак,,,,,,,,CyrillTrans;Phonemic,orak
+73-8-330-2,,73,8-330,"орак, шалгы",шалгы,,,,,,,,CyrillTrans;Phonemic,šalgɨ
+73-8-340-1,,73,8-340,бастырув,бастырув,,,,,,,,CyrillTrans;Phonemic,bastɨruw
+73-8-350-1,,73,8-350,ындыр,ындыр,,,,,,,,CyrillTrans;Phonemic,ɨndɨr
+73-8-410-1,,73,8-410,аслык,аслык,,,,,,,,CyrillTrans;Phonemic,aslɨk
+73-8-420-1,,73,8-420,"ас, туьйир, буьртик, аслык",ас,,,,,,,,CyrillTrans;Phonemic,as
+73-8-420-2,,73,8-420,"ас, туьйир, буьртик, аслык",туьйир,,,,,,,,CyrillTrans;Phonemic,tüyir
+73-8-420-3,,73,8-420,"ас, туьйир, буьртик, аслык",буьртик,,,,,,,,CyrillTrans;Phonemic,bürtik
+73-8-420-4,,73,8-420,"ас, туьйир, буьртик, аслык",аслык,,,,,,,,CyrillTrans;Phonemic,aslɨk
+73-8-430-1,,73,8-430,бийдай,бийдай,,,,,,,,CyrillTrans;Phonemic,biyday
+73-8-440-1,,73,8-440,арпа,арпа,,,,,,,,CyrillTrans;Phonemic,arpa
+73-8-450-1,,73,8-450,"кара бийдай, арыс",кара бийдай,,,,,,,,CyrillTrans;Phonemic,kara biyday
+73-8-450-2,,73,8-450,"кара бийдай, арыс",арыс,,,,,,,,CyrillTrans;Phonemic,arɨs
+73-8-460-1,,73,8-460,сулы,сулы,,,,,,,,CyrillTrans;Phonemic,sulɨ
+73-8-470-1,,73,8-470,"наьртуьк, аьжи бийдай",наьртуьк,,,,,,,,CyrillTrans;Phonemic,närtük
+73-8-470-2,,73,8-470,"наьртуьк, аьжи бийдай",аьжи бийдай,,,,,,,,CyrillTrans;Phonemic,äži biyday
+73-8-480-1,,73,8-480,дуьги,дуьги,,,,,,,,CyrillTrans;Phonemic,dügi
+73-8-510-1,,73,8-510,"оьлен, от",оьлен,,,,,,,,CyrillTrans;Phonemic,ölen
+73-8-510-2,,73,8-510,"оьлен, от",от,,,,,,,,CyrillTrans;Phonemic,ot
+73-8-520-1,,73,8-520,пишен,пишен,,,,,,,,CyrillTrans;Phonemic,pišen
+73-8-530-1,,73,8-530,оьсимлик,оьсимлик,,,,,,,,CyrillTrans;Phonemic,ösimlik
+73-8-531-1,,73,8-531,оьстируьв,оьстируьв,,,,,,,,CyrillTrans;Phonemic,östirüw
+73-8-540-1,,73,8-540,тамыр,тамыр,,,,,,,,CyrillTrans;Phonemic,tamɨr
+73-8-550-1,,73,8-550,бутак,бутак,,,,,,,,CyrillTrans;Phonemic,butak
+73-8-560-1,,73,8-560,йапырак,йапырак,,,,,,,,CyrillTrans;Phonemic,yapɨrak
+73-8-570-1,,73,8-570,"шешекей, гуьл",шешекей,,,,,,,,CyrillTrans;Phonemic,šešekey
+73-8-570-2,,73,8-570,"шешекей, гуьл",гуьл,,,,,,,,CyrillTrans;Phonemic,gül
+73-8-600-1,,73,8-600,терек,терек,,,,,,,,CyrillTrans;Phonemic,terek
+73-8-610-1,,73,8-610,эмен,эмен,,,,,,,,CyrillTrans;Phonemic,emen
+73-8-620-1,,73,8-620,бик,бик,,,,,,,,CyrillTrans;Phonemic,bik
+73-8-630-1,,73,8-630,кайын,кайын,,,,,,,,CyrillTrans;Phonemic,kayɨn
+73-8-640-1,,73,8-640,карагай,карагай,,,,,,,,CyrillTrans;Phonemic,karagay
+73-8-650-1,,73,8-650,"шыршы май карагай, пихта, карагаи терек",шыршы май карагай,,,,,,,,CyrillTrans;Phonemic,šɨršɨ may karagay
+73-8-650-2,,73,8-650,"шыршы май карагай, пихта, карагаи терек",пихта,,,,,,,,CyrillTrans;Phonemic,pixta
+73-8-650-3,,73,8-650,"шыршы май карагай, пихта, карагаи терек",карагаи терек,,,,,,,,CyrillTrans;Phonemic,karagai terek
+73-8-660-1,,73,8-660,"эмен, шетлевик",эмен,,,,,,,,CyrillTrans;Phonemic,emen
+73-8-660-2,,73,8-660,"эмен, шетлевик",шетлевик,,,,,,,,CyrillTrans;Phonemic,šetlewik
+73-8-670-1,,73,8-670,"йузим, тал шыбыгы",йузим,,,,,,,,CyrillTrans;Phonemic,yuzim
+73-8-670-2,,73,8-670,"йузим, тал шыбыгы",тал шыбыгы,,,,,,,,CyrillTrans;Phonemic,tal šɨbɨgɨ
+73-8-680-1,,73,8-680,таьмеке,таьмеке,,,,,,,,CyrillTrans;Phonemic,tämeke
+73-8-690-1,,73,8-690,таьмеке туьтин,таьмеке туьтин,,,,,,,,CyrillTrans;Phonemic,tämeke tütin
+73-8-691-1,,73,8-691,уьлле,уьлле,,,,,,,,CyrillTrans;Phonemic,ülle
+73-8-720-1,,73,8-720,"кукурт, туьбир, терек туьп",кукурт,,,,,,,,CyrillTrans;Phonemic,kukurt
+73-8-720-2,,73,8-720,"кукурт, туьбир, терек туьп",туьбир,,,,,,,,CyrillTrans;Phonemic,tübir
+73-8-720-3,,73,8-720,"кукурт, туьбир, терек туьп",терек туьп,,,,,,,,CyrillTrans;Phonemic,terek tüp
+73-8-730-1,,73,8-730,"терек бутагы, теректинъ кевдеси",терек бутагы,,,,,,,,CyrillTrans;Phonemic,terek butagɨ
+73-8-730-2,,73,8-730,"терек бутагы, теректинъ кевдеси",теректинъ кевдеси,,,,,,,,CyrillTrans;Phonemic,terektiŋ kewdesi
+73-8-740-1,,73,8-740,бутак айыры,бутак айыры,,,,,,,,CyrillTrans;Phonemic,butak ayɨrɨ
+73-8-750-1,,73,8-750,кабык,кабык,,,,,,,,CyrillTrans;Phonemic,kabɨk
+73-8-760-1,,73,8-760,оьсимликтинъ сувы,оьсимликтинъ сувы,,,,,,,,CyrillTrans;Phonemic,ösimliktiŋ suwɨ
+73-8-810-1,,73,8-810,пальма,пальма,,,,,,,,CyrillTrans;Phonemic,palʲma
+73-8-820-1,,73,8-820,кокос,кокос,,,,,,,,CyrillTrans;Phonemic,kokos
+73-8-830-1,,73,8-830,цитрус емис,цитрус емис,,,,,,,,CyrillTrans;Phonemic,citrus yemis
+73-8-840-1,,73,8-840,банан терек,банан терек,,,,,,,,CyrillTrans;Phonemic,banan terek
+73-8-850-1,,73,8-850,инжир терек,инжир терек,,,,,,,,CyrillTrans;Phonemic,inžir terek
+73-8-910-1,,73,8-910,батат,батат,,,,,,,,CyrillTrans;Phonemic,batat
+73-8-930-1,,73,8-930,кабак,кабак,,,,,,,,CyrillTrans;Phonemic,kabak
+73-8-931-1,,73,8-931,кабак,кабак,,,,,,,,CyrillTrans;Phonemic,kabak
+73-8-940-1,,73,8-940,"бамбук, нар камыс",бамбук,,,,,,,,CyrillTrans;Phonemic,bambuk
+73-8-940-2,,73,8-940,"бамбук, нар камыс",нар камыс,,,,,,,,CyrillTrans;Phonemic,nar kamɨs
+73-8-941-1,,73,8-941,балгамыс,балгамыс,,,,,,,,CyrillTrans;Phonemic,balgamɨs
+73-8-970-1,,73,8-970,кышыткын,кышыткын,,,,,,,,CyrillTrans;Phonemic,kɨšɨtkɨn
+73-8-980-1,,73,8-980,шай танкулак,шай танкулак,,,,,,,,CyrillTrans;Phonemic,šay tankulak
+73-9-110-1,,73,9-110,этуьв,этуьв,,,,,,,,CyrillTrans;Phonemic,etüw
+73-9-120-1,,73,9-120,"ис, куллык",ис,,,,,,,,CyrillTrans;Phonemic,is
+73-9-120-2,,73,9-120,"ис, куллык",куллык,,,,,,,,CyrillTrans;Phonemic,kullɨk
+73-9-140-1,,73,9-140,"буьклев, кайтарув",буьклев,,,,,,,,CyrillTrans;Phonemic,büklew
+73-9-140-2,,73,9-140,"буьклев, кайтарув",кайтарув,,,,,,,,CyrillTrans;Phonemic,kaytaruw
+73-9-150-1,,73,9-150,"буьклев, йыйыстырып салув",буьклев,,,,,,,,CyrillTrans;Phonemic,büklew
+73-9-150-2,,73,9-150,"буьклев, йыйыстырып салув",йыйыстырып салув,,,,,,,,CyrillTrans;Phonemic,yɨyɨstɨrɨp saluw
+73-9-160-1,,73,9-160,байлав,байлав,,,,,,,,CyrillTrans;Phonemic,baylaw
+73-9-161-1,,73,9-161,шешуьв,шешуьв,,,,,,,,CyrillTrans;Phonemic,šešüw
+73-9-180-1,,73,9-180,шынжыр,шынжыр,,,,,,,,CyrillTrans;Phonemic,šɨnžɨr
+73-9-190-1,,73,9-190,йип,йип,,,,,,,,CyrillTrans;Phonemic,yip
+73-9-192-1,,73,9-192,туьйик,туьйик,,,,,,,,CyrillTrans;Phonemic,tüyik
+73-9-210-1,,73,9-210,"урмак, тоьбелев, урув, согув",урмак,,,,,,,,CyrillTrans;Phonemic,urmak
+73-9-210-2,,73,9-210,"урмак, тоьбелев, урув, согув",тоьбелев,,,,,,,,CyrillTrans;Phonemic,töbelew
+73-9-210-3,,73,9-210,"урмак, тоьбелев, урув, согув",урув,,,,,,,,CyrillTrans;Phonemic,uruw
+73-9-210-4,,73,9-210,"урмак, тоьбелев, урув, согув",согув,,,,,,,,CyrillTrans;Phonemic,soguw
+73-9-211-1,,73,9-211,"йумырык пан урув, кагув",йумырык пан урув,,,,,,,,CyrillTrans;Phonemic,yumɨrɨk pan uruw
+73-9-211-2,,73,9-211,"йумырык пан урув, кагув",кагув,,,,,,,,CyrillTrans;Phonemic,kaguw
+73-9-220-1,,73,9-220,кесуьв,кесуьв,,,,,,,,CyrillTrans;Phonemic,kesüw
+73-9-221-1,,73,9-221,кыскартув,кыскартув,,,,,,,,CyrillTrans;Phonemic,kɨskartuw
+73-9-222-1,,73,9-222,"кесуьв, туврав, йарув",кесуьв,,,,,,,,CyrillTrans;Phonemic,kesüw
+73-9-222-2,,73,9-222,"кесуьв, туврав, йарув",туврав,,,,,,,,CyrillTrans;Phonemic,tuwraw
+73-9-222-3,,73,9-222,"кесуьв, туврав, йарув",йарув,,,,,,,,CyrillTrans;Phonemic,yaruw
+73-9-223-1,,73,9-223,"шаншув, сугув",шаншув,,,,,,,,CyrillTrans;Phonemic,šanšuw
+73-9-223-2,,73,9-223,"шаншув, сугув",сугув,,,,,,,,CyrillTrans;Phonemic,suguw
+73-9-230-1,,73,9-230,пышак,пышак,,,,,,,,CyrillTrans;Phonemic,pɨšak
+73-9-240-1,,73,9-240,конышы,конышы,,,,,,,,CyrillTrans;Phonemic,konɨšɨ
+73-9-250-1,,73,9-250,балта,балта,,,,,,,,CyrillTrans;Phonemic,balta
+73-9-251-1,,73,9-251,балта,балта,,,,,,,,CyrillTrans;Phonemic,balta
+73-9-260-1,,73,9-260,"сындырув, бузув",сындырув,,,,,,,,CyrillTrans;Phonemic,sɨndɨruw
+73-9-260-2,,73,9-260,"сындырув, бузув",бузув,,,,,,,,CyrillTrans;Phonemic,buzuw
+73-9-261-1,,73,9-261,"сынган, бузылган",сынган,,,,,,,,CyrillTrans;Phonemic,sɨngan
+73-9-261-2,,73,9-261,"сынган, бузылган",бузылган,,,,,,,,CyrillTrans;Phonemic,buzɨlgan
+73-9-270-1,,73,9-270,"йарув, уватув",йарув,,,,,,,,CyrillTrans;Phonemic,yaruw
+73-9-270-2,,73,9-270,"йарув, уватув",уватув,,,,,,,,CyrillTrans;Phonemic,uwatuw
+73-9-280-1,,73,9-280,"йыртув, уьзуьв",йыртув,,,,,,,,CyrillTrans;Phonemic,yɨrtuw
+73-9-280-2,,73,9-280,"йыртув, уьзуьв",уьзуьв,,,,,,,,CyrillTrans;Phonemic,üzüw
+73-9-290-1,,73,9-290,тери сыдырув,тери сыдырув,,,,,,,,CyrillTrans;Phonemic,teri sɨdɨruw
+73-9-310-1,,73,9-310,"сыпырув, суьртуьв, ысып тайдырув",сыпырув,,,,,,,,CyrillTrans;Phonemic,sɨpɨruw
+73-9-310-2,,73,9-310,"сыпырув, суьртуьв, ысып тайдырув",суьртуьв,,,,,,,,CyrillTrans;Phonemic,sürtüw
+73-9-310-3,,73,9-310,"сыпырув, суьртуьв, ысып тайдырув",ысып тайдырув,,,,,,,,CyrillTrans;Phonemic,ɨsɨp taydɨruw
+73-9-320-1,,73,9-320,тартув,тартув,,,,,,,,CyrillTrans;Phonemic,tartuw
+73-9-330-1,,73,9-330,тартув,тартув,,,,,,,,CyrillTrans;Phonemic,tartuw
+73-9-340-1,,73,9-340,"йайув, кенъейтув, кенъейув",йайув,,,,,,,,CyrillTrans;Phonemic,yayuw
+73-9-340-2,,73,9-340,"йайув, кенъейтув, кенъейув",кенъейтув,,,,,,,,CyrillTrans;Phonemic,keŋeytuw
+73-9-340-3,,73,9-340,"йайув, кенъейтув, кенъейув",кенъейув,,,,,,,,CyrillTrans;Phonemic,keŋeyuw
+73-9-341-1,,73,9-341,"илуьв, кыстырув",илуьв,,,,,,,,CyrillTrans;Phonemic,ilüw
+73-9-341-2,,73,9-341,"илуьв, кыстырув",кыстырув,,,,,,,,CyrillTrans;Phonemic,kɨstɨruw
+73-9-342-1,,73,9-342,"кысув, басув",кысув,,,,,,,,CyrillTrans;Phonemic,kɨsuw
+73-9-342-2,,73,9-342,"кысув, басув",басув,,,,,,,,CyrillTrans;Phonemic,basuw
+73-9-343-1,,73,9-343,сыгув,сыгув,,,,,,,,CyrillTrans;Phonemic,sɨguw
+73-9-350-1,,73,9-350,"куйув, тоьгуьв, куйув",куйув,,,,,,,,CyrillTrans;Phonemic,kuyuw
+73-9-350-2,,73,9-350,"куйув, тоьгуьв, куйув",тоьгуьв,,,,,,,,CyrillTrans;Phonemic,tögüw
+73-9-350-3,,73,9-350,"куйув, тоьгуьв, куйув",куйув,,,,,,,,CyrillTrans;Phonemic,kuyuw
+73-9-360-1,,73,9-360,"йувмак, йувув",йувмак,,,,,,,,CyrillTrans;Phonemic,yuwmak
+73-9-360-2,,73,9-360,"йувмак, йувув",йувув,,,,,,,,CyrillTrans;Phonemic,yuwuw
+73-9-370-1,,73,9-370,сыпырув,сыпырув,,,,,,,,CyrillTrans;Phonemic,sɨpɨruw
+73-9-380-1,,73,9-380,сыпыргыш,сыпыргыш,,,,,,,,CyrillTrans;Phonemic,sɨpɨrgɨš
+73-9-422-1,,73,9-422,"алат, курал",алат,,,,,,,,CyrillTrans;Phonemic,alat
+73-9-422-2,,73,9-422,"алат, курал",курал,,,,,,,,CyrillTrans;Phonemic,kural
+73-9-430-1,,73,9-430,"агаш, уста",агаш,,,,,,,,CyrillTrans;Phonemic,agaš
+73-9-430-2,,73,9-430,"агаш, уста",уста,,,,,,,,CyrillTrans;Phonemic,usta
+73-9-440-1,,73,9-440,"туьзуьв, курув, калав",туьзуьв,,,,,,,,CyrillTrans;Phonemic,tüzüw
+73-9-440-2,,73,9-440,"туьзуьв, курув, калав",курув,,,,,,,,CyrillTrans;Phonemic,kuruw
+73-9-440-3,,73,9-440,"туьзуьв, курув, калав",калав,,,,,,,,CyrillTrans;Phonemic,kalaw
+73-9-460-1,,73,9-460,тесик,тесик,,,,,,,,CyrillTrans;Phonemic,tesik
+73-9-461-1,,73,9-461,"тесуьв, ойув, казув, унъуьв",тесуьв,,,,,,,,CyrillTrans;Phonemic,tesüw
+73-9-461-2,,73,9-461,"тесуьв, ойув, казув, унъуьв",ойув,,,,,,,,CyrillTrans;Phonemic,oyuw
+73-9-461-3,,73,9-461,"тесуьв, ойув, казув, унъуьв",казув,,,,,,,,CyrillTrans;Phonemic,kazuw
+73-9-461-4,,73,9-461,"тесуьв, ойув, казув, унъуьв",унъуьв,,,,,,,,CyrillTrans;Phonemic,uŋüw
+73-9-480-1,,73,9-480,пышкы,пышкы,,,,,,,,CyrillTrans;Phonemic,pɨškɨ
+73-9-490-1,,73,9-490,шоькиш,шоькиш,,,,,,,,CyrillTrans;Phonemic,šökiš
+73-9-500-1,,73,9-500,мык,мык,,,,,,,,CyrillTrans;Phonemic,mɨk
+73-9-560-1,,73,9-560,елим,елим,,,,,,,,CyrillTrans;Phonemic,yelim
+73-9-600-1,,73,9-600,темирши,темирши,,,,,,,,CyrillTrans;Phonemic,temirši
+73-9-610-1,,73,9-610,темир уьй,темир уьй,,,,,,,,CyrillTrans;Phonemic,temir üy
+73-9-620-1,,73,9-620,"сандал, таптавыш темири",сандал,,,,,,,,CyrillTrans;Phonemic,sandal
+73-9-620-2,,73,9-620,"сандал, таптавыш темири",таптавыш темири,,,,,,,,CyrillTrans;Phonemic,taptawɨš temiri
+73-9-630-1,,73,9-630,кепке куйув,кепке куйув,,,,,,,,CyrillTrans;Phonemic,kepke kuyuw
+73-9-640-1,,73,9-640,алтын,алтын,,,,,,,,CyrillTrans;Phonemic,altɨn
+73-9-650-1,,73,9-650,куьмис,куьмис,,,,,,,,CyrillTrans;Phonemic,kümis
+73-9-660-1,,73,9-660,"ез, бакир",ез,,,,,,,,CyrillTrans;Phonemic,yez
+73-9-660-2,,73,9-660,"ез, бакир",бакир,,,,,,,,CyrillTrans;Phonemic,bakir
+73-9-670-1,,73,9-670,темир,темир,,,,,,,,CyrillTrans;Phonemic,temir
+73-9-680-1,,73,9-680,"коргай, коргасын",коргай,,,,,,,,CyrillTrans;Phonemic,korgay
+73-9-680-2,,73,9-680,"коргай, коргасын",коргасын,,,,,,,,CyrillTrans;Phonemic,korgasɨn
+73-9-690-1,,73,9-690,"телетин, калай",телетин,,,,,,,,CyrillTrans;Phonemic,teletin
+73-9-690-2,,73,9-690,"телетин, калай",калай,,,,,,,,CyrillTrans;Phonemic,kalay
+73-9-710-1,,73,9-710,балшыктан савыт - сабак этетаган уста,балшыктан савыт - сабак этетаган уста,,,,,,,,CyrillTrans;Phonemic,balšɨktan sawɨt - sabak etetagan usta
+73-9-720-1,,73,9-720,"кеплев, кебине келтируьв",кеплев,,,,,,,,CyrillTrans;Phonemic,keplew
+73-9-720-2,,73,9-720,"кеплев, кебине келтируьв",кебине келтируьв,,,,,,,,CyrillTrans;Phonemic,kebine keltirüw
+73-9-730-1,,73,9-730,балшык,балшык,,,,,,,,CyrillTrans;Phonemic,balšɨk
+73-9-740-1,,73,9-740,сисе,сисе,,,,,,,,CyrillTrans;Phonemic,sise
+73-9-750-1,,73,9-750,"согув, тигуьв",согув,,,,,,,,CyrillTrans;Phonemic,soguw
+73-9-750-2,,73,9-750,"согув, тигуьв",тигуьв,,,,,,,,CyrillTrans;Phonemic,tigüw
+73-9-760-1,,73,9-760,шетен,шетен,,,,,,,,CyrillTrans;Phonemic,šeten
+73-9-770-1,,73,9-770,шыпта,шыпта,,,,,,,,CyrillTrans;Phonemic,šɨpta
+73-9-771-1,,73,9-771,"куьйиз, калше, калша",куьйиз,,,,,,,,CyrillTrans;Phonemic,küyiz
+73-9-771-2,,73,9-771,"куьйиз, калше, калша",калше,,,,,,,,CyrillTrans;Phonemic,kalše
+73-9-771-3,,73,9-771,"куьйиз, калше, калша",калша,,,,,,,,CyrillTrans;Phonemic,kalša
+73-9-780-1,,73,9-780,шелтек дорба,шелтек дорба,,,,,,,,CyrillTrans;Phonemic,šeltek dorba
+73-9-790-1,,73,9-790,"елпивиш, вентилйатор",елпивиш,,,,,,,,CyrillTrans;Phonemic,yelpiwiš
+73-9-790-2,,73,9-790,"елпивиш, вентилйатор",вентилйатор,,,,,,,,CyrillTrans;Phonemic,wentilyator
+73-9-791-1,,73,9-791,"йанъыртув, ел йиберуьв, елпивиш пен ел этуьв",йанъыртув,,,,,,,,CyrillTrans;Phonemic,yaŋɨrtuw
+73-9-791-2,,73,9-791,"йанъыртув, ел йиберуьв, елпивиш пен ел этуьв",ел йиберуьв,,,,,,,,CyrillTrans;Phonemic,yel yiberüw
+73-9-791-3,,73,9-791,"йанъыртув, ел йиберуьв, елпивиш пен ел этуьв",елпивиш пен ел этуьв,,,,,,,,CyrillTrans;Phonemic,yelpiwiš pen yel etüw
+73-9-810-1,,73,9-810,кесип алув,кесип алув,,,,,,,,CyrillTrans;Phonemic,kesip aluw
+73-9-820-1,,73,9-820,скульптор,скульптор,,,,,,,,CyrillTrans;Phonemic,skulʲptor
+73-9-830-1,,73,9-830,тас суьврет,тас суьврет,,,,,,,,CyrillTrans;Phonemic,tas süwret
+73-9-840-1,,73,9-840,кескиш,кескиш,,,,,,,,CyrillTrans;Phonemic,keskiš
+73-9-880-1,,73,9-880,"сыр, бойак",сыр,,,,,,,,CyrillTrans;Phonemic,sɨr
+73-9-880-2,,73,9-880,"сыр, бойак",бойак,,,,,,,,CyrillTrans;Phonemic,boyak
+73-9-890-1,,73,9-890,"бойав, сырлав, суьврет йасав",бойав,,,,,,,,CyrillTrans;Phonemic,boyaw
+73-9-890-2,,73,9-890,"бойав, сырлав, суьврет йасав",сырлав,,,,,,,,CyrillTrans;Phonemic,sɨrlaw
+73-9-890-3,,73,9-890,"бойав, сырлав, суьврет йасав",суьврет йасав,,,,,,,,CyrillTrans;Phonemic,süwret yasaw
+73-10-110-1,,73,10-110,"коралув, йыбырдав, йуруьв",коралув,,,,,,,,CyrillTrans;Phonemic,koraluw
+73-10-110-2,,73,10-110,"коралув, йыбырдав, йуруьв",йыбырдав,,,,,,,,CyrillTrans;Phonemic,yɨbɨrdaw
+73-10-110-3,,73,10-110,"коралув, йыбырдав, йуруьв",йуруьв,,,,,,,,CyrillTrans;Phonemic,yurüw
+73-10-120-1,,73,10-120,"айланув, авдарылынув",айланув,,,,,,,,CyrillTrans;Phonemic,aylanuw
+73-10-120-2,,73,10-120,"айланув, авдарылынув",авдарылынув,,,,,,,,CyrillTrans;Phonemic,awdarɨlɨnuw
+73-10-130-1,,73,10-130,ашын лйув (тоьсев),ашын лйув,,,,,,,,CyrillTrans;Phonemic,ašɨn lyuw
+73-10-140-1,,73,10-140,айланув,айланув,,,,,,,,CyrillTrans;Phonemic,aylanuw
+73-10-150-1,,73,10-150,"айландырув, тоьгерек айландырув",айландырув,,,,,,,,CyrillTrans;Phonemic,aylandɨruw
+73-10-150-2,,73,10-150,"айландырув, тоьгерек айландырув",тоьгерек айландырув,,,,,,,,CyrillTrans;Phonemic,tögerek aylandɨruw
+73-10-160-1,,73,10-160,"тамдырув, тамув",тамдырув,,,,,,,,CyrillTrans;Phonemic,tamdɨruw
+73-10-160-2,,73,10-160,"тамдырув, тамув",тамув,,,,,,,,CyrillTrans;Phonemic,tamuw
+73-10-170-1,,73,10-170,"бурув, орав",бурув,,,,,,,,CyrillTrans;Phonemic,buruw
+73-10-170-2,,73,10-170,"бурув, орав",орав,,,,,,,,CyrillTrans;Phonemic,oraw
+73-10-210-1,,73,10-210,"коьтерилуьв, оьрленуьв",коьтерилуьв,,,,,,,,CyrillTrans;Phonemic,köterilüw
+73-10-210-2,,73,10-210,"коьтерилуьв, оьрленуьв",оьрленуьв,,,,,,,,CyrillTrans;Phonemic,örlenüw
+73-10-220-1,,73,10-220,коьтеруьв,коьтеруьв,,,,,,,,CyrillTrans;Phonemic,köterüw
+73-10-230-1,,73,10-230,"туьсуьв, йыгылув",туьсуьв,,,,,,,,CyrillTrans;Phonemic,tüsüw
+73-10-230-2,,73,10-230,"туьсуьв, йыгылув",йыгылув,,,,,,,,CyrillTrans;Phonemic,yɨgɨluw
+73-10-240-1,,73,10-240,"тамшылап туьсуьв, тамув",тамшылап туьсуьв,,,,,,,,CyrillTrans;Phonemic,tamšɨlap tüsüw
+73-10-240-2,,73,10-240,"тамшылап туьсуьв, тамув",тамув,,,,,,,,CyrillTrans;Phonemic,tamuw
+73-10-250-1,,73,10-250,"таслав, атув",таслав,,,,,,,,CyrillTrans;Phonemic,taslaw
+73-10-250-2,,73,10-250,"таслав, атув",атув,,,,,,,,CyrillTrans;Phonemic,atuw
+73-10-252-1,,73,10-252,ыслав (топты),ыслав,,,,,,,,CyrillTrans;Phonemic,ɨslaw
+73-10-260-1,,73,10-260,"силкуьв, козгав",силкуьв,,,,,,,,CyrillTrans;Phonemic,silküw
+73-10-260-2,,73,10-260,"силкуьв, козгав",козгав,,,,,,,,CyrillTrans;Phonemic,kozgaw
+73-10-320-1,,73,10-320,"тоьгулуьв, агув, куйылув",тоьгулуьв,,,,,,,,CyrillTrans;Phonemic,tögulüw
+73-10-320-2,,73,10-320,"тоьгулуьв, агув, куйылув",агув,,,,,,,,CyrillTrans;Phonemic,aguw
+73-10-320-3,,73,10-320,"тоьгулуьв, агув, куйылув",куйылув,,,,,,,,CyrillTrans;Phonemic,kuyɨluw
+73-10-330-1,,73,10-330,"сувга, батув, коьмилуьв, йутылув",сувга,,,,,,,,CyrillTrans;Phonemic,suwga
+73-10-330-2,,73,10-330,"сувга, батув, коьмилуьв, йутылув",батув,,,,,,,,CyrillTrans;Phonemic,batuw
+73-10-330-3,,73,10-330,"сувга, батув, коьмилуьв, йутылув",коьмилуьв,,,,,,,,CyrillTrans;Phonemic,kömilüw
+73-10-330-4,,73,10-330,"сувга, батув, коьмилуьв, йутылув",йутылув,,,,,,,,CyrillTrans;Phonemic,yutɨluw
+73-10-340-1,,73,10-340,"йузуьв, йалдав",йузуьв,,,,,,,,CyrillTrans;Phonemic,yuzüw
+73-10-340-2,,73,10-340,"йузуьв, йалдав",йалдав,,,,,,,,CyrillTrans;Phonemic,yaldaw
+73-10-350-1,,73,10-350,йалдав,йалдав,,,,,,,,CyrillTrans;Phonemic,yaldaw
+73-10-351-1,,73,10-351,йузуьв,йузуьв,,,,,,,,CyrillTrans;Phonemic,yuzüw
+73-10-352-1,,73,10-352,сувда шаркылдан турув,сувда шаркылдан турув,,,,,,,,CyrillTrans;Phonemic,suwda šarkɨldan turuw
+73-10-360-1,,73,10-360,елкенди йайып барув (йалдав),елкенди йайып барув,,,,,,,,CyrillTrans;Phonemic,yelkendi yayɨp baruw
+73-10-370-1,,73,10-370,ушув,ушув,,,,,,,,CyrillTrans;Phonemic,ušuw
+73-10-380-1,,73,10-380,уьпируьв,уьпируьв,,,,,,,,CyrillTrans;Phonemic,üpirüw
+73-10-410-1,,73,10-410,"эмеклев, йалдап барув",эмеклев,,,,,,,,CyrillTrans;Phonemic,emeklew
+73-10-410-2,,73,10-410,"эмеклев, йалдап барув",йалдап барув,,,,,,,,CyrillTrans;Phonemic,yaldap baruw
+73-10-412-1,,73,10-412,"тизге турув, шоьгуьв",тизге турув,,,,,,,,CyrillTrans;Phonemic,tizge turuw
+73-10-412-2,,73,10-412,"тизге турув, шоьгуьв",шоьгуьв,,,,,,,,CyrillTrans;Phonemic,šögüw
+73-10-413-1,,73,10-413,шоьнъкейуьв,шоьнъкейуьв,,,,,,,,CyrillTrans;Phonemic,šöŋkeyüw
+73-10-420-1,,73,10-420,"сыргалав, тайысув",сыргалав,,,,,,,,CyrillTrans;Phonemic,sɨrgalaw
+73-10-420-2,,73,10-420,"сыргалав, тайысув",тайысув,,,,,,,,CyrillTrans;Phonemic,tayɨsuw
+73-10-430-1,,73,10-430,кыргув,кыргув,,,,,,,,CyrillTrans;Phonemic,kɨrguw
+73-10-431-1,,73,10-431,тебуьв,тебуьв,,,,,,,,CyrillTrans;Phonemic,tebüw
+73-10-440-1,,73,10-440,"бийуьв, бийув",бийуьв,,,,,,,,CyrillTrans;Phonemic,biyüw
+73-10-440-2,,73,10-440,"бийуьв, бийув",бийув,,,,,,,,CyrillTrans;Phonemic,biyuw
+73-10-450-1,,73,10-450,йуруьв,йуруьв,,,,,,,,CyrillTrans;Phonemic,yurüw
+73-10-451-1,,73,10-451,"аксакламак, аксанълав",аксакламак,,,,,,,,CyrillTrans;Phonemic,aksaklamak
+73-10-451-2,,73,10-451,"аксакламак, аксанълав",аксанълав,,,,,,,,CyrillTrans;Phonemic,aksaŋlaw
+73-10-460-1,,73,10-460,кашув,кашув,,,,,,,,CyrillTrans;Phonemic,kašuw
+73-10-470-1,,73,10-470,"йурип барув, йуруьв",йурип барув,,,,,,,,CyrillTrans;Phonemic,yurip baruw
+73-10-470-2,,73,10-470,"йурип барув, йуруьв",йуруьв,,,,,,,,CyrillTrans;Phonemic,yurüw
+73-10-471-1,,73,10-471,"коьтерилуьв, оьрленуьв",коьтерилуьв,,,,,,,,CyrillTrans;Phonemic,köterilüw
+73-10-471-2,,73,10-471,"коьтерилуьв, оьрленуьв",оьрленуьв,,,,,,,,CyrillTrans;Phonemic,örlenüw
+73-10-472-1,,73,10-472,"минуьв, коьтерилинуьв",минуьв,,,,,,,,CyrillTrans;Phonemic,minüw
+73-10-472-2,,73,10-472,"минуьв, коьтерилинуьв",коьтерилинуьв,,,,,,,,CyrillTrans;Phonemic,köterilinüw
+73-10-473-1,,73,10-473,"туьсуьв, тоьменте йуруьв",туьсуьв,,,,,,,,CyrillTrans;Phonemic,tüsüw
+73-10-473-2,,73,10-473,"туьсуьв, тоьменте йуруьв",тоьменте йуруьв,,,,,,,,CyrillTrans;Phonemic,tömente yurüw
+73-10-474-1,,73,10-474,шыгув,шыгув,,,,,,,,CyrillTrans;Phonemic,šɨguw
+73-10-480-1,,73,10-480,"келуьв, йувыклав",келуьв,,,,,,,,CyrillTrans;Phonemic,kelüw
+73-10-480-2,,73,10-480,"келуьв, йувыклав",йувыклав,,,,,,,,CyrillTrans;Phonemic,yuwɨklaw
+73-10-481-1,,73,10-481,"кайтув, келуьв",кайтув,,,,,,,,CyrillTrans;Phonemic,kaytuw
+73-10-481-2,,73,10-481,"кайтув, келуьв",келуьв,,,,,,,,CyrillTrans;Phonemic,kelüw
+73-10-490-1,,73,10-490,кетуьв,кетуьв,,,,,,,,CyrillTrans;Phonemic,ketüw
+73-10-491-1,,73,10-491,йок болув,йок болув,,,,,,,,CyrillTrans;Phonemic,yok boluw
+73-10-510-1,,73,10-510,"кашув, кашып кутылув",кашув,,,,,,,,CyrillTrans;Phonemic,kašuw
+73-10-510-2,,73,10-510,"кашув, кашып кутылув",кашып кутылув,,,,,,,,CyrillTrans;Phonemic,kašɨp kutɨluw
+73-10-520-1,,73,10-520,"артыннан барув, иеруьв, йуруьв",артыннан барув,,,,,,,,CyrillTrans;Phonemic,artɨnnan baruw
+73-10-520-2,,73,10-520,"артыннан барув, иеруьв, йуруьв",иеруьв,,,,,,,,CyrillTrans;Phonemic,ierüw
+73-10-520-3,,73,10-520,"артыннан барув, иеруьв, йуруьв",йуруьв,,,,,,,,CyrillTrans;Phonemic,yurüw
+73-10-530-1,,73,10-530,"артыннан (ызыннан) кувын барув, кыйкав",артыннан кувын барув,,,,,,,,CyrillTrans;Phonemic,artɨnnan kuwɨn baruw
+73-10-530-2,,73,10-530,"артыннан (ызыннан) кувын барув, кыйкав",кыйкав,,,,,,,,CyrillTrans;Phonemic,kɨykaw
+73-10-550-1,,73,10-550,"етуьв, келуьв",етуьв,,,,,,,,CyrillTrans;Phonemic,yetüw
+73-10-550-2,,73,10-550,"етуьв, келуьв",келуьв,,,,,,,,CyrillTrans;Phonemic,kelüw
+73-10-560-1,,73,10-560,"йувыклав, йанасув, келуьв",йувыклав,,,,,,,,CyrillTrans;Phonemic,yuwɨklaw
+73-10-560-2,,73,10-560,"йувыклав, йанасув, келуьв",йанасув,,,,,,,,CyrillTrans;Phonemic,yanasuw
+73-10-560-3,,73,10-560,"йувыклав, йанасув, келуьв",келуьв,,,,,,,,CyrillTrans;Phonemic,kelüw
+73-10-570-1,,73,10-570,кируьв,кируьв,,,,,,,,CyrillTrans;Phonemic,kirüw
+73-10-610-1,,73,10-610,"элтев, алып барув",элтев,,,,,,,,CyrillTrans;Phonemic,eltew
+73-10-610-2,,73,10-610,"элтев, алып барув",алып барув,,,,,,,,CyrillTrans;Phonemic,alɨp baruw
+73-10-612-1,,73,10-612,"элтев, колына алып барув (элтев)",элтев,,,,,,,,CyrillTrans;Phonemic,eltew
+73-10-612-2,,73,10-612,"элтев, колына алып барув (элтев)",колына алып барув,,,,,,,,CyrillTrans;Phonemic,kolɨna alɨp baruw
+73-10-613-1,,73,10-613,"элтев, ийнине салып элтев",элтев,,,,,,,,CyrillTrans;Phonemic,eltew
+73-10-613-2,,73,10-613,"элтев, ийнине салып элтев",ийнине салып элтев,,,,,,,,CyrillTrans;Phonemic,iynine salɨp eltew
+73-10-614-1,,73,10-614,"элтев, басына салып элтев",элтев,,,,,,,,CyrillTrans;Phonemic,eltew
+73-10-614-2,,73,10-614,"элтев, басына салып элтев",басына салып элтев,,,,,,,,CyrillTrans;Phonemic,basɨna salɨp eltew
+73-10-615-1,,73,10-615,койнына салып элтев,койнына салып элтев,,,,,,,,CyrillTrans;Phonemic,koynɨna salɨp eltew
+73-10-620-1,,73,10-620,"аькелуьв, элтев",аькелуьв,,,,,,,,CyrillTrans;Phonemic,äkelüw
+73-10-620-2,,73,10-620,"аькелуьв, элтев",элтев,,,,,,,,CyrillTrans;Phonemic,eltew
+73-10-630-1,,73,10-630,йиберуьв,йиберуьв,,,,,,,,CyrillTrans;Phonemic,yiberüw
+73-10-640-1,,73,10-640,"йуритуьв, алып барув",йуритуьв,,,,,,,,CyrillTrans;Phonemic,yuritüw
+73-10-640-2,,73,10-640,"йуритуьв, алып барув",алып барув,,,,,,,,CyrillTrans;Phonemic,alɨp baruw
+73-10-650-1,,73,10-650,"машинде барув (кетуьв, кыдырув)",машинде барув,,,,,,,,CyrillTrans;Phonemic,mašinde baruw
+73-10-660-1,,73,10-660,"атта кыдырув, атлы барув",атта кыдырув,,,,,,,,CyrillTrans;Phonemic,at̄a kɨdɨruw
+73-10-660-2,,73,10-660,"атта кыдырув, атлы барув",атлы барув,,,,,,,,CyrillTrans;Phonemic,atlɨ baruw
+73-10-670-1,,73,10-670,"ийтев, теберуьв",ийтев,,,,,,,,CyrillTrans;Phonemic,iytew
+73-10-670-2,,73,10-670,"ийтев, теберуьв",теберуьв,,,,,,,,CyrillTrans;Phonemic,teberüw
+73-10-710-1,,73,10-710,йол,йол,,,,,,,,CyrillTrans;Phonemic,yol
+73-10-720-1,,73,10-720,сокпак,сокпак,,,,,,,,CyrillTrans;Phonemic,sokpak
+73-10-740-1,,73,10-740,"коьпир, кешуьв",коьпир,,,,,,,,CyrillTrans;Phonemic,köpir
+73-10-740-2,,73,10-740,"коьпир, кешуьв",кешуьв,,,,,,,,CyrillTrans;Phonemic,kešüw
+73-10-750-1,,73,10-750,"арба, телеген",арба,,,,,,,,CyrillTrans;Phonemic,arba
+73-10-750-2,,73,10-750,"арба, телеген",телеген,,,,,,,,CyrillTrans;Phonemic,telegen
+73-10-760-1,,73,10-760,тынъыршык,тынъыршык,,,,,,,,CyrillTrans;Phonemic,tɨŋɨršɨk
+73-10-770-1,,73,10-770,коьшир агаш,коьшир агаш,,,,,,,,CyrillTrans;Phonemic,köšir agaš
+73-10-780-1,,73,10-780,"мойса, агаш камыт, эзуьв, азап",мойса,,,,,,,,CyrillTrans;Phonemic,moysa
+73-10-780-2,,73,10-780,"мойса, агаш камыт, эзуьв, азап",агаш камыт,,,,,,,,CyrillTrans;Phonemic,agaš kamɨt
+73-10-780-3,,73,10-780,"мойса, агаш камыт, эзуьв, азап",эзуьв,,,,,,,,CyrillTrans;Phonemic,ezüw
+73-10-780-4,,73,10-780,"мойса, агаш камыт, эзуьв, азап",азап,,,,,,,,CyrillTrans;Phonemic,azap
+73-10-810-1,,73,10-810,кеме,кеме,,,,,,,,CyrillTrans;Phonemic,keme
+73-10-830-1,,73,10-830,кайык,кайык,,,,,,,,CyrillTrans;Phonemic,kayɨk
+73-10-831-1,,73,10-831,"каноэ, кайык",каноэ,,,,,,,,CyrillTrans;Phonemic,kanoe
+73-10-831-2,,73,10-831,"каноэ, кайык",кайык,,,,,,,,CyrillTrans;Phonemic,kayɨk
+73-10-832-1,,73,10-832,кайык,кайык,,,,,,,,CyrillTrans;Phonemic,kayɨk
+73-10-840-1,,73,10-840,сал,сал,,,,,,,,CyrillTrans;Phonemic,sal
+73-10-850-1,,73,10-850,"эскек, калак",эскек,,,,,,,,CyrillTrans;Phonemic,eskek
+73-10-850-2,,73,10-850,"эскек, калак",калак,,,,,,,,CyrillTrans;Phonemic,kalak
+73-10-851-1,,73,10-851,"калак, эскек",калак,,,,,,,,CyrillTrans;Phonemic,kalak
+73-10-851-2,,73,10-851,"калак, эскек",эскек,,,,,,,,CyrillTrans;Phonemic,eskek
+73-10-852-1,,73,10-852,"эскеклев, йылов, тырнав",эскеклев,,,,,,,,CyrillTrans;Phonemic,eskeklew
+73-10-852-2,,73,10-852,"эскеклев, йылов, тырнав",йылов,,,,,,,,CyrillTrans;Phonemic,yɨlow
+73-10-852-3,,73,10-852,"эскеклев, йылов, тырнав",тырнав,,,,,,,,CyrillTrans;Phonemic,tɨrnaw
+73-10-860-1,,73,10-860,руль,руль,,,,,,,,CyrillTrans;Phonemic,rulʲ
+73-10-870-1,,73,10-870,мачта,мачта,,,,,,,,CyrillTrans;Phonemic,mačta
+73-10-880-1,,73,10-880,йалкен,йалкен,,,,,,,,CyrillTrans;Phonemic,yalken
+73-10-890-1,,73,10-890,лабар,лабар,,,,,,,,CyrillTrans;Phonemic,labar
+73-10-910-1,,73,10-910,"гавань, порт",гавань,,,,,,,,CyrillTrans;Phonemic,gawanʲ
+73-10-910-2,,73,10-910,"гавань, порт",порт,,,,,,,,CyrillTrans;Phonemic,port
+73-10-920-1,,73,10-920,"сув мага келип токтав, ерге туьсуьв",сув мага келип токтав,,,,,,,,CyrillTrans;Phonemic,suw maga kelip toktaw
+73-10-920-2,,73,10-920,"сув мага келип токтав, ерге туьсуьв",ерге туьсуьв,,,,,,,,CyrillTrans;Phonemic,yerge tüsüw
+73-11-110-1,,73,11-110,"ие болув, оьзинде бирзат саклав",ие болув,,,,,,,,CyrillTrans;Phonemic,ie boluw
+73-11-110-2,,73,11-110,"ие болув, оьзинде бирзат саклав",оьзинде бирзат саклав,,,,,,,,CyrillTrans;Phonemic,özinde birzat saklaw
+73-11-120-1,,73,11-120,ие болув,ие болув,,,,,,,,CyrillTrans;Phonemic,ie boluw
+73-11-130-1,,73,11-130,"алмак, алув",алмак,,,,,,,,CyrillTrans;Phonemic,almak
+73-11-130-2,,73,11-130,"алмак, алув",алув,,,,,,,,CyrillTrans;Phonemic,aluw
+73-11-140-1,,73,11-140,"ыслав, кагын ыслав",ыслав,,,,,,,,CyrillTrans;Phonemic,ɨslaw
+73-11-140-2,,73,11-140,"ыслав, кагын ыслав",кагын ыслав,,,,,,,,CyrillTrans;Phonemic,kagɨn ɨslaw
+73-11-150-1,,73,11-150,"тутув, ыслап турув",тутув,,,,,,,,CyrillTrans;Phonemic,tutuw
+73-11-150-2,,73,11-150,"тутув, ыслап турув",ыслап турув,,,,,,,,CyrillTrans;Phonemic,ɨslap turuw
+73-11-160-1,,73,11-160,алув,алув,,,,,,,,CyrillTrans;Phonemic,aluw
+73-11-170-1,,73,11-170,саклав,саклав,,,,,,,,CyrillTrans;Phonemic,saklaw
+73-11-180-1,,73,11-180,зат,зат,,,,,,,,CyrillTrans;Phonemic,zat
+73-11-210-1,,73,11-210,беруьв,беруьв,,,,,,,,CyrillTrans;Phonemic,berüw
+73-11-220-1,,73,11-220,"кайтарув, кайтарып беруьв",кайтарув,,,,,,,,CyrillTrans;Phonemic,kaytaruw
+73-11-220-2,,73,11-220,"кайтарув, кайтарып беруьв",кайтарып беруьв,,,,,,,,CyrillTrans;Phonemic,kaytarɨp berüw
+73-11-240-1,,73,11-240,саклав,саклав,,,,,,,,CyrillTrans;Phonemic,saklaw
+73-11-250-1,,73,11-250,"кутгармак, куткарув",кутгармак,,,,,,,,CyrillTrans;Phonemic,kutgarmak
+73-11-250-2,,73,11-250,"кутгармак, куткарув",куткарув,,,,,,,,CyrillTrans;Phonemic,kutkaruw
+73-11-270-1,,73,11-270,бузув,бузув,,,,,,,,CyrillTrans;Phonemic,buzuw
+73-11-280-1,,73,11-280,зыйа келтируьв,зыйа келтируьв,,,,,,,,CyrillTrans;Phonemic,zɨya keltirüw
+73-11-310-1,,73,11-310,излев,излев,,,,,,,,CyrillTrans;Phonemic,izlew
+73-11-320-1,,73,11-320,табув,табув,,,,,,,,CyrillTrans;Phonemic,tabuw
+73-11-330-1,,73,11-330,йок этуьв,йок этуьв,,,,,,,,CyrillTrans;Phonemic,yok etüw
+73-11-340-1,,73,11-340,йиберуьв,йиберуьв,,,,,,,,CyrillTrans;Phonemic,yiberüw
+73-11-430-1,,73,11-430,акша,акша,,,,,,,,CyrillTrans;Phonemic,akša
+73-11-440-1,,73,11-440,"акша, маьнет",акша,,,,,,,,CyrillTrans;Phonemic,akša
+73-11-440-2,,73,11-440,"акша, маьнет",маьнет,,,,,,,,CyrillTrans;Phonemic,mänet
+73-11-510-1,,73,11-510,бай,бай,,,,,,,,CyrillTrans;Phonemic,bay
+73-11-520-1,,73,11-520,"йарлы, каьрип",йарлы,,,,,,,,CyrillTrans;Phonemic,yarlɨ
+73-11-520-2,,73,11-520,"йарлы, каьрип",каьрип,,,,,,,,CyrillTrans;Phonemic,kärip
+73-11-530-1,,73,11-530,"тиленши, йарлы",тиленши,,,,,,,,CyrillTrans;Phonemic,tilenši
+73-11-530-2,,73,11-530,"тиленши, йарлы",йарлы,,,,,,,,CyrillTrans;Phonemic,yarlɨ
+73-11-540-1,,73,11-540,кызганыш,кызганыш,,,,,,,,CyrillTrans;Phonemic,kɨzganɨš
+73-11-610-1,,73,11-610,борышка беруьв,борышка беруьв,,,,,,,,CyrillTrans;Phonemic,borɨška berüw
+73-11-620-1,,73,11-620,борышка алув,борышка алув,,,,,,,,CyrillTrans;Phonemic,borɨška aluw
+73-11-630-1,,73,11-630,борышлы болув,борышлы болув,,,,,,,,CyrillTrans;Phonemic,borɨšlɨ boluw
+73-11-640-1,,73,11-640,борыш,борыш,,,,,,,,CyrillTrans;Phonemic,borɨš
+73-11-650-1,,73,11-650,тоьлев,тоьлев,,,,,,,,CyrillTrans;Phonemic,tölew
+73-11-660-1,,73,11-660,"эсап, сан",эсап,,,,,,,,CyrillTrans;Phonemic,esap
+73-11-660-2,,73,11-660,"эсап, сан",сан,,,,,,,,CyrillTrans;Phonemic,san
+73-11-690-1,,73,11-690,налог,налог,,,,,,,,CyrillTrans;Phonemic,nalog
+73-11-770-1,,73,11-770,заманга кулланмага алув,заманга кулланмага алув,,,,,,,,CyrillTrans;Phonemic,zamanga kullanmaga aluw
+73-11-780-1,,73,11-780,кыйын ак,кыйын ак,,,,,,,,CyrillTrans;Phonemic,kɨyɨn ak
+73-11-790-1,,73,11-790,"ислеп табув, казанув",ислеп табув,,,,,,,,CyrillTrans;Phonemic,islep tabuw
+73-11-790-2,,73,11-790,"ислеп табув, казанув",казанув,,,,,,,,CyrillTrans;Phonemic,kazanuw
+73-11-810-1,,73,11-810,сатып алув,сатып алув,,,,,,,,CyrillTrans;Phonemic,satɨp aluw
+73-11-820-1,,73,11-820,сатув,сатув,,,,,,,,CyrillTrans;Phonemic,satuw
+73-11-830-1,,73,11-830,"сатув-алув, авыстырув",сатув-алув,,,,,,,,CyrillTrans;Phonemic,satuw-aluw
+73-11-830-2,,73,11-830,"сатув-алув, авыстырув",авыстырув,,,,,,,,CyrillTrans;Phonemic,awɨstɨruw
+73-11-840-1,,73,11-840,"купец, сатувшы",купец,,,,,,,,CyrillTrans;Phonemic,kupec
+73-11-840-2,,73,11-840,"купец, сатувшы",сатувшы,,,,,,,,CyrillTrans;Phonemic,satuwšɨ
+73-11-850-1,,73,11-850,базар,базар,,,,,,,,CyrillTrans;Phonemic,bazar
+73-11-860-1,,73,11-860,туькен,туькен,,,,,,,,CyrillTrans;Phonemic,tüken
+73-11-870-1,,73,11-870,баа,баа,,,,,,,,CyrillTrans;Phonemic,baʔa
+73-11-880-1,,73,11-880,"баа, баалы",баа,,,,,,,,CyrillTrans;Phonemic,baʔa
+73-11-880-2,,73,11-880,"баа, баалы",баалы,,,,,,,,CyrillTrans;Phonemic,baʔalɨ
+73-11-890-1,,73,11-890,колай,колай,,,,,,,,CyrillTrans;Phonemic,kolay
+73-11-910-1,,73,11-910,"пайлав, боьлип беруьв",пайлав,,,,,,,,CyrillTrans;Phonemic,paylaw
+73-11-910-2,,73,11-910,"пайлав, боьлип беруьв",боьлип беруьв,,,,,,,,CyrillTrans;Phonemic,bölip berüw
+73-11-920-1,,73,11-920,шегуьв,шегуьв,,,,,,,,CyrillTrans;Phonemic,šegüw
+73-12-10-1,,73,12-10,сонъ,сонъ,,,,,,,,CyrillTrans;Phonemic,soŋ
+73-12-11-1,,73,12-11,"оннан сонъ, сонъ",оннан сонъ,,,,,,,,CyrillTrans;Phonemic,onnan soŋ
+73-12-11-2,,73,12-11,"оннан сонъ, сонъ",сонъ,,,,,,,,CyrillTrans;Phonemic,soŋ
+73-12-20-1,,73,12-20,"йанында, касында",йанында,,,,,,,,CyrillTrans;Phonemic,yanɨnda
+73-12-20-2,,73,12-20,"йанында, касында",касында,,,,,,,,CyrillTrans;Phonemic,kasɨnda
+73-12-30-1,,73,12-30,"тоьмен, тоьменге",тоьмен,,,,,,,,CyrillTrans;Phonemic,tömen
+73-12-30-2,,73,12-30,"тоьмен, тоьменге",тоьменге,,,,,,,,CyrillTrans;Phonemic,tömenge
+73-12-40-1,,73,12-40,"алды, алдын, ога дейим",алды,,,,,,,,CyrillTrans;Phonemic,aldɨ
+73-12-40-2,,73,12-40,"алды, алдын, ога дейим",алдын,,,,,,,,CyrillTrans;Phonemic,aldɨn
+73-12-40-3,,73,12-40,"алды, алдын, ога дейим",ога дейим,,,,,,,,CyrillTrans;Phonemic,oga deyim
+73-12-41-1,,73,12-41,алды,алды,,,,,,,,CyrillTrans;Phonemic,aldɨ
+73-12-50-1,,73,12-50,ишинде,ишинде,,,,,,,,CyrillTrans;Phonemic,išinde
+73-12-60-1,,73,12-60,"тысында, кырында",тысында,,,,,,,,CyrillTrans;Phonemic,tɨsɨnda
+73-12-60-2,,73,12-60,"тысында, кырында",кырында,,,,,,,,CyrillTrans;Phonemic,kɨrɨnda
+73-12-70-1,,73,12-70,"тоьменде астында, туьбинде",тоьменде астында,,,,,,,,CyrillTrans;Phonemic,tömende astɨnda
+73-12-70-2,,73,12-70,"тоьменде астында, туьбинде",туьбинде,,,,,,,,CyrillTrans;Phonemic,tübinde
+73-12-80-1,,73,12-80,уьстинде,уьстинде,,,,,,,,CyrillTrans;Phonemic,üstinde
+73-12-110-1,,73,12-110,"орын, ер",орын,,,,,,,,CyrillTrans;Phonemic,orɨn
+73-12-110-2,,73,12-110,"орын, ер",ер,,,,,,,,CyrillTrans;Phonemic,yer
+73-12-120-1,,73,12-120,"салмак, салув",салмак,,,,,,,,CyrillTrans;Phonemic,salmak
+73-12-120-2,,73,12-120,"салмак, салув",салув,,,,,,,,CyrillTrans;Phonemic,saluw
+73-12-130-1,,73,12-130,олтырув,олтырув,,,,,,,,CyrillTrans;Phonemic,oltɨruw
+73-12-140-1,,73,12-140,"йатмак, йатув",йатмак,,,,,,,,CyrillTrans;Phonemic,yatmak
+73-12-140-2,,73,12-140,"йатмак, йатув",йатув,,,,,,,,CyrillTrans;Phonemic,yatuw
+73-12-150-1,,73,12-150,"турув, турагалув",турув,,,,,,,,CyrillTrans;Phonemic,turuw
+73-12-150-2,,73,12-150,"турув, турагалув",турагалув,,,,,,,,CyrillTrans;Phonemic,turagaluw
+73-12-160-1,,73,12-160,"еринде калув, калув",еринде калув,,,,,,,,CyrillTrans;Phonemic,yerinde kaluw
+73-12-160-2,,73,12-160,"еринде калув, калув",калув,,,,,,,,CyrillTrans;Phonemic,kaluw
+73-12-170-1,,73,12-170,"калдык, калмтык",калдык,,,,,,,,CyrillTrans;Phonemic,kaldɨk
+73-12-170-2,,73,12-170,"калдык, калмтык",калмтык,,,,,,,,CyrillTrans;Phonemic,kalmtɨk
+73-12-210-1,,73,12-210,"йыйув, йыйнав",йыйув,,,,,,,,CyrillTrans;Phonemic,yɨyuw
+73-12-210-2,,73,12-210,"йыйув, йыйнав",йыйнав,,,,,,,,CyrillTrans;Phonemic,yɨynaw
+73-12-212-1,,73,12-212,"коьтеруьв, коьтерип алув",коьтеруьв,,,,,,,,CyrillTrans;Phonemic,köterüw
+73-12-212-2,,73,12-212,"коьтеруьв, коьтерип алув",коьтерип алув,,,,,,,,CyrillTrans;Phonemic,köterip aluw
+73-12-213-1,,73,12-213,"йыйнав, тоьбе-тоьбе этуьв, уьсти-уьстине салув",йыйнав,,,,,,,,CyrillTrans;Phonemic,yɨynaw
+73-12-213-2,,73,12-213,"йыйнав, тоьбе-тоьбе этуьв, уьсти-уьстине салув",тоьбе-тоьбе этуьв,,,,,,,,CyrillTrans;Phonemic,töbe-töbe etüw
+73-12-213-3,,73,12-213,"йыйнав, тоьбе-тоьбе этуьв, уьсти-уьстине салув",уьсти-уьстине салув,,,,,,,,CyrillTrans;Phonemic,üsti-üstine saluw
+73-12-220-1,,73,12-220,"косув, бирлестируьв",косув,,,,,,,,CyrillTrans;Phonemic,kosuw
+73-12-220-2,,73,12-220,"косув, бирлестируьв",бирлестируьв,,,,,,,,CyrillTrans;Phonemic,birlestirüw
+73-12-230-1,,73,12-230,"айырув, боьлуьв",айырув,,,,,,,,CyrillTrans;Phonemic,ayɨruw
+73-12-230-2,,73,12-230,"айырув, боьлуьв",боьлуьв,,,,,,,,CyrillTrans;Phonemic,bölüw
+73-12-232-1,,73,12-232,"боьлуьв, кесеклев",боьлуьв,,,,,,,,CyrillTrans;Phonemic,bölüw
+73-12-232-2,,73,12-232,"боьлуьв, кесеклев",кесеклев,,,,,,,,CyrillTrans;Phonemic,keseklew
+73-12-240-1,,73,12-240,ашув,ашув,,,,,,,,CyrillTrans;Phonemic,ašuw
+73-12-250-1,,73,12-250,йабув,йабув,,,,,,,,CyrillTrans;Phonemic,yabuw
+73-12-260-1,,73,12-260,уьстин йабув,уьстин йабув,,,,,,,,CyrillTrans;Phonemic,üstin yabuw
+73-12-270-1,,73,12-270,"тыгув, йасырув",тыгув,,,,,,,,CyrillTrans;Phonemic,tɨguw
+73-12-270-2,,73,12-270,"тыгув, йасырув",йасырув,,,,,,,,CyrillTrans;Phonemic,yasɨruw
+73-12-310-1,,73,12-310,"бийик, бийикте",бийик,,,,,,,,CyrillTrans;Phonemic,biyik
+73-12-310-2,,73,12-310,"бийик, бийикте",бийикте,,,,,,,,CyrillTrans;Phonemic,biyikte
+73-12-320-1,,73,12-320,тоьмен,тоьмен,,,,,,,,CyrillTrans;Phonemic,tömen
+73-12-330-1,,73,12-330,"тоьбе, коьк, бас, шеке",тоьбе,,,,,,,,CyrillTrans;Phonemic,töbe
+73-12-330-2,,73,12-330,"тоьбе, коьк, бас, шеке",коьк,,,,,,,,CyrillTrans;Phonemic,kök
+73-12-330-3,,73,12-330,"тоьбе, коьк, бас, шеке",бас,,,,,,,,CyrillTrans;Phonemic,bas
+73-12-330-4,,73,12-330,"тоьбе, коьк, бас, шеке",шеке,,,,,,,,CyrillTrans;Phonemic,šeke
+73-12-340-1,,73,12-340,"туьп, туьби, асты",туьп,,,,,,,,CyrillTrans;Phonemic,tüp
+73-12-340-2,,73,12-340,"туьп, туьби, асты",туьби,,,,,,,,CyrillTrans;Phonemic,tübi
+73-12-340-3,,73,12-340,"туьп, туьби, асты",асты,,,,,,,,CyrillTrans;Phonemic,astɨ
+73-12-350-1,,73,12-350,"ызы, арты, сонъы",ызы,,,,,,,,CyrillTrans;Phonemic,ɨzɨ
+73-12-350-2,,73,12-350,"ызы, арты, сонъы",арты,,,,,,,,CyrillTrans;Phonemic,artɨ
+73-12-350-3,,73,12-350,"ызы, арты, сонъы",сонъы,,,,,,,,CyrillTrans;Phonemic,soŋɨ
+73-12-352-1,,73,12-352,ушлы,ушлы,,,,,,,,CyrillTrans;Phonemic,ušlɨ
+73-12-353-1,,73,12-353,"шети, йагы",шети,,,,,,,,CyrillTrans;Phonemic,šeti
+73-12-353-2,,73,12-353,"шети, йагы",йагы,,,,,,,,CyrillTrans;Phonemic,yagɨ
+73-12-360-1,,73,12-360,"йак, йагы, бети",йак,,,,,,,,CyrillTrans;Phonemic,yak
+73-12-360-2,,73,12-360,"йак, йагы, бети",йагы,,,,,,,,CyrillTrans;Phonemic,yagɨ
+73-12-360-3,,73,12-360,"йак, йагы, бети",бети,,,,,,,,CyrillTrans;Phonemic,beti
+73-12-370-1,,73,12-370,"ортасы, орта",ортасы,,,,,,,,CyrillTrans;Phonemic,ortasɨ
+73-12-370-2,,73,12-370,"ортасы, орта",орта,,,,,,,,CyrillTrans;Phonemic,orta
+73-12-410-1,,73,12-410,онъ (йак),онъ,,,,,,,,CyrillTrans;Phonemic,oŋ
+73-12-420-1,,73,12-420,сол (йак),сол,,,,,,,,CyrillTrans;Phonemic,sol
+73-12-430-1,,73,12-430,"йанында, касында",йанында,,,,,,,,CyrillTrans;Phonemic,yanɨnda
+73-12-430-2,,73,12-430,"йанында, касында",касында,,,,,,,,CyrillTrans;Phonemic,kasɨnda
+73-12-440-1,,73,12-440,"алыста, узакта",алыста,,,,,,,,CyrillTrans;Phonemic,alɨsta
+73-12-440-2,,73,12-440,"алыста, узакта",узакта,,,,,,,,CyrillTrans;Phonemic,uzakta
+73-12-450-1,,73,12-450,куьнтувар,куьнтувар,,,,,,,,CyrillTrans;Phonemic,küntuwar
+73-12-460-1,,73,12-460,кунъбатар,кунъбатар,,,,,,,,CyrillTrans;Phonemic,kuŋbatar
+73-12-470-1,,73,12-470,"сырт, арт бет",сырт,,,,,,,,CyrillTrans;Phonemic,sɨrt
+73-12-470-2,,73,12-470,"сырт, арт бет",арт бет,,,,,,,,CyrillTrans;Phonemic,art bet
+73-12-480-1,,73,12-480,"кыбла, алды бет",кыбла,,,,,,,,CyrillTrans;Phonemic,kɨbla
+73-12-480-2,,73,12-480,"кыбла, алды бет",алды бет,,,,,,,,CyrillTrans;Phonemic,aldɨ bet
+73-12-530-1,,73,12-530,"оьсуьв, уьйкен болув",оьсуьв,,,,,,,,CyrillTrans;Phonemic,ösüw
+73-12-530-2,,73,12-530,"оьсуьв, уьйкен болув",уьйкен болув,,,,,,,,CyrillTrans;Phonemic,üyken boluw
+73-12-540-1,,73,12-540,оьлшев,оьлшев,,,,,,,,CyrillTrans;Phonemic,ölšew
+73-12-550-1,,73,12-550,"уьйкен, кенъ",уьйкен,,,,,,,,CyrillTrans;Phonemic,üyken
+73-12-550-2,,73,12-550,"уьйкен, кенъ",кенъ,,,,,,,,CyrillTrans;Phonemic,keŋ
+73-12-560-1,,73,12-560,кишкей,кишкей,,,,,,,,CyrillTrans;Phonemic,kiškey
+73-12-570-1,,73,12-570,узын,узын,,,,,,,,CyrillTrans;Phonemic,uzɨn
+73-12-580-1,,73,12-580,бийик,бийик,,,,,,,,CyrillTrans;Phonemic,biyik
+73-12-590-1,,73,12-590,кыска,кыска,,,,,,,,CyrillTrans;Phonemic,kɨska
+73-12-610-1,,73,12-610,кенъ,кенъ,,,,,,,,CyrillTrans;Phonemic,keŋ
+73-12-620-1,,73,12-620,тар,тар,,,,,,,,CyrillTrans;Phonemic,tar
+73-12-630-1,,73,12-630,"базык, домбай",базык,,,,,,,,CyrillTrans;Phonemic,bazɨk
+73-12-630-2,,73,12-630,"базык, домбай",домбай,,,,,,,,CyrillTrans;Phonemic,dombay
+73-12-650-1,,73,12-650,"йука, арык",йука,,,,,,,,CyrillTrans;Phonemic,yuka
+73-12-650-2,,73,12-650,"йука, арык",арык,,,,,,,,CyrillTrans;Phonemic,arɨk
+73-12-670-1,,73,12-670,теренъ,теренъ,,,,,,,,CyrillTrans;Phonemic,tereŋ
+73-12-680-1,,73,12-680,"увак, кишкей",увак,,,,,,,,CyrillTrans;Phonemic,uwak
+73-12-680-2,,73,12-680,"увак, кишкей",кишкей,,,,,,,,CyrillTrans;Phonemic,kiškey
+73-12-710-1,,73,12-710,"йалпак, такыр, тегис",йалпак,,,,,,,,CyrillTrans;Phonemic,yalpak
+73-12-710-2,,73,12-710,"йалпак, такыр, тегис",такыр,,,,,,,,CyrillTrans;Phonemic,takɨr
+73-12-710-3,,73,12-710,"йалпак, такыр, тегис",тегис,,,,,,,,CyrillTrans;Phonemic,tegis
+73-12-730-1,,73,12-730,"туьз, тувра, теше",туьз,,,,,,,,CyrillTrans;Phonemic,tüz
+73-12-730-2,,73,12-730,"туьз, тувра, теше",тувра,,,,,,,,CyrillTrans;Phonemic,tuwra
+73-12-730-3,,73,12-730,"туьз, тувра, теше",теше,,,,,,,,CyrillTrans;Phonemic,teše
+73-12-740-1,,73,12-740,кыйсык,кыйсык,,,,,,,,CyrillTrans;Phonemic,kɨysɨk
+73-12-750-1,,73,12-750,"кармак, ыргак",кармак,,,,,,,,CyrillTrans;Phonemic,karmak
+73-12-750-2,,73,12-750,"кармак, ыргак",ыргак,,,,,,,,CyrillTrans;Phonemic,ɨrgak
+73-12-760-1,,73,12-760,муьйис,муьйис,,,,,,,,CyrillTrans;Phonemic,müyis
+73-12-770-1,,73,12-770,крест,крест,,,,,,,,CyrillTrans;Phonemic,krest
+73-12-780-1,,73,12-780,"квадрат, доьрткил",квадрат,,,,,,,,CyrillTrans;Phonemic,kwadrat
+73-12-780-2,,73,12-780,"квадрат, доьрткил",доьрткил,,,,,,,,CyrillTrans;Phonemic,dörtkil
+73-12-810-1,,73,12-810,"тоьгерек, дымалак",тоьгерек,,,,,,,,CyrillTrans;Phonemic,tögerek
+73-12-810-2,,73,12-810,"тоьгерек, дымалак",дымалак,,,,,,,,CyrillTrans;Phonemic,dɨmalak
+73-12-820-1,,73,12-820,"доьгерек, тоьгерек ыз",доьгерек,,,,,,,,CyrillTrans;Phonemic,dögerek
+73-12-820-2,,73,12-820,"доьгерек, тоьгерек ыз",тоьгерек ыз,,,,,,,,CyrillTrans;Phonemic,tögerek ɨz
+73-12-830-1,,73,12-830,"шар, тоьгерек зат",шар,,,,,,,,CyrillTrans;Phonemic,šar
+73-12-830-2,,73,12-830,"шар, тоьгерек зат",тоьгерек зат,,,,,,,,CyrillTrans;Phonemic,tögerek zat
+73-12-840-1,,73,12-840,"ыз, сызык",ыз,,,,,,,,CyrillTrans;Phonemic,ɨz
+73-12-840-2,,73,12-840,"ыз, сызык",сызык,,,,,,,,CyrillTrans;Phonemic,sɨzɨk
+73-12-850-1,,73,12-850,тесик,тесик,,,,,,,,CyrillTrans;Phonemic,tesik
+73-12-920-1,,73,12-920,"усайтаган, усаган",усайтаган,,,,,,,,CyrillTrans;Phonemic,usaytagan
+73-12-920-2,,73,12-920,"усайтаган, усаган",усаган,,,,,,,,CyrillTrans;Phonemic,usagan
+73-12-930-1,,73,12-930,авыстырув,авыстырув,,,,,,,,CyrillTrans;Phonemic,awɨstɨruw
+73-13-0-1,,73,13-0,нокат,нокат,,,,,,,,CyrillTrans;Phonemic,nokat
+73-13-10-1,,73,13-10,бир,бир,,,,,,,,CyrillTrans;Phonemic,bir
+73-13-20-1,,73,13-20,эки,эки,,,,,,,,CyrillTrans;Phonemic,eki
+73-13-30-1,,73,13-30,уьш,уьш,,,,,,,,CyrillTrans;Phonemic,üš
+73-13-40-1,,73,13-40,доьрт,доьрт,,,,,,,,CyrillTrans;Phonemic,dört
+73-13-50-1,,73,13-50,бес,бес,,,,,,,,CyrillTrans;Phonemic,bes
+73-13-60-1,,73,13-60,алты,алты,,,,,,,,CyrillTrans;Phonemic,altɨ
+73-13-70-1,,73,13-70,ети,ети,,,,,,,,CyrillTrans;Phonemic,yeti
+73-13-80-1,,73,13-80,сегиз,сегиз,,,,,,,,CyrillTrans;Phonemic,segiz
+73-13-90-1,,73,13-90,тогыз,тогыз,,,,,,,,CyrillTrans;Phonemic,togɨz
+73-13-100-1,,73,13-100,он,он,,,,,,,,CyrillTrans;Phonemic,on
+73-13-101-1,,73,13-101,он бир,он бир,,,,,,,,CyrillTrans;Phonemic,on bir
+73-13-102-1,,73,13-102,он эки,он эки,,,,,,,,CyrillTrans;Phonemic,on eki
+73-13-103-1,,73,13-103,он бес,он бес,,,,,,,,CyrillTrans;Phonemic,on bes
+73-13-104-1,,73,13-104,йырма,йырма,,,,,,,,CyrillTrans;Phonemic,yɨrma
+73-13-105-1,,73,13-105,йуз,йуз,,,,,,,,CyrillTrans;Phonemic,yuz
+73-13-106-1,,73,13-106,мынъ,мынъ,,,,,,,,CyrillTrans;Phonemic,mɨŋ
+73-13-107-1,,73,13-107,самав,самав,,,,,,,,CyrillTrans;Phonemic,samaw
+73-13-140-1,,73,13-140,"баьри, баьри затта",баьри,,,,,,,,CyrillTrans;Phonemic,bäri
+73-13-140-2,,73,13-140,"баьри, баьри затта",баьри затта,,,,,,,,CyrillTrans;Phonemic,bäri zat̄a
+73-13-150-1,,73,13-150,"коьп, кыйлы",коьп,,,,,,,,CyrillTrans;Phonemic,köp
+73-13-150-2,,73,13-150,"коьп, кыйлы",кыйлы,,,,,,,,CyrillTrans;Phonemic,kɨylɨ
+73-13-160-1,,73,13-160,"коьп, артык",коьп,,,,,,,,CyrillTrans;Phonemic,köp
+73-13-160-2,,73,13-160,"коьп, артык",артык,,,,,,,,CyrillTrans;Phonemic,artɨk
+73-13-170-1,,73,13-170,"аз, кем",аз,,,,,,,,CyrillTrans;Phonemic,az
+73-13-170-2,,73,13-170,"аз, кем",кем,,,,,,,,CyrillTrans;Phonemic,kem
+73-13-180-1,,73,13-180,"таман, болайак",таман,,,,,,,,CyrillTrans;Phonemic,taman
+73-13-180-2,,73,13-180,"таман, болайак",болайак,,,,,,,,CyrillTrans;Phonemic,bolayak
+73-13-181-1,,73,13-181,"бар кеше, азын-шогын",бар кеше,,,,,,,,CyrillTrans;Phonemic,bar keše
+73-13-181-2,,73,13-181,"бар кеше, азын-шогын",азын-шогын,,,,,,,,CyrillTrans;Phonemic,azɨn-šogɨn
+73-13-190-1,,73,13-190,"коьплик, коьплеген",коьплик,,,,,,,,CyrillTrans;Phonemic,köplik
+73-13-190-2,,73,13-190,"коьплик, коьплеген",коьплеген,,,,,,,,CyrillTrans;Phonemic,köplegen
+73-13-210-1,,73,13-210,толы,толы,,,,,,,,CyrillTrans;Phonemic,tolɨ
+73-13-220-1,,73,13-220,бос,бос,,,,,,,,CyrillTrans;Phonemic,bos
+73-13-230-1,,73,13-230,"пай, кесек",пай,,,,,,,,CyrillTrans;Phonemic,pay
+73-13-230-2,,73,13-230,"пай, кесек",кесек,,,,,,,,CyrillTrans;Phonemic,kesek
+73-13-240-1,,73,13-240,"йартысы, йарты",йартысы,,,,,,,,CyrillTrans;Phonemic,yartɨsɨ
+73-13-240-2,,73,13-240,"йартысы, йарты",йарты,,,,,,,,CyrillTrans;Phonemic,yartɨ
+73-13-330-1,,73,13-330,"бир, елгыз, бирев",бир,,,,,,,,CyrillTrans;Phonemic,bir
+73-13-330-2,,73,13-330,"бир, елгыз, бирев",елгыз,,,,,,,,CyrillTrans;Phonemic,yelgɨz
+73-13-330-3,,73,13-330,"бир, елгыз, бирев",бирев,,,,,,,,CyrillTrans;Phonemic,birew
+73-13-340-1,,73,13-340,биринши,биринши,,,,,,,,CyrillTrans;Phonemic,birinši
+73-13-350-1,,73,13-350,"ызгы, сонъгы, артындагы",ызгы,,,,,,,,CyrillTrans;Phonemic,ɨzgɨ
+73-13-350-2,,73,13-350,"ызгы, сонъгы, артындагы",сонъгы,,,,,,,,CyrillTrans;Phonemic,soŋgɨ
+73-13-350-3,,73,13-350,"ызгы, сонъгы, артындагы",артындагы,,,,,,,,CyrillTrans;Phonemic,artɨndagɨ
+73-13-360-1,,73,13-360,экинши,экинши,,,,,,,,CyrillTrans;Phonemic,ekinši
+73-13-370-1,,73,13-370,косак,косак,,,,,,,,CyrillTrans;Phonemic,kosak
+73-13-380-1,,73,13-380,эки кере,эки кере,,,,,,,,CyrillTrans;Phonemic,eki kere
+73-13-420-1,,73,13-420,уьшинши,уьшинши,,,,,,,,CyrillTrans;Phonemic,üšinši
+73-13-440-1,,73,13-440,уьш кере,уьш кере,,,,,,,,CyrillTrans;Phonemic,üš kere
+73-14-110-1,,73,14-110,заман,заман,,,,,,,,CyrillTrans;Phonemic,zaman
+73-14-120-1,,73,14-120,"йуз, йыл, эпоха, заман",йуз,,,,,,,,CyrillTrans;Phonemic,yuz
+73-14-120-2,,73,14-120,"йуз, йыл, эпоха, заман",йыл,,,,,,,,CyrillTrans;Phonemic,yɨl
+73-14-120-3,,73,14-120,"йуз, йыл, эпоха, заман",эпоха,,,,,,,,CyrillTrans;Phonemic,epoxa
+73-14-120-4,,73,14-120,"йуз, йыл, эпоха, заман",заман,,,,,,,,CyrillTrans;Phonemic,zaman
+73-14-130-1,,73,14-130,йанъы,йанъы,,,,,,,,CyrillTrans;Phonemic,yaŋɨ
+73-14-140-1,,73,14-140,ес,ес,,,,,,,,CyrillTrans;Phonemic,yes
+73-14-150-1,,73,14-150,"карт, эски",карт,,,,,,,,CyrillTrans;Phonemic,kart
+73-14-150-2,,73,14-150,"карт, эски",эски,,,,,,,,CyrillTrans;Phonemic,eski
+73-14-160-1,,73,14-160,"эрте, эртерек, тез",эрте,,,,,,,,CyrillTrans;Phonemic,erte
+73-14-160-2,,73,14-160,"эрте, эртерек, тез",эртерек,,,,,,,,CyrillTrans;Phonemic,erterek
+73-14-160-3,,73,14-160,"эрте, эртерек, тез",тез,,,,,,,,CyrillTrans;Phonemic,tez
+73-14-170-1,,73,14-170,кеш,кеш,,,,,,,,CyrillTrans;Phonemic,keš
+73-14-180-1,,73,14-180,"аьли, тез ок",аьли,,,,,,,,CyrillTrans;Phonemic,äli
+73-14-180-2,,73,14-180,"аьли, тез ок",тез ок,,,,,,,,CyrillTrans;Phonemic,tez ok
+73-14-190-1,,73,14-190,"тез бу саьат, тез ок",тез бу саьат,,,,,,,,CyrillTrans;Phonemic,tez bu säat
+73-14-190-2,,73,14-190,"тез бу саьат, тез ок",тез ок,,,,,,,,CyrillTrans;Phonemic,tez ok
+73-14-210-1,,73,14-210,"тез, шалт",тез,,,,,,,,CyrillTrans;Phonemic,tez
+73-14-210-2,,73,14-210,"тез, шалт",шалт,,,,,,,,CyrillTrans;Phonemic,šalt
+73-14-220-1,,73,14-220,"кеш, аста, сабыр",кеш,,,,,,,,CyrillTrans;Phonemic,keš
+73-14-220-2,,73,14-220,"кеш, аста, сабыр",аста,,,,,,,,CyrillTrans;Phonemic,asta
+73-14-220-3,,73,14-220,"кеш, аста, сабыр",сабыр,,,,,,,,CyrillTrans;Phonemic,sabɨr
+73-14-230-1,,73,14-230,"алгасав, тез болув",алгасав,,,,,,,,CyrillTrans;Phonemic,algasaw
+73-14-230-2,,73,14-230,"алгасав, тез болув",тез болув,,,,,,,,CyrillTrans;Phonemic,tez boluw
+73-14-240-1,,73,14-240,"асталандырув, тактатув, кешкалдырув",асталандырув,,,,,,,,CyrillTrans;Phonemic,astalandɨruw
+73-14-240-2,,73,14-240,"асталандырув, тактатув, кешкалдырув",тактатув,,,,,,,,CyrillTrans;Phonemic,taktatuw
+73-14-240-3,,73,14-240,"асталандырув, тактатув, кешкалдырув",кешкалдырув,,,,,,,,CyrillTrans;Phonemic,keškaldɨruw
+73-14-250-1,,73,14-250,"баслав, басы, басламувы",баслав,,,,,,,,CyrillTrans;Phonemic,baslaw
+73-14-250-2,,73,14-250,"баслав, басы, басламувы",басы,,,,,,,,CyrillTrans;Phonemic,basɨ
+73-14-250-3,,73,14-250,"баслав, басы, басламувы",басламувы,,,,,,,,CyrillTrans;Phonemic,baslamuwɨ
+73-14-252-1,,73,14-252,"узакланув, кемкалув",узакланув,,,,,,,,CyrillTrans;Phonemic,uzaklanuw
+73-14-252-2,,73,14-252,"узакланув, кемкалув",кемкалув,,,,,,,,CyrillTrans;Phonemic,kemkaluw
+73-14-260-1,,73,14-260,"кутарув, ызына етуьв",кутарув,,,,,,,,CyrillTrans;Phonemic,kutaruw
+73-14-260-2,,73,14-260,"кутарув, ызына етуьв",ызына етуьв,,,,,,,,CyrillTrans;Phonemic,ɨzɨna yetüw
+73-14-270-1,,73,14-270,"битируьв, кутарув",битируьв,,,,,,,,CyrillTrans;Phonemic,bitirüw
+73-14-270-2,,73,14-270,"битируьв, кутарув",кутарув,,,,,,,,CyrillTrans;Phonemic,kutaruw
+73-14-280-1,,73,14-280,"боьлуьв, токтатув",боьлуьв,,,,,,,,CyrillTrans;Phonemic,bölüw
+73-14-280-2,,73,14-280,"боьлуьв, токтатув",токтатув,,,,,,,,CyrillTrans;Phonemic,toktatuw
+73-14-290-1,,73,14-290,аьзир,аьзир,,,,,,,,CyrillTrans;Phonemic,äzir
+73-14-310-1,,73,14-310,"аьр дайым, аьр заман",аьр дайым,,,,,,,,CyrillTrans;Phonemic,är dayɨm
+73-14-310-2,,73,14-310,"аьр дайым, аьр заман",аьр заман,,,,,,,,CyrillTrans;Phonemic,är zaman
+73-14-320-1,,73,14-320,"тез-тез, коьп, кере",тез-тез,,,,,,,,CyrillTrans;Phonemic,tez-tez
+73-14-320-2,,73,14-320,"тез-тез, коьп, кере",коьп,,,,,,,,CyrillTrans;Phonemic,köp
+73-14-320-3,,73,14-320,"тез-тез, коьп, кере",кере,,,,,,,,CyrillTrans;Phonemic,kere
+73-14-330-1,,73,14-330,"арада, бир-бир, заманда",арада,,,,,,,,CyrillTrans;Phonemic,arada
+73-14-330-2,,73,14-330,"арада, бир-бир, заманда",бир-бир,,,,,,,,CyrillTrans;Phonemic,bir-bir
+73-14-330-3,,73,14-330,"арада, бир-бир, заманда",заманда,,,,,,,,CyrillTrans;Phonemic,zamanda
+73-14-331-1,,73,14-331,"бираздан, йувык арада",бираздан,,,,,,,,CyrillTrans;Phonemic,birazdan
+73-14-331-2,,73,14-331,"бираздан, йувык арада",йувык арада,,,,,,,,CyrillTrans;Phonemic,yuwɨk arada
+73-14-332-1,,73,14-332,"эртерек, узак заманлык",эртерек,,,,,,,,CyrillTrans;Phonemic,erterek
+73-14-332-2,,73,14-332,"эртерек, узак заманлык",узак заманлык,,,,,,,,CyrillTrans;Phonemic,uzak zamanlɨk
+73-14-340-1,,73,14-340,"бирде, бир заманда",бирде,,,,,,,,CyrillTrans;Phonemic,birde
+73-14-340-2,,73,14-340,"бирде, бир заманда",бир заманда,,,,,,,,CyrillTrans;Phonemic,bir zamanda
+73-14-350-1,,73,14-350,"тагыда, йанъыдан, кайтабастан",тагыда,,,,,,,,CyrillTrans;Phonemic,tagɨda
+73-14-350-2,,73,14-350,"тагыда, йанъыдан, кайтабастан",йанъыдан,,,,,,,,CyrillTrans;Phonemic,yaŋɨdan
+73-14-350-3,,73,14-350,"тагыда, йанъыдан, кайтабастан",кайтабастан,,,,,,,,CyrillTrans;Phonemic,kaytabastan
+73-14-410-1,,73,14-410,куьн,куьн,,,,,,,,CyrillTrans;Phonemic,kün
+73-14-420-1,,73,14-420,кеше,кеше,,,,,,,,CyrillTrans;Phonemic,keše
+73-14-430-1,,73,14-430,"танъ, танъ вакыт",танъ,,,,,,,,CyrillTrans;Phonemic,taŋ
+73-14-430-2,,73,14-430,"танъ, танъ вакыт",танъ вакыт,,,,,,,,CyrillTrans;Phonemic,taŋ wakɨt
+73-14-440-1,,73,14-440,"эртен, эртенъги шак",эртен,,,,,,,,CyrillTrans;Phonemic,erten
+73-14-440-2,,73,14-440,"эртен, эртенъги шак",эртенъги шак,,,,,,,,CyrillTrans;Phonemic,erteŋgi šak
+73-14-450-1,,73,14-450,"туьс, уьйле, куьн ортасы",туьс,,,,,,,,CyrillTrans;Phonemic,tüs
+73-14-450-2,,73,14-450,"туьс, уьйле, куьн ортасы",уьйле,,,,,,,,CyrillTrans;Phonemic,üyle
+73-14-450-3,,73,14-450,"туьс, уьйле, куьн ортасы",куьн ортасы,,,,,,,,CyrillTrans;Phonemic,kün ortasɨ
+73-14-451-1,,73,14-451,туьстен сонъ,туьстен сонъ,,,,,,,,CyrillTrans;Phonemic,tüsten soŋ
+73-14-460-1,,73,14-460,"кеш, кешке",кеш,,,,,,,,CyrillTrans;Phonemic,keš
+73-14-460-2,,73,14-460,"кеш, кешке",кешке,,,,,,,,CyrillTrans;Phonemic,keške
+73-14-470-1,,73,14-470,буьгуьн,буьгуьн,,,,,,,,CyrillTrans;Phonemic,bügün
+73-14-480-1,,73,14-480,"танъла, эртен",танъла,,,,,,,,CyrillTrans;Phonemic,taŋla
+73-14-480-2,,73,14-480,"танъла, эртен",эртен,,,,,,,,CyrillTrans;Phonemic,erten
+73-14-481-1,,73,14-481,бирсигуьн,бирсигуьн,,,,,,,,CyrillTrans;Phonemic,birsigün
+73-14-490-1,,73,14-490,туьнегуьн,туьнегуьн,,,,,,,,CyrillTrans;Phonemic,tünegün
+73-14-491-1,,73,14-491,бирсигуьн,бирсигуьн,,,,,,,,CyrillTrans;Phonemic,birsigün
+73-14-510-1,,73,14-510,саьат,саьат,,,,,,,,CyrillTrans;Phonemic,säat
+73-14-530-1,,73,14-530,саьат,саьат,,,,,,,,CyrillTrans;Phonemic,säat
+73-14-610-1,,73,14-610,йума,йума,,,,,,,,CyrillTrans;Phonemic,yuma
+73-14-620-1,,73,14-620,каты (базар) куьн,каты куьн,,,,,,,,CyrillTrans;Phonemic,katɨ kün
+73-14-630-1,,73,14-630,дуьйсемби,дуьйсемби,,,,,,,,CyrillTrans;Phonemic,düysembi
+73-14-640-1,,73,14-640,саьли,саьли,,,,,,,,CyrillTrans;Phonemic,säli
+73-14-650-1,,73,14-650,саьрсемби,саьрсемби,,,,,,,,CyrillTrans;Phonemic,särsembi
+73-14-660-1,,73,14-660,"бийсемби, киши йума",бийсемби,,,,,,,,CyrillTrans;Phonemic,biysembi
+73-14-660-2,,73,14-660,"бийсемби, киши йума",киши йума,,,,,,,,CyrillTrans;Phonemic,kiši yuma
+73-14-670-1,,73,14-670,"уллы йума, йума",уллы йума,,,,,,,,CyrillTrans;Phonemic,ullɨ yuma
+73-14-670-2,,73,14-670,"уллы йума, йума",йума,,,,,,,,CyrillTrans;Phonemic,yuma
+73-14-680-1,,73,14-680,"йума сонъы, йума эртеси",йума сонъы,,,,,,,,CyrillTrans;Phonemic,yuma soŋɨ
+73-14-680-2,,73,14-680,"йума сонъы, йума эртеси",йума эртеси,,,,,,,,CyrillTrans;Phonemic,yuma ertesi
+73-14-710-1,,73,14-710,ай,ай,,,,,,,,CyrillTrans;Phonemic,ay
+73-14-730-1,,73,14-730,йыл,йыл,,,,,,,,CyrillTrans;Phonemic,yɨl
+73-14-740-1,,73,14-740,кыс,кыс,,,,,,,,CyrillTrans;Phonemic,kɨs
+73-14-750-1,,73,14-750,йазлык,йазлык,,,,,,,,CyrillTrans;Phonemic,yazlɨk
+73-14-760-1,,73,14-760,йаз,йаз,,,,,,,,CyrillTrans;Phonemic,yaz
+73-14-770-1,,73,14-770,куьз,куьз,,,,,,,,CyrillTrans;Phonemic,küz
+73-14-780-1,,73,14-780,йыл шагы (вакыты),йыл шагы,,,,,,,,CyrillTrans;Phonemic,yɨl šagɨ
+73-15-210-1,,73,15-210,"ийис шыгув, сасув",ийис шыгув,,,,,,,,CyrillTrans;Phonemic,iyis šɨguw
+73-15-210-2,,73,15-210,"ийис шыгув, сасув",сасув,,,,,,,,CyrillTrans;Phonemic,sasuw
+73-15-212-1,,73,15-212,"пысылдав, ийискелев",пысылдав,,,,,,,,CyrillTrans;Phonemic,pɨsɨldaw
+73-15-212-2,,73,15-212,"пысылдав, ийискелев",ийискелев,,,,,,,,CyrillTrans;Phonemic,iyiskelew
+73-15-220-1,,73,15-220,ийискелев,ийискелев,,,,,,,,CyrillTrans;Phonemic,iyiskelew
+73-15-250-1,,73,15-250,аьруьв ийис,аьруьв ийис,,,,,,,,CyrillTrans;Phonemic,ärüw iyis
+73-15-260-1,,73,15-260,"йаман ийис, сасык",йаман ийис,,,,,,,,CyrillTrans;Phonemic,yaman iyis
+73-15-260-2,,73,15-260,"йаман ийис, сасык",сасык,,,,,,,,CyrillTrans;Phonemic,sasɨk
+73-15-310-1,,73,15-310,даьм,даьм,,,,,,,,CyrillTrans;Phonemic,däm
+73-15-350-1,,73,15-350,таьтли,таьтли,,,,,,,,CyrillTrans;Phonemic,tätli
+73-15-360-1,,73,15-360,"тузлы, ашшы",тузлы,,,,,,,,CyrillTrans;Phonemic,tuzlɨ
+73-15-360-2,,73,15-360,"тузлы, ашшы",ашшы,,,,,,,,CyrillTrans;Phonemic,aššɨ
+73-15-370-1,,73,15-370,ашшы,ашшы,,,,,,,,CyrillTrans;Phonemic,aššɨ
+73-15-380-1,,73,15-380,туршы,туршы,,,,,,,,CyrillTrans;Phonemic,turšɨ
+73-15-390-1,,73,15-390,аз тузлы,аз тузлы,,,,,,,,CyrillTrans;Phonemic,az tuzlɨ
+73-15-410-1,,73,15-410,эситуьв,эситуьв,,,,,,,,CyrillTrans;Phonemic,esitüw
+73-15-420-1,,73,15-420,тынълав,тынълав,,,,,,,,CyrillTrans;Phonemic,tɨŋlaw
+73-15-440-1,,73,15-440,"аваз, тавыс, шав-шув",аваз,,,,,,,,CyrillTrans;Phonemic,awaz
+73-15-440-2,,73,15-440,"аваз, тавыс, шав-шув",тавыс,,,,,,,,CyrillTrans;Phonemic,tawɨs
+73-15-440-3,,73,15-440,"аваз, тавыс, шав-шув",шав-шув,,,,,,,,CyrillTrans;Phonemic,šaw-šuw
+73-15-450-1,,73,15-450,"куьшли, тавыслы (авазлы)",куьшли,,,,,,,,CyrillTrans;Phonemic,küšli
+73-15-450-2,,73,15-450,"куьшли, тавыслы (авазлы)",тавыслы,,,,,,,,CyrillTrans;Phonemic,tawɨslɨ
+73-15-460-1,,73,15-460,"сабыр, аста",сабыр,,,,,,,,CyrillTrans;Phonemic,sabɨr
+73-15-460-2,,73,15-460,"сабыр, аста",аста,,,,,,,,CyrillTrans;Phonemic,asta
+73-15-510-1,,73,15-510,коьруьв,коьруьв,,,,,,,,CyrillTrans;Phonemic,körüw
+73-15-520-1,,73,15-520,карав,карав,,,,,,,,CyrillTrans;Phonemic,karaw
+73-15-550-1,,73,15-550,коьрсетуьв,коьрсетуьв,,,,,,,,CyrillTrans;Phonemic,körsetüw
+73-15-560-1,,73,15-560,"йарык беруьв, йарык этуьв",йарык беруьв,,,,,,,,CyrillTrans;Phonemic,yarɨk berüw
+73-15-560-2,,73,15-560,"йарык беруьв, йарык этуьв",йарык этуьв,,,,,,,,CyrillTrans;Phonemic,yarɨk etüw
+73-15-570-1,,73,15-570,йарык,йарык,,,,,,,,CyrillTrans;Phonemic,yarɨk
+73-15-610-1,,73,15-610,туьс,туьс,,,,,,,,CyrillTrans;Phonemic,tüs
+73-15-620-1,,73,15-620,"йарык, ашык туьсли",йарык,,,,,,,,CyrillTrans;Phonemic,yarɨk
+73-15-620-2,,73,15-620,"йарык, ашык туьсли",ашык туьсли,,,,,,,,CyrillTrans;Phonemic,ašɨk tüsli
+73-15-630-1,,73,15-630,"карагошкыл, авыр туьсли",карагошкыл,,,,,,,,CyrillTrans;Phonemic,karagoškɨl
+73-15-630-2,,73,15-630,"карагошкыл, авыр туьсли",авыр туьсли,,,,,,,,CyrillTrans;Phonemic,awɨr tüsli
+73-15-640-1,,73,15-640,ак,ак,,,,,,,,CyrillTrans;Phonemic,ak
+73-15-650-1,,73,15-650,кара,кара,,,,,,,,CyrillTrans;Phonemic,kara
+73-15-660-1,,73,15-660,кызыл,кызыл,,,,,,,,CyrillTrans;Phonemic,kɨzɨl
+73-15-670-1,,73,15-670,коьк,коьк,,,,,,,,CyrillTrans;Phonemic,kök
+73-15-680-1,,73,15-680,йасыл,йасыл,,,,,,,,CyrillTrans;Phonemic,yasɨl
+73-15-690-1,,73,15-690,сары,сары,,,,,,,,CyrillTrans;Phonemic,sarɨ
+73-15-710-1,,73,15-710,тийуьв,тийуьв,,,,,,,,CyrillTrans;Phonemic,tiyüw
+73-15-712-1,,73,15-712,"шымтув, кысув",шымтув,,,,,,,,CyrillTrans;Phonemic,šɨmtuw
+73-15-712-2,,73,15-712,"шымтув, кысув",кысув,,,,,,,,CyrillTrans;Phonemic,kɨsuw
+73-15-720-1,,73,15-720,сезуьв,сезуьв,,,,,,,,CyrillTrans;Phonemic,sezüw
+73-15-740-1,,73,15-740,"каты, айавсыз",каты,,,,,,,,CyrillTrans;Phonemic,katɨ
+73-15-740-2,,73,15-740,"каты, айавсыз",айавсыз,,,,,,,,CyrillTrans;Phonemic,ayawsɨz
+73-15-750-1,,73,15-750,йумсак,йумсак,,,,,,,,CyrillTrans;Phonemic,yumsak
+73-15-760-1,,73,15-760,"каты, келиссиз этилген",каты,,,,,,,,CyrillTrans;Phonemic,katɨ
+73-15-760-2,,73,15-760,"каты, келиссиз этилген",келиссиз этилген,,,,,,,,CyrillTrans;Phonemic,kelis̄iz etilgen
+73-15-770-1,,73,15-770,"тешс, туьз",тешс,,,,,,,,CyrillTrans;Phonemic,tešs
+73-15-770-2,,73,15-770,"тешс, туьз",туьз,,,,,,,,CyrillTrans;Phonemic,tüz
+73-15-780-1,,73,15-780,"сисли, оьткир",сисли,,,,,,,,CyrillTrans;Phonemic,sisli
+73-15-780-2,,73,15-780,"сисли, оьткир",оьткир,,,,,,,,CyrillTrans;Phonemic,ötkir
+73-15-790-1,,73,15-790,"топал, анълавсыз, акмак",топал,,,,,,,,CyrillTrans;Phonemic,topal
+73-15-790-2,,73,15-790,"топал, анълавсыз, акмак",анълавсыз,,,,,,,,CyrillTrans;Phonemic,aŋlawsɨz
+73-15-790-3,,73,15-790,"топал, анълавсыз, акмак",акмак,,,,,,,,CyrillTrans;Phonemic,akmak
+73-15-810-1,,73,15-810,авыр,авыр,,,,,,,,CyrillTrans;Phonemic,awɨr
+73-15-820-1,,73,15-820,енъил,енъил,,,,,,,,CyrillTrans;Phonemic,yeŋil
+73-15-830-1,,73,15-830,"сув, ызгар, дымкыл",сув,,,,,,,,CyrillTrans;Phonemic,suw
+73-15-830-2,,73,15-830,"сув, ызгар, дымкыл",ызгар,,,,,,,,CyrillTrans;Phonemic,ɨzgar
+73-15-830-3,,73,15-830,"сув, ызгар, дымкыл",дымкыл,,,,,,,,CyrillTrans;Phonemic,dɨmkɨl
+73-15-840-1,,73,15-840,"куры, кепкен",куры,,,,,,,,CyrillTrans;Phonemic,kurɨ
+73-15-840-2,,73,15-840,"куры, кепкен",кепкен,,,,,,,,CyrillTrans;Phonemic,kepken
+73-15-850-1,,73,15-850,исси,исси,,,,,,,,CyrillTrans;Phonemic,is̄i
+73-15-851-1,,73,15-851,йылы,йылы,,,,,,,,CyrillTrans;Phonemic,yɨlɨ
+73-15-860-1,,73,15-860,сувык,сувык,,,,,,,,CyrillTrans;Phonemic,suwɨk
+73-15-870-1,,73,15-870,таза,таза,,,,,,,,CyrillTrans;Phonemic,taza
+73-15-880-1,,73,15-880,"нас, кир",нас,,,,,,,,CyrillTrans;Phonemic,nas
+73-15-880-2,,73,15-880,"нас, кир",кир,,,,,,,,CyrillTrans;Phonemic,kir
+73-15-890-1,,73,15-890,"буькленген, уйпаланган",буькленген,,,,,,,,CyrillTrans;Phonemic,büklengen
+73-15-890-2,,73,15-890,"буькленген, уйпаланган",уйпаланган,,,,,,,,CyrillTrans;Phonemic,uypalangan
+73-16-110-1,,73,16-110,"йан, дерт",йан,,,,,,,,CyrillTrans;Phonemic,yan
+73-16-110-2,,73,16-110,"йан, дерт",дерт,,,,,,,,CyrillTrans;Phonemic,dert
+73-16-150-1,,73,16-150,"тамашалы, кужыры келген",тамашалы,,,,,,,,CyrillTrans;Phonemic,tamašalɨ
+73-16-150-2,,73,16-150,"тамашалы, кужыры келген",кужыры келген,,,,,,,,CyrillTrans;Phonemic,kužɨrɨ kelgen
+73-16-180-1,,73,16-180,"йол болув, куллык битуьв, онъ болув",йол болув,,,,,,,,CyrillTrans;Phonemic,yol boluw
+73-16-180-2,,73,16-180,"йол болув, куллык битуьв, онъ болув",куллык битуьв,,,,,,,,CyrillTrans;Phonemic,kullɨk bitüw
+73-16-180-3,,73,16-180,"йол болув, куллык битуьв, онъ болув",онъ болув,,,,,,,,CyrillTrans;Phonemic,oŋ boluw
+73-16-190-1,,73,16-190,"йол болмав, къуллыкъ битпев",йол болмав,,,,,,,,CyrillTrans;Phonemic,yol bolmaw
+73-16-190-2,,73,16-190,"йол болмав, къуллыкъ битпев",къуллыкъ битпев,,,,,,,,CyrillTrans;Phonemic,qullɨq bitpew
+73-16-230-1,,73,16-230,"наьсипли, шат, завыклы",наьсипли,,,,,,,,CyrillTrans;Phonemic,näsipli
+73-16-230-2,,73,16-230,"наьсипли, шат, завыклы",шат,,,,,,,,CyrillTrans;Phonemic,šat
+73-16-230-3,,73,16-230,"наьсипли, шат, завыклы",завыклы,,,,,,,,CyrillTrans;Phonemic,zawɨklɨ
+73-16-250-1,,73,16-250,куьлуьв,куьлуьв,,,,,,,,CyrillTrans;Phonemic,külüw
+73-16-251-1,,73,16-251,"куьлуьв, куьлемсуьрев",куьлуьв,,,,,,,,CyrillTrans;Phonemic,külüw
+73-16-251-2,,73,16-251,"куьлуьв, куьлемсуьрев",куьлемсуьрев,,,,,,,,CyrillTrans;Phonemic,külemsürew
+73-16-260-1,,73,16-260,ойнав,ойнав,,,,,,,,CyrillTrans;Phonemic,oynaw
+73-16-270-1,,73,16-270,суьйув,суьйув,,,,,,,,CyrillTrans;Phonemic,süyuw
+73-16-290-1,,73,16-290,"оьбуьв, суьйув",оьбуьв,,,,,,,,CyrillTrans;Phonemic,öbüw
+73-16-290-2,,73,16-290,"оьбуьв, суьйув",суьйув,,,,,,,,CyrillTrans;Phonemic,süyuw
+73-16-300-1,,73,16-300,кушаклав,кушаклав,,,,,,,,CyrillTrans;Phonemic,kušaklaw
+73-16-310-1,,73,16-310,авырув,авырув,,,,,,,,CyrillTrans;Phonemic,awɨruw
+73-16-320-1,,73,16-320,"кайгы, аза, асирет",кайгы,,,,,,,,CyrillTrans;Phonemic,kaygɨ
+73-16-320-2,,73,16-320,"кайгы, аза, асирет",аза,,,,,,,,CyrillTrans;Phonemic,aza
+73-16-320-3,,73,16-320,"кайгы, аза, асирет",асирет,,,,,,,,CyrillTrans;Phonemic,asiret
+73-16-330-1,,73,16-330,"парахатсызлык, тынышсызланув",парахатсызлык,,,,,,,,CyrillTrans;Phonemic,paraxatsɨzlɨk
+73-16-330-2,,73,16-330,"парахатсызлык, тынышсызланув",тынышсызланув,,,,,,,,CyrillTrans;Phonemic,tɨnɨšsɨzlanuw
+73-16-340-1,,73,16-340,оькинуьв,оькинуьв,,,,,,,,CyrillTrans;Phonemic,ökinüw
+73-16-350-1,,73,16-350,"йазыксыланув, йазык ийув",йазыксыланув,,,,,,,,CyrillTrans;Phonemic,yazɨksɨlanuw
+73-16-350-2,,73,16-350,"йазыксыланув, йазык ийув",йазык ийув,,,,,,,,CyrillTrans;Phonemic,yazɨk iyuw
+73-16-370-1,,73,16-370,"йылав, солкылдав, оьксуьв",йылав,,,,,,,,CyrillTrans;Phonemic,yɨlaw
+73-16-370-2,,73,16-370,"йылав, солкылдав, оьксуьв",солкылдав,,,,,,,,CyrillTrans;Phonemic,solkɨldaw
+73-16-370-3,,73,16-370,"йылав, солкылдав, оьксуьв",оьксуьв,,,,,,,,CyrillTrans;Phonemic,öksüw
+73-16-380-1,,73,16-380,коьз йас,коьз йас,,,,,,,,CyrillTrans;Phonemic,köz yas
+73-16-390-1,,73,16-390,ынъыранув,ынъыранув,,,,,,,,CyrillTrans;Phonemic,ɨŋɨranuw
+73-16-410-1,,73,16-410,коьрип болмав (унамав),коьрип болмав,,,,,,,,CyrillTrans;Phonemic,körip bolmaw
+73-16-420-1,,73,16-420,"ашув, ашувлык",ашув,,,,,,,,CyrillTrans;Phonemic,ašuw
+73-16-420-2,,73,16-420,"ашув, ашувлык",ашувлык,,,,,,,,CyrillTrans;Phonemic,ašuwlɨk
+73-16-440-1,,73,16-440,куьнлев,куьнлев,,,,,,,,CyrillTrans;Phonemic,künlew
+73-16-450-1,,73,16-450,уйат,уйат,,,,,,,,CyrillTrans;Phonemic,uyat
+73-16-480-1,,73,16-480,оьктем,оьктем,,,,,,,,CyrillTrans;Phonemic,öktem
+73-16-510-1,,73,16-510,йигерли (ташанмаслык) аьдем,йигерли аьдем,,,,,,,,CyrillTrans;Phonemic,yigerli ädem
+73-16-520-1,,73,16-520,"йигерли, ташанмаслык",йигерли,,,,,,,,CyrillTrans;Phonemic,yigerli
+73-16-520-2,,73,16-520,"йигерли, ташанмаслык",ташанмаслык,,,,,,,,CyrillTrans;Phonemic,tašanmaslɨk
+73-16-530-1,,73,16-530,коркув,коркув,,,,,,,,CyrillTrans;Phonemic,korkuw
+73-16-540-1,,73,16-540,"кавыфлык, коркынышлы",кавыфлык,,,,,,,,CyrillTrans;Phonemic,kawɨflɨk
+73-16-540-2,,73,16-540,"кавыфлык, коркынышлы",коркынышлы,,,,,,,,CyrillTrans;Phonemic,korkɨnɨšlɨ
+73-16-620-1,,73,16-620,"мырад, уьмит, дерт",мырад,,,,,,,,CyrillTrans;Phonemic,mɨrad
+73-16-620-2,,73,16-620,"мырад, уьмит, дерт",уьмит,,,,,,,,CyrillTrans;Phonemic,ümit
+73-16-620-3,,73,16-620,"мырад, уьмит, дерт",дерт,,,,,,,,CyrillTrans;Phonemic,dert
+73-16-622-1,,73,16-622,сайлав,сайлав,,,,,,,,CyrillTrans;Phonemic,saylaw
+73-16-630-1,,73,16-630,уьмит (даьме) этуьв,уьмит этуьв,,,,,,,,CyrillTrans;Phonemic,ümit etüw
+73-16-650-1,,73,16-650,"алал, берилген, сенимли, дурыс",алал,,,,,,,,CyrillTrans;Phonemic,alal
+73-16-650-2,,73,16-650,"алал, берилген, сенимли, дурыс",берилген,,,,,,,,CyrillTrans;Phonemic,berilgen
+73-16-650-3,,73,16-650,"алал, берилген, сенимли, дурыс",сенимли,,,,,,,,CyrillTrans;Phonemic,senimli
+73-16-650-4,,73,16-650,"алал, берилген, сенимли, дурыс",дурыс,,,,,,,,CyrillTrans;Phonemic,durɨs
+73-16-660-1,,73,16-660,"соьлеш, аьлеш, алал, сенимли",соьлеш,,,,,,,,CyrillTrans;Phonemic,söleš
+73-16-660-2,,73,16-660,"соьлеш, аьлеш, алал, сенимли",аьлеш,,,,,,,,CyrillTrans;Phonemic,äleš
+73-16-660-3,,73,16-660,"соьлеш, аьлеш, алал, сенимли",алал,,,,,,,,CyrillTrans;Phonemic,alal
+73-16-660-4,,73,16-660,"соьлеш, аьлеш, алал, сенимли",сенимли,,,,,,,,CyrillTrans;Phonemic,senimli
+73-16-670-1,,73,16-670,елган (оьтирик) айтув (соьйлев),елган айтув,,,,,,,,CyrillTrans;Phonemic,yelgan aytuw
+73-16-680-1,,73,16-680,алдатув,алдатув,,,,,,,,CyrillTrans;Phonemic,aldatuw
+73-16-690-1,,73,16-690,кешуьв,кешуьв,,,,,,,,CyrillTrans;Phonemic,kešüw
+73-16-710-1,,73,16-710,йахшы,йахшы,,,,,,,,CyrillTrans;Phonemic,yaxšɨ
+73-16-720-1,,73,16-720,йаман,йаман,,,,,,,,CyrillTrans;Phonemic,yaman
+73-16-730-1,,73,16-730,"дурыс, туьзи",дурыс,,,,,,,,CyrillTrans;Phonemic,durɨs
+73-16-730-2,,73,16-730,"дурыс, туьзи",туьзи,,,,,,,,CyrillTrans;Phonemic,tüzi
+73-16-740-1,,73,16-740,дурыс (туьзи) тувыл,дурыс тувыл,,,,,,,,CyrillTrans;Phonemic,durɨs tuwɨl
+73-16-760-1,,73,16-760,йанъылыс,йанъылыс,,,,,,,,CyrillTrans;Phonemic,yaŋɨlɨs
+73-16-770-1,,73,16-770,йанъылыс,йанъылыс,,,,,,,,CyrillTrans;Phonemic,yaŋɨlɨs
+73-16-780-1,,73,16-780,куьнаьлев,куьнаьлев,,,,,,,,CyrillTrans;Phonemic,künälew
+73-16-790-1,,73,16-790,мактав,мактав,,,,,,,,CyrillTrans;Phonemic,maktaw
+73-16-810-1,,73,16-810,"ыспайы, йарасык",ыспайы,,,,,,,,CyrillTrans;Phonemic,ɨspayɨ
+73-16-810-2,,73,16-810,"ыспайы, йарасык",йарасык,,,,,,,,CyrillTrans;Phonemic,yarasɨk
+73-16-820-1,,73,16-820,"эрши, сакат, зайаланган",эрши,,,,,,,,CyrillTrans;Phonemic,erši
+73-16-820-2,,73,16-820,"эрши, сакат, зайаланган",сакат,,,,,,,,CyrillTrans;Phonemic,sakat
+73-16-820-3,,73,16-820,"эрши, сакат, зайаланган",зайаланган,,,,,,,,CyrillTrans;Phonemic,zayalangan
+73-16-830-1,,73,16-830,кызганш,кызганш,,,,,,,,CyrillTrans;Phonemic,kɨzganš
+73-16-840-1,,73,16-840,акыллы,акыллы,,,,,,,,CyrillTrans;Phonemic,akɨllɨ
+73-17-110-1,,73,17-110,акыл,акыл,,,,,,,,CyrillTrans;Phonemic,akɨl
+73-17-130-1,,73,17-130,ойлав,ойлав,,,,,,,,CyrillTrans;Phonemic,oylaw
+73-17-140-1,,73,17-140,"ойлав, санав",ойлав,,,,,,,,CyrillTrans;Phonemic,oylaw
+73-17-140-2,,73,17-140,"ойлав, санав",санав,,,,,,,,CyrillTrans;Phonemic,sanaw
+73-17-150-1,,73,17-150,ынанув,ынанув,,,,,,,,CyrillTrans;Phonemic,ɨnanuw
+73-17-160-1,,73,17-160,анълав,анълав,,,,,,,,CyrillTrans;Phonemic,aŋlaw
+73-17-170-1,,73,17-170,билуьв,билуьв,,,,,,,,CyrillTrans;Phonemic,bilüw
+73-17-171-1,,73,17-171,"ойлав, йорав",ойлав,,,,,,,,CyrillTrans;Phonemic,oylaw
+73-17-171-2,,73,17-171,"ойлав, йорав",йорав,,,,,,,,CyrillTrans;Phonemic,yoraw
+73-17-180-1,,73,17-180,болып коьринуьв,болып коьринуьв,,,,,,,,CyrillTrans;Phonemic,bolɨp körinüw
+73-17-190-1,,73,17-190,"идейа, ой, анълав, туьсинуьв",идейа,,,,,,,,CyrillTrans;Phonemic,ideya
+73-17-190-2,,73,17-190,"идейа, ой, анълав, туьсинуьв",ой,,,,,,,,CyrillTrans;Phonemic,oy
+73-17-190-3,,73,17-190,"идейа, ой, анълав, туьсинуьв",анълав,,,,,,,,CyrillTrans;Phonemic,aŋlaw
+73-17-190-4,,73,17-190,"идейа, ой, анълав, туьсинуьв",туьсинуьв,,,,,,,,CyrillTrans;Phonemic,tüsinüw
+73-17-210-1,,73,17-210,теренъ акыллы,теренъ акыллы,,,,,,,,CyrillTrans;Phonemic,tereŋ akɨllɨ
+73-17-220-1,,73,17-220,"акылсыз, анъкав, акмак",акылсыз,,,,,,,,CyrillTrans;Phonemic,akɨlsɨz
+73-17-220-2,,73,17-220,"акылсыз, анъкав, акмак",анъкав,,,,,,,,CyrillTrans;Phonemic,aŋkaw
+73-17-220-3,,73,17-220,"акылсыз, анъкав, акмак",акмак,,,,,,,,CyrillTrans;Phonemic,akmak
+73-17-230-1,,73,17-230,акылсыз,акылсыз,,,,,,,,CyrillTrans;Phonemic,akɨlsɨz
+73-17-240-1,,73,17-240,"билуьв, окув",билуьв,,,,,,,,CyrillTrans;Phonemic,bilüw
+73-17-240-2,,73,17-240,"билуьв, окув",окув,,,,,,,,CyrillTrans;Phonemic,okuw
+73-17-242-1,,73,17-242,"окув, уьйренуьв",окув,,,,,,,,CyrillTrans;Phonemic,okuw
+73-17-242-2,,73,17-242,"окув, уьйренуьв",уьйренуьв,,,,,,,,CyrillTrans;Phonemic,üyrenüw
+73-17-250-1,,73,17-250,"окув, окытув, уьйретуьв",окув,,,,,,,,CyrillTrans;Phonemic,okuw
+73-17-250-2,,73,17-250,"окув, окытув, уьйретуьв",окытув,,,,,,,,CyrillTrans;Phonemic,okɨtuw
+73-17-250-3,,73,17-250,"окув, окытув, уьйретуьв",уьйретуьв,,,,,,,,CyrillTrans;Phonemic,üyretüw
+73-17-260-1,,73,17-260,окувшы,окувшы,,,,,,,,CyrillTrans;Phonemic,okuwšɨ
+73-17-270-1,,73,17-270,окытувшы,окытувшы,,,,,,,,CyrillTrans;Phonemic,okɨtuwšɨ
+73-17-280-1,,73,17-280,мектеб,мектеб,,,,,,,,CyrillTrans;Phonemic,mekteb
+73-17-310-1,,73,17-310,эсте саклав,эсте саклав,,,,,,,,CyrillTrans;Phonemic,este saklaw
+73-17-320-1,,73,17-320,мутув,мутув,,,,,,,,CyrillTrans;Phonemic,mutuw
+73-17-340-1,,73,17-340,"ашык, таза, анъланыслы",ашык,,,,,,,,CyrillTrans;Phonemic,ašɨk
+73-17-340-2,,73,17-340,"ашык, таза, анъланыслы",таза,,,,,,,,CyrillTrans;Phonemic,taza
+73-17-340-3,,73,17-340,"ашык, таза, анъланыслы",анъланыслы,,,,,,,,CyrillTrans;Phonemic,aŋlanɨslɨ
+73-17-350-1,,73,17-350,"анълавсыз, анълап болмайтаган, ашык болмаган",анълавсыз,,,,,,,,CyrillTrans;Phonemic,aŋlawsɨz
+73-17-350-2,,73,17-350,"анълавсыз, анълап болмайтаган, ашык болмаган",анълап болмайтаган,,,,,,,,CyrillTrans;Phonemic,aŋlap bolmaytagan
+73-17-350-3,,73,17-350,"анълавсыз, анълап болмайтаган, ашык болмаган",ашык болмаган,,,,,,,,CyrillTrans;Phonemic,ašɨk bolmagan
+73-17-360-1,,73,17-360,"сыр, йасыртын",сыр,,,,,,,,CyrillTrans;Phonemic,sɨr
+73-17-360-2,,73,17-360,"сыр, йасыртын",йасыртын,,,,,,,,CyrillTrans;Phonemic,yasɨrtɨn
+73-17-370-1,,73,17-370,"каты, берк, сенимли, ынанымлы",каты,,,,,,,,CyrillTrans;Phonemic,katɨ
+73-17-370-2,,73,17-370,"каты, берк, сенимли, ынанымлы",берк,,,,,,,,CyrillTrans;Phonemic,berk
+73-17-370-3,,73,17-370,"каты, берк, сенимли, ынанымлы",сенимли,,,,,,,,CyrillTrans;Phonemic,senimli
+73-17-370-4,,73,17-370,"каты, берк, сенимли, ынанымлы",ынанымлы,,,,,,,,CyrillTrans;Phonemic,ɨnanɨmlɨ
+73-17-380-1,,73,17-380,анълатув,анълатув,,,,,,,,CyrillTrans;Phonemic,aŋlatuw
+73-17-410-1,,73,17-410,"мырад, даьме",мырад,,,,,,,,CyrillTrans;Phonemic,mɨrad
+73-17-410-2,,73,17-410,"мырад, даьме",даьме,,,,,,,,CyrillTrans;Phonemic,däme
+73-17-420-1,,73,17-420,себеп,себеп,,,,,,,,CyrillTrans;Phonemic,sebep
+73-17-430-1,,73,17-430,"шекленуьв, сенмев, ынанмав",шекленуьв,,,,,,,,CyrillTrans;Phonemic,šeklenüw
+73-17-430-2,,73,17-430,"шекленуьв, сенмев, ынанмав",сенмев,,,,,,,,CyrillTrans;Phonemic,senmew
+73-17-430-3,,73,17-430,"шекленуьв, сенмев, ынанмав",ынанмав,,,,,,,,CyrillTrans;Phonemic,ɨnanmaw
+73-17-440-1,,73,17-440,"шекленуьв, санав",шекленуьв,,,,,,,,CyrillTrans;Phonemic,šeklenüw
+73-17-440-2,,73,17-440,"шекленуьв, санав",санав,,,,,,,,CyrillTrans;Phonemic,sanaw
+73-17-441-1,,73,17-441,"сатув, таслав",сатув,,,,,,,,CyrillTrans;Phonemic,satuw
+73-17-441-2,,73,17-441,"сатув, таслав",таслав,,,,,,,,CyrillTrans;Phonemic,taslaw
+73-17-450-1,,73,17-450,"кереклик, амалсыз",кереклик,,,,,,,,CyrillTrans;Phonemic,kereklik
+73-17-450-2,,73,17-450,"кереклик, амалсыз",амалсыз,,,,,,,,CyrillTrans;Phonemic,amalsɨz
+73-17-460-1,,73,17-460,"енъил, тыныш",енъил,,,,,,,,CyrillTrans;Phonemic,yeŋil
+73-17-460-2,,73,17-460,"енъил, тыныш",тыныш,,,,,,,,CyrillTrans;Phonemic,tɨnɨš
+73-17-470-1,,73,17-470,"авыр, кыйын",авыр,,,,,,,,CyrillTrans;Phonemic,awɨr
+73-17-470-2,,73,17-470,"авыр, кыйын",кыйын,,,,,,,,CyrillTrans;Phonemic,kɨyɨn
+73-17-480-1,,73,17-480,"шалысыпкарав, сынап карав",шалысыпкарав,,,,,,,,CyrillTrans;Phonemic,šalɨsɨpkaraw
+73-17-480-2,,73,17-480,"шалысыпкарав, сынап карав",сынап карав,,,,,,,,CyrillTrans;Phonemic,sɨnap karaw
+73-17-490-1,,73,17-490,"амал, способ",амал,,,,,,,,CyrillTrans;Phonemic,amal
+73-17-490-2,,73,17-490,"амал, способ",способ,,,,,,,,CyrillTrans;Phonemic,sposob
+73-17-510-1,,73,17-510,эм,эм,,,,,,,,CyrillTrans;Phonemic,em
+73-17-520-1,,73,17-520,неге десе,неге десе,,,,,,,,CyrillTrans;Phonemic,nege dese
+73-17-530-1,,73,17-530,эгер,эгер,,,,,,,,CyrillTrans;Phonemic,eger
+73-17-540-1,,73,17-540,йаде,йаде,,,,,,,,CyrillTrans;Phonemic,yade
+73-17-550-1,,73,17-550,"аше, аши, ага, дурыс, эм",аше,,,,,,,,CyrillTrans;Phonemic,aše
+73-17-550-2,,73,17-550,"аше, аши, ага, дурыс, эм",аши,,,,,,,,CyrillTrans;Phonemic,aši
+73-17-550-3,,73,17-550,"аше, аши, ага, дурыс, эм",ага,,,,,,,,CyrillTrans;Phonemic,aga
+73-17-550-4,,73,17-550,"аше, аши, ага, дурыс, эм",дурыс,,,,,,,,CyrillTrans;Phonemic,durɨs
+73-17-550-5,,73,17-550,"аше, аши, ага, дурыс, эм",эм,,,,,,,,CyrillTrans;Phonemic,em
+73-17-560-1,,73,17-560,"йок, тувыл",йок,,,,,,,,CyrillTrans;Phonemic,yok
+73-17-560-2,,73,17-560,"йок, тувыл",тувыл,,,,,,,,CyrillTrans;Phonemic,tuwɨl
+73-17-610-1,,73,17-610,"калай, нешик",калай,,,,,,,,CyrillTrans;Phonemic,kalay
+73-17-610-2,,73,17-610,"калай, нешик",нешик,,,,,,,,CyrillTrans;Phonemic,nešik
+73-17-620-1,,73,17-620,"нешев, неше",нешев,,,,,,,,CyrillTrans;Phonemic,nešew
+73-17-620-2,,73,17-620,"нешев, неше",неше,,,,,,,,CyrillTrans;Phonemic,neše
+73-17-630-1,,73,17-630,"неше, нешев",неше,,,,,,,,CyrillTrans;Phonemic,neše
+73-17-630-2,,73,17-630,"неше, нешев",нешев,,,,,,,,CyrillTrans;Phonemic,nešew
+73-17-640-1,,73,17-640,не,не,,,,,,,,CyrillTrans;Phonemic,ne
+73-17-650-1,,73,17-650,"кашан, кайзаман",кашан,,,,,,,,CyrillTrans;Phonemic,kašan
+73-17-650-2,,73,17-650,"кашан, кайзаман",кайзаман,,,,,,,,CyrillTrans;Phonemic,kayzaman
+73-17-660-1,,73,17-660,"кайда, кайдан",кайда,,,,,,,,CyrillTrans;Phonemic,kayda
+73-17-660-2,,73,17-660,"кайда, кайдан",кайдан,,,,,,,,CyrillTrans;Phonemic,kaydan
+73-17-670-1,,73,17-670,кайдай,кайдай,,,,,,,,CyrillTrans;Phonemic,kayday
+73-17-680-1,,73,17-680,ким,ким,,,,,,,,CyrillTrans;Phonemic,kim
+73-17-690-1,,73,17-690,"неге, не уьшин",неге,,,,,,,,CyrillTrans;Phonemic,nege
+73-17-690-2,,73,17-690,"неге, не уьшин",не уьшин,,,,,,,,CyrillTrans;Phonemic,ne üšin
+73-18-110-1,,73,18-110,"сес, тавыс, аваз",сес,,,,,,,,CyrillTrans;Phonemic,ses
+73-18-110-2,,73,18-110,"сес, тавыс, аваз",тавыс,,,,,,,,CyrillTrans;Phonemic,tawɨs
+73-18-110-3,,73,18-110,"сес, тавыс, аваз",аваз,,,,,,,,CyrillTrans;Phonemic,awaz
+73-18-120-1,,73,18-120,йырлав,йырлав,,,,,,,,CyrillTrans;Phonemic,yɨrlaw
+73-18-130-1,,73,18-130,кышкырув,кышкырув,,,,,,,,CyrillTrans;Phonemic,kɨškɨruw
+73-18-150-1,,73,18-150,сыбырдав,сыбырдав,,,,,,,,CyrillTrans;Phonemic,sɨbɨrdaw
+73-18-160-1,,73,18-160,"куьбирденуьв, мырылдав",куьбирденуьв,,,,,,,,CyrillTrans;Phonemic,kübirdenüw
+73-18-160-2,,73,18-160,"куьбирденуьв, мырылдав",мырылдав,,,,,,,,CyrillTrans;Phonemic,mɨrɨldaw
+73-18-170-1,,73,18-170,сызгырув,сызгырув,,,,,,,,CyrillTrans;Phonemic,sɨzgɨruw
+73-18-180-1,,73,18-180,"шанъкылдав, шынъырав, канъсув",шанъкылдав,,,,,,,,CyrillTrans;Phonemic,šaŋkɨldaw
+73-18-180-2,,73,18-180,"шанъкылдав, шынъырав, канъсув",шынъырав,,,,,,,,CyrillTrans;Phonemic,šɨŋɨraw
+73-18-180-3,,73,18-180,"шанъкылдав, шынъырав, канъсув",канъсув,,,,,,,,CyrillTrans;Phonemic,kaŋsuw
+73-18-190-1,,73,18-190,"улув, увылдав",улув,,,,,,,,CyrillTrans;Phonemic,uluw
+73-18-190-2,,73,18-190,"улув, увылдав",увылдав,,,,,,,,CyrillTrans;Phonemic,uwɨldaw
+73-18-210-1,,73,18-210,"соьйлев, хабарласув",соьйлев,,,,,,,,CyrillTrans;Phonemic,söylew
+73-18-210-2,,73,18-210,"соьйлев, хабарласув",хабарласув,,,,,,,,CyrillTrans;Phonemic,xabarlasuw
+73-18-211-1,,73,18-211,тутлыгув,тутлыгув,,,,,,,,CyrillTrans;Phonemic,tutlɨguw
+73-18-220-1,,73,18-220,айтув,айтув,,,,,,,,CyrillTrans;Phonemic,aytuw
+73-18-221-1,,73,18-221,"хабар айтув, хабарлав",хабар айтув,,,,,,,,CyrillTrans;Phonemic,xabar aytuw
+73-18-221-2,,73,18-221,"хабар айтув, хабарлав",хабарлав,,,,,,,,CyrillTrans;Phonemic,xabarlaw
+73-18-222-1,,73,18-222,соьз (айтув),соьз,,,,,,,,CyrillTrans;Phonemic,söz
+73-18-230-1,,73,18-230,уьндемев,уьндемев,,,,,,,,CyrillTrans;Phonemic,ündemew
+73-18-240-1,,73,18-240,тил,тил,,,,,,,,CyrillTrans;Phonemic,til
+73-18-260-1,,73,18-260,соьз,соьз,,,,,,,,CyrillTrans;Phonemic,söz
+73-18-280-1,,73,18-280,ат,ат,,,,,,,,CyrillTrans;Phonemic,at
+73-18-310-1,,73,18-310,сорав беруьв,сорав беруьв,,,,,,,,CyrillTrans;Phonemic,soraw berüw
+73-18-320-1,,73,18-320,йавап беруьв,йавап беруьв,,,,,,,,CyrillTrans;Phonemic,yawap berüw
+73-18-330-1,,73,18-330,ашык болув,ашык болув,,,,,,,,CyrillTrans;Phonemic,ašɨk boluw
+73-18-340-1,,73,18-340,"ератпав, еманга санав, макул болмав",ератпав,,,,,,,,CyrillTrans;Phonemic,yeratpaw
+73-18-340-2,,73,18-340,"ератпав, еманга санав, макул болмав",еманга санав,,,,,,,,CyrillTrans;Phonemic,yemanga sanaw
+73-18-340-3,,73,18-340,"ератпав, еманга санав, макул болмав",макул болмав,,,,,,,,CyrillTrans;Phonemic,makul bolmaw
+73-18-350-1,,73,18-350,"тилемек, тилев",тилемек,,,,,,,,CyrillTrans;Phonemic,tilemek
+73-18-350-2,,73,18-350,"тилемек, тилев",тилев,,,,,,,,CyrillTrans;Phonemic,tilew
+73-18-360-1,,73,18-360,соьз беруьв,соьз беруьв,,,,,,,,CyrillTrans;Phonemic,söz berüw
+73-18-370-1,,73,18-370,"алмав, унамав, макул коьрмев",алмав,,,,,,,,CyrillTrans;Phonemic,almaw
+73-18-370-2,,73,18-370,"алмав, унамав, макул коьрмев",унамав,,,,,,,,CyrillTrans;Phonemic,unamaw
+73-18-370-3,,73,18-370,"алмав, унамав, макул коьрмев",макул коьрмев,,,,,,,,CyrillTrans;Phonemic,makul körmew
+73-18-380-1,,73,18-380,"тыйувлык этуьв, тыйув",тыйувлык этуьв,,,,,,,,CyrillTrans;Phonemic,tɨyuwlɨk etüw
+73-18-380-2,,73,18-380,"тыйувлык этуьв, тыйув",тыйув,,,,,,,,CyrillTrans;Phonemic,tɨyuw
+73-18-390-1,,73,18-390,"акырув, урсусув",акырув,,,,,,,,CyrillTrans;Phonemic,akɨruw
+73-18-390-2,,73,18-390,"акырув, урсусув",урсусув,,,,,,,,CyrillTrans;Phonemic,ursusuw
+73-18-410-1,,73,18-410,шакырув,шакырув,,,,,,,,CyrillTrans;Phonemic,šakɨruw
+73-18-420-1,,73,18-420,"атав, айтув, ат беруьв",атав,,,,,,,,CyrillTrans;Phonemic,ataw
+73-18-420-2,,73,18-420,"атав, айтув, ат беруьв",айтув,,,,,,,,CyrillTrans;Phonemic,aytuw
+73-18-420-3,,73,18-420,"атав, айтув, ат беруьв",ат беруьв,,,,,,,,CyrillTrans;Phonemic,at berüw
+73-18-430-1,,73,18-430,билдируьв,билдируьв,,,,,,,,CyrillTrans;Phonemic,bildirüw
+73-18-440-1,,73,18-440,коркув беруьв,коркув беруьв,,,,,,,,CyrillTrans;Phonemic,korkuw berüw
+73-18-450-1,,73,18-450,мактанув,мактанув,,,,,,,,CyrillTrans;Phonemic,maktanuw
+73-18-510-1,,73,18-510,йазув,йазув,,,,,,,,CyrillTrans;Phonemic,yazuw
+73-18-520-1,,73,18-520,окув,окув,,,,,,,,CyrillTrans;Phonemic,okuw
+73-18-560-1,,73,18-560,кагыт,кагыт,,,,,,,,CyrillTrans;Phonemic,kagɨt
+73-18-570-1,,73,18-570,калем,калем,,,,,,,,CyrillTrans;Phonemic,kalem
+73-18-610-1,,73,18-610,китап,китап,,,,,,,,CyrillTrans;Phonemic,kitap
+73-18-670-1,,73,18-670,"шайде, шайир",шайде,,,,,,,,CyrillTrans;Phonemic,šayde
+73-18-670-2,,73,18-670,"шайде, шайир",шайир,,,,,,,,CyrillTrans;Phonemic,šayir
+73-18-710-1,,73,18-710,зурнай,зурнай,,,,,,,,CyrillTrans;Phonemic,zurnay
+73-18-720-1,,73,18-720,дуьмбирдек,дуьмбирдек,,,,,,,,CyrillTrans;Phonemic,dümbirdek
+73-18-730-1,,73,18-730,"труба, ожак, кона, дуьдик",труба,,,,,,,,CyrillTrans;Phonemic,truba
+73-18-730-2,,73,18-730,"труба, ожак, кона, дуьдик",ожак,,,,,,,,CyrillTrans;Phonemic,ožak
+73-18-730-3,,73,18-730,"труба, ожак, кона, дуьдик",кона,,,,,,,,CyrillTrans;Phonemic,kona
+73-18-730-4,,73,18-730,"труба, ожак, кона, дуьдик",дуьдик,,,,,,,,CyrillTrans;Phonemic,düdik
+73-18-740-1,,73,18-740,"такылдавык, погремушка",такылдавык,,,,,,,,CyrillTrans;Phonemic,takɨldawɨk
+73-18-740-2,,73,18-740,"такылдавык, погремушка",погремушка,,,,,,,,CyrillTrans;Phonemic,pogremuška
+73-19-110-1,,73,19-110,"эл, кырал",эл,,,,,,,,CyrillTrans;Phonemic,el
+73-19-110-2,,73,19-110,"эл, кырал",кырал,,,,,,,,CyrillTrans;Phonemic,kɨral
+73-19-120-1,,73,19-120,тувган эл,тувган эл,,,,,,,,CyrillTrans;Phonemic,tuwgan el
+73-19-150-1,,73,19-150,кала,кала,,,,,,,,CyrillTrans;Phonemic,kala
+73-19-160-1,,73,19-160,"йурт, авыл",йурт,,,,,,,,CyrillTrans;Phonemic,yurt
+73-19-160-2,,73,19-160,"йурт, авыл",авыл,,,,,,,,CyrillTrans;Phonemic,awɨl
+73-19-170-1,,73,19-170,"граница, шет",граница,,,,,,,,CyrillTrans;Phonemic,granica
+73-19-170-2,,73,19-170,"граница, шет",шет,,,,,,,,CyrillTrans;Phonemic,šet
+73-19-210-1,,73,19-210,халк,халк,,,,,,,,CyrillTrans;Phonemic,xalk
+73-19-230-1,,73,19-230,"тукум, нацийа, миллет",тукум,,,,,,,,CyrillTrans;Phonemic,tukum
+73-19-230-2,,73,19-230,"тукум, нацийа, миллет",нацийа,,,,,,,,CyrillTrans;Phonemic,naciya
+73-19-230-3,,73,19-230,"тукум, нацийа, миллет",миллет,,,,,,,,CyrillTrans;Phonemic,millet
+73-19-240-1,,73,19-240,"вождь, йолбасшы",вождь,,,,,,,,CyrillTrans;Phonemic,woždʲ
+73-19-240-2,,73,19-240,"вождь, йолбасшы",йолбасшы,,,,,,,,CyrillTrans;Phonemic,yolbasšɨ
+73-19-250-1,,73,19-250,аса,аса,,,,,,,,CyrillTrans;Phonemic,asa
+73-19-310-1,,73,19-310,елбасшылык этуьв,елбасшылык этуьв,,,,,,,,CyrillTrans;Phonemic,yelbasšɨlɨk etüw
+73-19-320-1,,73,19-320,патша,патша,,,,,,,,CyrillTrans;Phonemic,patša
+73-19-330-1,,73,19-330,патша хатын,патша хатын,,,,,,,,CyrillTrans;Phonemic,patša xatɨn
+73-19-360-1,,73,19-360,"асыллык, намыслылык",асыллык,,,,,,,,CyrillTrans;Phonemic,asɨllɨk
+73-19-360-2,,73,19-360,"асыллык, намыслылык",намыслылык,,,,,,,,CyrillTrans;Phonemic,namɨslɨlɨk
+73-19-370-1,,73,19-370,кала аьдем,кала аьдем,,,,,,,,CyrillTrans;Phonemic,kala ädem
+73-19-410-1,,73,19-410,"ие, тоьре",ие,,,,,,,,CyrillTrans;Phonemic,ie
+73-19-410-2,,73,19-410,"ие, тоьре",тоьре,,,,,,,,CyrillTrans;Phonemic,töre
+73-19-420-1,,73,19-420,"йалшы, кул, (джолсузкул)",йалшы,,,,,,,,CyrillTrans;Phonemic,yalšɨ
+73-19-420-2,,73,19-420,"йалшы, кул, (джолсузкул)",кул,,,,,,,,CyrillTrans;Phonemic,kul
+73-19-420-3,,73,19-420,"йалшы, кул, (джолсузкул)",джолсузкул,,,,,,,,CyrillTrans;Phonemic,ǯolsuzkul
+73-19-430-1,,73,19-430,кул,кул,,,,,,,,CyrillTrans;Phonemic,kul
+73-19-440-1,,73,19-440,"аьдем, инсан",аьдем,,,,,,,,CyrillTrans;Phonemic,ädem
+73-19-440-2,,73,19-440,"аьдем, инсан",инсан,,,,,,,,CyrillTrans;Phonemic,insan
+73-19-450-1,,73,19-450,буйрык беруьв,буйрык беруьв,,,,,,,,CyrillTrans;Phonemic,buyrɨk berüw
+73-19-460-1,,73,19-460,"бойсынув, коьнуьв",бойсынув,,,,,,,,CyrillTrans;Phonemic,boysɨnuw
+73-19-460-2,,73,19-460,"бойсынув, коьнуьв",коьнуьв,,,,,,,,CyrillTrans;Phonemic,könüw
+73-19-470-1,,73,19-470,ыхтыйар беруьв,ыхтыйар беруьв,,,,,,,,CyrillTrans;Phonemic,ɨxtɨyar berüw
+73-19-510-1,,73,19-510,дос,дос,,,,,,,,CyrillTrans;Phonemic,dos
+73-19-520-1,,73,19-520,душпан,душпан,,,,,,,,CyrillTrans;Phonemic,dušpan
+73-19-540-1,,73,19-540,"конъысы, авылдас",конъысы,,,,,,,,CyrillTrans;Phonemic,koŋɨsɨ
+73-19-540-2,,73,19-540,"конъысы, авылдас",авылдас,,,,,,,,CyrillTrans;Phonemic,awɨldas
+73-19-550-1,,73,19-550,таныс болмаган аьдем,таныс болмаган аьдем,,,,,,,,CyrillTrans;Phonemic,tanɨs bolmagan ädem
+73-19-560-1,,73,19-560,конак,конак,,,,,,,,CyrillTrans;Phonemic,konak
+73-19-570-1,,73,19-570,"иеси, ие",иеси,,,,,,,,CyrillTrans;Phonemic,iesi
+73-19-570-2,,73,19-570,"иеси, ие",ие,,,,,,,,CyrillTrans;Phonemic,ie
+73-19-580-1,,73,19-580,"коьмек, йардам",коьмек,,,,,,,,CyrillTrans;Phonemic,kömek
+73-19-580-2,,73,19-580,"коьмек, йардам",йардам,,,,,,,,CyrillTrans;Phonemic,yardam
+73-19-590-1,,73,19-590,быршав беруьв,быршав беруьв,,,,,,,,CyrillTrans;Phonemic,bɨršaw berüw
+73-19-610-1,,73,19-610,аьдет,аьдет,,,,,,,,CyrillTrans;Phonemic,ädet
+73-19-620-1,,73,19-620,"урсы, буздырысув",урсы,,,,,,,,CyrillTrans;Phonemic,ursɨ
+73-19-620-2,,73,19-620,"урсы, буздырысув",буздырысув,,,,,,,,CyrillTrans;Phonemic,buzdɨrɨsuw
+73-19-630-1,,73,19-630,"йасыртын соьйлесуьв, йаман ой",йасыртын соьйлесуьв,,,,,,,,CyrillTrans;Phonemic,yasɨrtɨn söylesüw
+73-19-630-2,,73,19-630,"йасыртын соьйлесуьв, йаман ой",йаман ой,,,,,,,,CyrillTrans;Phonemic,yaman oy
+73-19-650-1,,73,19-650,"карсы алув, йолыгысув",карсы алув,,,,,,,,CyrillTrans;Phonemic,karsɨ aluw
+73-19-650-2,,73,19-650,"карсы алув, йолыгысув",йолыгысув,,,,,,,,CyrillTrans;Phonemic,yolɨgɨsuw
+73-19-720-1,,73,19-720,"кахба, канжык",кахба,,,,,,,,CyrillTrans;Phonemic,kaxba
+73-19-720-2,,73,19-720,"кахба, канжык",канжык,,,,,,,,CyrillTrans;Phonemic,kanžɨk
+73-20-110-1,,73,20-110,"тоьбелесуьв, токаласув, согысув",тоьбелесуьв,,,,,,,,CyrillTrans;Phonemic,töbelesüw
+73-20-110-2,,73,20-110,"тоьбелесуьв, токаласув, согысув",токаласув,,,,,,,,CyrillTrans;Phonemic,tokalasuw
+73-20-110-3,,73,20-110,"тоьбелесуьв, токаласув, согысув",согысув,,,,,,,,CyrillTrans;Phonemic,sogɨsuw
+73-20-130-1,,73,20-130,"согыс, кавга",согыс,,,,,,,,CyrillTrans;Phonemic,sogɨs
+73-20-130-2,,73,20-130,"согыс, кавга",кавга,,,,,,,,CyrillTrans;Phonemic,kawga
+73-20-140-1,,73,20-140,"тынышлык, парахатлык",тынышлык,,,,,,,,CyrillTrans;Phonemic,tɨnɨšlɨk
+73-20-140-2,,73,20-140,"тынышлык, парахатлык",парахатлык,,,,,,,,CyrillTrans;Phonemic,paraxatlɨk
+73-20-150-1,,73,20-150,аьскер,аьскер,,,,,,,,CyrillTrans;Phonemic,äsker
+73-20-170-1,,73,20-170,аьскерши,аьскерши,,,,,,,,CyrillTrans;Phonemic,äskerši
+73-20-210-1,,73,20-210,савыт,савыт,,,,,,,,CyrillTrans;Phonemic,sawɨt
+73-20-220-1,,73,20-220,"шокпар, алдаспан",шокпар,,,,,,,,CyrillTrans;Phonemic,šokpar
+73-20-220-2,,73,20-220,"шокпар, алдаспан",алдаспан,,,,,,,,CyrillTrans;Phonemic,aldaspan
+73-20-222-1,,73,20-222,айбалта,айбалта,,,,,,,,CyrillTrans;Phonemic,aybalta
+73-20-230-1,,73,20-230,такъийа,такъийа,,,,,,,,CyrillTrans;Phonemic,taqiya
+73-20-240-1,,73,20-240,"йай, соган",йай,,,,,,,,CyrillTrans;Phonemic,yay
+73-20-240-2,,73,20-240,"йай, соган",соган,,,,,,,,CyrillTrans;Phonemic,sogan
+73-20-250-1,,73,20-250,ок,ок,,,,,,,,CyrillTrans;Phonemic,ok
+73-20-260-1,,73,20-260,суьнъги,суьнъги,,,,,,,,CyrillTrans;Phonemic,süŋgi
+73-20-270-1,,73,20-270,кылыш,кылыш,,,,,,,,CyrillTrans;Phonemic,kɨlɨš
+73-20-280-1,,73,20-280,"мылтык, туьбек, топ",мылтык,,,,,,,,CyrillTrans;Phonemic,mɨltɨk
+73-20-280-2,,73,20-280,"мылтык, туьбек, топ",туьбек,,,,,,,,CyrillTrans;Phonemic,tübek
+73-20-280-3,,73,20-280,"мылтык, туьбек, топ",топ,,,,,,,,CyrillTrans;Phonemic,top
+73-20-310-1,,73,20-310,"савыт-садак, савыт-ерак",савыт-садак,,,,,,,,CyrillTrans;Phonemic,sawɨt-sadak
+73-20-310-2,,73,20-310,"савыт-садак, савыт-ерак",савыт-ерак,,,,,,,,CyrillTrans;Phonemic,sawɨt-yerak
+73-20-330-1,,73,20-330,"шлем, темир боьрк",шлем,,,,,,,,CyrillTrans;Phonemic,šlem
+73-20-330-2,,73,20-330,"шлем, темир боьрк",темир боьрк,,,,,,,,CyrillTrans;Phonemic,temir börk
+73-20-340-1,,73,20-340,талкъан,талкъан,,,,,,,,CyrillTrans;Phonemic,talqan
+73-20-350-1,,73,20-350,беркитпе,беркитпе,,,,,,,,CyrillTrans;Phonemic,berkitpe
+73-20-360-1,,73,20-360,беркитпе,беркитпе,,,,,,,,CyrillTrans;Phonemic,berkitpe
+73-20-410-1,,73,20-410,енгуьв,енгуьв,,,,,,,,CyrillTrans;Phonemic,yengüw
+73-20-420-1,,73,20-420,енгилуьв,енгилуьв,,,,,,,,CyrillTrans;Phonemic,yengilüw
+73-20-430-1,,73,20-430,"атака этуьв, карсы барув",атака этуьв,,,,,,,,CyrillTrans;Phonemic,ataka etüw
+73-20-430-2,,73,20-430,"атака этуьв, карсы барув",карсы барув,,,,,,,,CyrillTrans;Phonemic,karsɨ baruw
+73-20-440-1,,73,20-440,"корсаланув, сакланув",корсаланув,,,,,,,,CyrillTrans;Phonemic,korsalanuw
+73-20-440-2,,73,20-440,"корсаланув, сакланув",сакланув,,,,,,,,CyrillTrans;Phonemic,saklanuw
+73-20-450-1,,73,20-450,артка танов,артка танов,,,,,,,,CyrillTrans;Phonemic,artka tanow
+73-20-460-1,,73,20-460,берилуьв,берилуьв,,,,,,,,CyrillTrans;Phonemic,berilüw
+73-20-470-1,,73,20-470,"есир аьдем, капалынган аьдем",есир аьдем,,,,,,,,CyrillTrans;Phonemic,yesir ädem
+73-20-470-2,,73,20-470,"есир аьдем, капалынган аьдем",капалынган аьдем,,,,,,,,CyrillTrans;Phonemic,kapalɨngan ädem
+73-20-471-1,,73,20-471,каравыл,каравыл,,,,,,,,CyrillTrans;Phonemic,karawɨl
+73-20-480-1,,73,20-480,"йахшылык, ийгилик",йахшылык,,,,,,,,CyrillTrans;Phonemic,yaxšɨlɨk
+73-20-480-2,,73,20-480,"йахшылык, ийгилик",ийгилик,,,,,,,,CyrillTrans;Phonemic,iygilik
+73-20-490-1,,73,20-490,йолын кесуьв,йолын кесуьв,,,,,,,,CyrillTrans;Phonemic,yolɨn kesüw
+73-20-510-1,,73,20-510,балыкшы,балыкшы,,,,,,,,CyrillTrans;Phonemic,balɨkšɨ
+73-20-520-1,,73,20-520,балык ыслайтаган кармак (ыргак),балык ыслайтаган кармак,,,,,,,,CyrillTrans;Phonemic,balɨk ɨslaytagan karmak
+73-20-530-1,,73,20-530,"орманлык, кармак агашлык йин",орманлык,,,,,,,,CyrillTrans;Phonemic,ormanlɨk
+73-20-530-2,,73,20-530,"орманлык, кармак агашлык йин",кармак агашлык йин,,,,,,,,CyrillTrans;Phonemic,karmak agašlɨk yin
+73-20-540-1,,73,20-540,йылым,йылым,,,,,,,,CyrillTrans;Phonemic,yɨlɨm
+73-20-550-1,,73,20-550,"балыкка капкан, тузак",балыкка капкан,,,,,,,,CyrillTrans;Phonemic,balɨk̄a kapkan
+73-20-550-2,,73,20-550,"балыкка капкан, тузак",тузак,,,,,,,,CyrillTrans;Phonemic,tuzak
+73-20-560-1,,73,20-560,"алдавлык, алдаткыш ас (азык)",алдавлык,,,,,,,,CyrillTrans;Phonemic,aldawlɨk
+73-20-560-2,,73,20-560,"алдавлык, алдаткыш ас (азык)",алдаткыш ас,,,,,,,,CyrillTrans;Phonemic,aldatkɨš as
+73-20-610-1,,73,20-610,анъга шыгув,анъга шыгув,,,,,,,,CyrillTrans;Phonemic,aŋga šɨguw
+73-20-620-1,,73,20-620,"атув, шанышув",атув,,,,,,,,CyrillTrans;Phonemic,atuw
+73-20-620-2,,73,20-620,"атув, шанышув",шанышув,,,,,,,,CyrillTrans;Phonemic,šanɨšuw
+73-20-630-1,,73,20-630,"тиймей кетуьв, йанъылыслык этуьв, йанъылув",тиймей кетуьв,,,,,,,,CyrillTrans;Phonemic,tiymey ketüw
+73-20-630-2,,73,20-630,"тиймей кетуьв, йанъылыслык этуьв, йанъылув",йанъылыслык этуьв,,,,,,,,CyrillTrans;Phonemic,yaŋɨlɨslɨk etüw
+73-20-630-3,,73,20-630,"тиймей кетуьв, йанъылыслык этуьв, йанъылув",йанъылув,,,,,,,,CyrillTrans;Phonemic,yaŋɨluw
+73-20-640-1,,73,20-640,"капкан, тузак",капкан,,,,,,,,CyrillTrans;Phonemic,kapkan
+73-20-640-2,,73,20-640,"капкан, тузак",тузак,,,,,,,,CyrillTrans;Phonemic,tuzak
+73-20-650-1,,73,20-650,"ыслав, авлав",ыслав,,,,,,,,CyrillTrans;Phonemic,ɨslaw
+73-20-650-2,,73,20-650,"ыслав, авлав",авлав,,,,,,,,CyrillTrans;Phonemic,awlaw
+73-21-110-1,,73,21-110,закон,закон,,,,,,,,CyrillTrans;Phonemic,zakon
+73-21-150-1,,73,21-150,"суд, тоьре",суд,,,,,,,,CyrillTrans;Phonemic,sud
+73-21-150-2,,73,21-150,"суд, тоьре",тоьре,,,,,,,,CyrillTrans;Phonemic,töre
+73-21-160-1,,73,21-160,"суд этуьв, суд кесуьв",суд этуьв,,,,,,,,CyrillTrans;Phonemic,sud etüw
+73-21-160-2,,73,21-160,"суд этуьв, суд кесуьв",суд кесуьв,,,,,,,,CyrillTrans;Phonemic,sud kesüw
+73-21-170-1,,73,21-170,судтынъ (тоьрединъ) карары,судтынъ карары,,,,,,,,CyrillTrans;Phonemic,sudtɨŋ kararɨ
+73-21-180-1,,73,21-180,"судьйа, тоьреши",судьйа,,,,,,,,CyrillTrans;Phonemic,sudya
+73-21-180-2,,73,21-180,"судьйа, тоьреши",тоьреши,,,,,,,,CyrillTrans;Phonemic,töreši
+73-21-210-1,,73,21-210,талаб аьдем,талаб аьдем,,,,,,,,CyrillTrans;Phonemic,talam ädem
+73-21-220-1,,73,21-220,йаваплы аьдем,йаваплы аьдем,,,,,,,,CyrillTrans;Phonemic,yawaplɨ ädem
+73-21-230-1,,73,21-230,"шайыт, шагат",шайыт,,,,,,,,CyrillTrans;Phonemic,šayɨt
+73-21-230-2,,73,21-230,"шайыт, шагат",шагат,,,,,,,,CyrillTrans;Phonemic,šagat
+73-21-240-1,,73,21-240,"ант этуьв, ант беруьв",ант этуьв,,,,,,,,CyrillTrans;Phonemic,ant etüw
+73-21-240-2,,73,21-240,"ант этуьв, ант беруьв",ант беруьв,,,,,,,,CyrillTrans;Phonemic,ant berüw
+73-21-250-1,,73,21-250,"ант, ваде",ант,,,,,,,,CyrillTrans;Phonemic,ant
+73-21-250-2,,73,21-250,"ант, ваде",ваде,,,,,,,,CyrillTrans;Phonemic,wade
+73-21-310-1,,73,21-310,куьнаьлев,куьнаьлев,,,,,,,,CyrillTrans;Phonemic,künälew
+73-21-320-1,,73,21-320,"суд кесуьв, налетлев, йаманлав",суд кесуьв,,,,,,,,CyrillTrans;Phonemic,sud kesüw
+73-21-320-2,,73,21-320,"суд кесуьв, налетлев, йаманлав",налетлев,,,,,,,,CyrillTrans;Phonemic,naletlew
+73-21-320-3,,73,21-320,"суд кесуьв, налетлев, йаманлав",йаманлав,,,,,,,,CyrillTrans;Phonemic,yamanlaw
+73-21-330-1,,73,21-330,куьнаьли деп санав (айтув),куьнаьли деп санав,,,,,,,,CyrillTrans;Phonemic,künäli dep sanaw
+73-21-340-1,,73,21-340,"аклав, тазанав",аклав,,,,,,,,CyrillTrans;Phonemic,aklaw
+73-21-340-2,,73,21-340,"аклав, тазанав",тазанав,,,,,,,,CyrillTrans;Phonemic,tazanaw
+73-21-350-1,,73,21-350,куьнаьли,куьнаьли,,,,,,,,CyrillTrans;Phonemic,künäli
+73-21-360-1,,73,21-360,куьнаьли тувыл,куьнаьли тувыл,,,,,,,,CyrillTrans;Phonemic,künäli tuwɨl
+73-21-370-1,,73,21-370,"езалав, шуьшке йолыктырув",езалав,,,,,,,,CyrillTrans;Phonemic,yezalaw
+73-21-370-2,,73,21-370,"езалав, шуьшке йолыктырув",шуьшке йолыктырув,,,,,,,,CyrillTrans;Phonemic,šüške yolɨktɨruw
+73-21-380-1,,73,21-380,акша коду,акша коду,,,,,,,,CyrillTrans;Phonemic,akša kodu
+73-21-390-1,,73,21-390,тутнак,тутнак,,,,,,,,CyrillTrans;Phonemic,tutnak
+73-21-420-1,,73,21-420,оьлтируьв,оьлтируьв,,,,,,,,CyrillTrans;Phonemic,öltirüw
+73-21-430-1,,73,21-430,"кахвалык, зыйа",кахвалык,,,,,,,,CyrillTrans;Phonemic,kaxwalɨk
+73-21-430-2,,73,21-430,"кахвалык, зыйа",зыйа,,,,,,,,CyrillTrans;Phonemic,zɨya
+73-21-440-1,,73,21-440,"зайалав, корлав",зайалав,,,,,,,,CyrillTrans;Phonemic,zayalaw
+73-21-440-2,,73,21-440,"зайалав, корлав",корлав,,,,,,,,CyrillTrans;Phonemic,korlaw
+73-21-460-1,,73,21-460,от салув,от салув,,,,,,,,CyrillTrans;Phonemic,ot saluw
+73-21-470-1,,73,21-470,елган шайытлык этуьв,елган шайытлык этуьв,,,,,,,,CyrillTrans;Phonemic,yelgan šayɨtlɨk etüw
+73-21-510-1,,73,21-510,урлав,урлав,,,,,,,,CyrillTrans;Phonemic,urlaw
+73-21-520-1,,73,21-520,"ур, уршы",ур,,,,,,,,CyrillTrans;Phonemic,ur
+73-21-520-2,,73,21-520,"ур, уршы",уршы,,,,,,,,CyrillTrans;Phonemic,uršɨ
+73-22-110-1,,73,22-110,дин,дин,,,,,,,,CyrillTrans;Phonemic,din
+73-22-120-1,,73,22-120,"Алла, Танъры, кудай",Алла,,,,,,,,CyrillTrans;Phonemic,Аlla
+73-22-120-2,,73,22-120,"Алла, Танъры, кудай",Танъры,,,,,,,,CyrillTrans;Phonemic,Тaŋrɨ
+73-22-120-3,,73,22-120,"Алла, Танъры, кудай",кудай,,,,,,,,CyrillTrans;Phonemic,kuday
+73-22-130-1,,73,22-130,келсе,келсе,,,,,,,,CyrillTrans;Phonemic,kelse
+73-22-140-1,,73,22-140,мигьраб,мигьраб,,,,,,,,CyrillTrans;Phonemic,mihrab
+73-22-150-1,,73,22-150,курман,курман,,,,,,,,CyrillTrans;Phonemic,kurman
+73-22-160-1,,73,22-160,"бас ийув, ынанув",бас ийув,,,,,,,,CyrillTrans;Phonemic,bas iyuw
+73-22-160-2,,73,22-160,"бас ийув, ынанув",ынанув,,,,,,,,CyrillTrans;Phonemic,ɨnanuw
+73-22-170-1,,73,22-170,"тилев, намаз кылув",тилев,,,,,,,,CyrillTrans;Phonemic,tilew
+73-22-170-2,,73,22-170,"тилев, намаз кылув",намаз кылув,,,,,,,,CyrillTrans;Phonemic,namaz kɨluw
+73-22-180-1,,73,22-180,кешиш,кешиш,,,,,,,,CyrillTrans;Phonemic,kešiš
+73-22-190-1,,73,22-190,айлык сыйлы,айлык сыйлы,,,,,,,,CyrillTrans;Phonemic,aylɨk sɨylɨ
+73-22-220-1,,73,22-220,"насыйхат этуьв, динге шакырув",насыйхат этуьв,,,,,,,,CyrillTrans;Phonemic,nasɨyxat etüw
+73-22-220-2,,73,22-220,"насыйхат этуьв, динге шакырув",динге шакырув,,,,,,,,CyrillTrans;Phonemic,dinge šakɨruw
+73-22-230-1,,73,22-230,"разылык беруьв, ехшылык тилев",разылык беруьв,,,,,,,,CyrillTrans;Phonemic,razɨlɨk berüw
+73-22-230-2,,73,22-230,"разылык беруьв, ехшылык тилев",ехшылык тилев,,,,,,,,CyrillTrans;Phonemic,yexšɨlɨk tilew
+73-22-240-1,,73,22-240,"йаманлык йорав, каргав",йаманлык йорав,,,,,,,,CyrillTrans;Phonemic,yamanlɨk yoraw
+73-22-240-2,,73,22-240,"йаманлык йорав, каргав",каргав,,,,,,,,CyrillTrans;Phonemic,kargaw
+73-22-260-1,,73,22-260,ораза тутув,ораза тутув,,,,,,,,CyrillTrans;Phonemic,oraza tutuw
+73-22-310-1,,73,22-310,"коьк, еннет",коьк,,,,,,,,CyrillTrans;Phonemic,kök
+73-22-310-2,,73,22-310,"коьк, еннет",еннет,,,,,,,,CyrillTrans;Phonemic,yennet
+73-22-320-1,,73,22-320,йаханнем,йаханнем,,,,,,,,CyrillTrans;Phonemic,yaxannem
+73-22-350-1,,73,22-350,"йин, ыбрыс, (елмавыз), шайтан",йин,,,,,,,,CyrillTrans;Phonemic,yin
+73-22-350-2,,73,22-350,"йин, ыбрыс, (елмавыз), шайтан",ыбрыс,,,,,,,,CyrillTrans;Phonemic,ɨbrɨs
+73-22-350-3,,73,22-350,"йин, ыбрыс, (елмавыз), шайтан",елмавыз,,,,,,,,CyrillTrans;Phonemic,yelmawɨz
+73-22-350-4,,73,22-350,"йин, ыбрыс, (елмавыз), шайтан",шайтан,,,,,,,,CyrillTrans;Phonemic,šaytan
+73-22-370-1,,73,22-370,тас суьврет,тас суьврет,,,,,,,,CyrillTrans;Phonemic,tas süwret
+73-22-420-1,,73,22-420,"саарлык, аьйлелик, сыхырлык",саарлык,,,,,,,,CyrillTrans;Phonemic,saʔarlɨk
+73-22-420-2,,73,22-420,"саарлык, аьйлелик, сыхырлык",аьйлелик,,,,,,,,CyrillTrans;Phonemic,äylelik
+73-22-420-3,,73,22-420,"саарлык, аьйлелик, сыхырлык",сыхырлык,,,,,,,,CyrillTrans;Phonemic,sɨxɨrlɨk
+73-22-430-1,,73,22-430,"обур куртка, сааршы, аьйлежи",обур куртка,,,,,,,,CyrillTrans;Phonemic,obur kurtka
+73-22-430-2,,73,22-430,"обур куртка, сааршы, аьйлежи",сааршы,,,,,,,,CyrillTrans;Phonemic,saʔaršɨ
+73-22-430-3,,73,22-430,"обур куртка, сааршы, аьйлежи",аьйлежи,,,,,,,,CyrillTrans;Phonemic,äyleži
+73-22-440-1,,73,22-440,"фейа, пери, йахшы йин, малек",фейа,,,,,,,,CyrillTrans;Phonemic,feya
+73-22-440-2,,73,22-440,"фейа, пери, йахшы йин, малек",пери,,,,,,,,CyrillTrans;Phonemic,peri
+73-22-440-3,,73,22-440,"фейа, пери, йахшы йин, малек",йахшы йин,,,,,,,,CyrillTrans;Phonemic,yaxšɨ yin
+73-22-440-4,,73,22-440,"фейа, пери, йахшы йин, малек",малек,,,,,,,,CyrillTrans;Phonemic,malek
+73-22-450-1,,73,22-450,коьре коьринетаган зат,коьре коьринетаган зат,,,,,,,,CyrillTrans;Phonemic,köre körinetagan zat
+73-22-470-1,,73,22-470,"белги, тутлыгув, акылы дурыс болмав",белги,,,,,,,,CyrillTrans;Phonemic,belgi
+73-22-470-2,,73,22-470,"белги, тутлыгув, акылы дурыс болмав",тутлыгув,,,,,,,,CyrillTrans;Phonemic,tutlɨguw
+73-22-470-3,,73,22-470,"белги, тутлыгув, акылы дурыс болмав",акылы дурыс болмав,,,,,,,,CyrillTrans;Phonemic,akɨlɨ durɨs bolmaw

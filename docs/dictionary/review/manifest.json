@@ -1,0 +1,99 @@
+{
+ "archive": {
+  "file": "keyboard_data_v0.zip",
+  "sha256": "8cec9c22b314373386dbcbbbe1680d765b4f212de655162197af019402b8ac31",
+  "folder": "keyboard_data/",
+  "built": "2026-10-11T17:00:52+00:00",
+  "language": "nog"
+ },
+ "v0_files": {
+  "nog_words.sqlite": "386c67373a074dd7383655dce949dd02207209f5bd2b9322670e48a752b92951",
+  "nog_bigrams.sqlite": "73c1cd4bc43931f21dd3638b4b5357c1621953851dff0fccc50c07e3d1bb4e56",
+  "nog_words.tsv": "5e6a3cbc12d719f46e67c65debcc51762535b5a0e0ab40177011c4747652459e",
+  "nog_bigrams.tsv": "08cf7ab0226105ccfaac229e1a7fa7441b2dbd135b59e095265b35d86b097b5d",
+  "nog_stats.json": "8d3ef6345cb8b3bd633aa99824778825d59fe6918e726328404360ff82ef028d"
+ },
+ "v0_sources": {
+  "glosbe_phrases": {
+   "kind": "clean",
+   "sentences": 18313,
+   "tokens": 60909,
+   "dropped_russian": 3720,
+   "dup": 577
+  },
+  "glosbe_words": {
+   "kind": "lexicon",
+   "words": 5210
+  },
+  "apertium_nog": {
+   "kind": "lexicon",
+   "words": 1299
+  },
+  "ids": {
+   "kind": "lexicon",
+   "words": 1642
+  }
+ },
+ "upstream": {
+  "nogai_russian_dictionary": {
+   "repository": "https://github.com/shakhmirzovrenat/Dataset-of-nogai-language.",
+   "commit": "3ff8a74c159ab4f594ee556f77dea4137ee44416",
+   "commit_date": "2026-05-11",
+   "file": "nogai_russian_dictionary.json",
+   "copy": "dictionary-source/upstream/nogai-dataset-3ff8a74/nogai_russian_dictionary.json",
+   "sha256": "5d7aa550d9504cf2d1449d33f2b4b7bf182a48efd28cedc311c4da0d74ae7f83",
+   "what": "24,340 entries of a Russian-Nogai dictionary collected from Glosbe: Russian headword, Nogai equivalents, 3,245 Nogai examples with Russian translations",
+   "licence": "MIT, Copyright (c) 2026 shakhmirzovrenat (Shakhmirzov Renat Safarovich)"
+  },
+  "apertium_nog": {
+   "repository": "https://github.com/apertium/apertium-nog",
+   "commit": "09fdef073c5900c1f7be2b59c59f53f3a5856b97",
+   "commit_date": "2021-07-20",
+   "file": "apertium-nog.nog.lexc",
+   "copy": "dictionary-source/upstream/apertium-nog-09fdef0/apertium-nog.nog.lexc",
+   "sha256": "1af6945cf18d7929d6a8a8a3078cde53030a8eba525fa4b187d5b9d31b07b026",
+   "what": "the lexicon of the Apertium morphological transducer for Nogai; a word list of 1,315 words",
+   "licence": "GNU GPL v3 (COPYING); authors in AUTHORS"
+  },
+  "ids": {
+   "repository": "https://github.com/intercontinental-dictionary-series/ids",
+   "commit": "bf6c9f8c7d25c15e61e338f3ed29ae46b844c0f8",
+   "commit_date": "2026-10-09",
+   "file": "cldf/forms.csv",
+   "file_sha256": "1ff6caa439d27d05c0ce7e72b656bfae5595bc5d12ae57b494e481e90e4e9968",
+   "copy": "dictionary-source/upstream/ids-bf6c9f8/forms_nogai_73.csv",
+   "sha256": "7f6554891085ad8cb473fec6cbdc9afe1484325dfdded305d1d00becf459c711",
+   "what": "Language_ID 73 «Nogai» (author Madzhid Khalilov, data entry Stefan Lange), 2,031 rows; a word list of 1,694 words",
+   "licence": "CC BY 4.0",
+   "citation": "Key, Mary Ritchie & Comrie, Bernard (eds.) 2023. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology. https://ids.clld.org"
+  },
+  "russian_filter": {
+   "repository": "https://github.com/LingConLab/Cyrillic_languages_identification_models_and_data_store",
+   "commit": "3c18d336b0258b2bfefaac73ba84da3e667bd101",
+   "commit_date": "2023-11-10",
+   "file": "data/clean_data_with_frequency.csv.zip",
+   "file_sha256": "f23b302724fbc53d60fcdd4dc4ccba83b61a32e6a5c52bd8f9ede25b5c788623",
+   "copy": "scripts/data/russian_words_in_sources.txt",
+   "what": "the 142,284 Russian word forms v0 used as its Russian filter (Universal Dependencies treebanks); kept here: the 14,456 of them that occur in the dictionary. Not a source of words, only of the knowledge that a word is also Russian",
+   "licence": "no licence file in the repository; the extract is a list of Russian word forms"
+  }
+ },
+ "source_reading_tables": {
+  "source_words.tsv": "7c47f1dd65de4b5b7b87a7e1eb80863e7665ae7f670e0043c3a1fe008b17a1d7",
+  "v0_removed_words.tsv": "4f4ac95bf559fbc750cdab115139cefbbf88ee65b81e27cf6aa39ec61f1c33b9",
+  "source_pairs.tsv": "41bfa5e6ca1dc07f643df2be8f35a0142b52c07f8d41da46d6c2907013df20f6",
+  "v0_removed_pairs.tsv": "2c2fde60719adecc34f310af1be583aee26c09ca1f087bc28d3797380f263fc5",
+  "source_reading.json": "6fb3b9951473ceec2328afbb231987cfd64c3c7a96b3a7cf95ea41e80b54a35e",
+  "brackets.tsv": "91bd8d22ca95b1cb0c1301387915e4ca0ee845df389557d6e2141ab34d4c68c7",
+  "ids_repaired_forms.tsv": "b9e4778d18448b4877a366e9d98f5a07fc38fe7ac750daa992b7e1937bcb7463",
+  "restored_lines.tsv": "3177de1d2ee1bbcaf542f0af02cda70cae254175e1f89be6b4eb0be738787e83",
+  "bracket_decisions.tsv": "e227c9e4d592d77c27a99078d3ced0fec22062da68eb7ddde1c14f7c1e59ac3f",
+  "russian_words_in_sources.txt": "6b1718a621ab61c0e3c6d2d3d99b94d836263a85246e67a011523042728c93d0"
+ },
+ "not_used": {
+  "example2": "the Russian translations of the examples (v0 read them)",
+  "definition1": "958 short notes on the Nogai side of the same dictionary («ат», «Оьзбекстандагы кала», «(устаревшее)»); v0 did not read them and neither does this build",
+  "latin_entries": "98 entries of the dictionary written in the Latin alphabet",
+  "agisight_frequencies": "the letter counts of Agisight/rf-keyboard-corpora (FineWeb-2): used for the layout, not for the dictionary"
+ }
+}

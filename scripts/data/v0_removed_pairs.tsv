@@ -1,0 +1,1334 @@
+prev	word	v0_weight	adjacent_occurrences	reason
+авас	болув	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+авмедий	акылсыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аврув	мараз	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+авув	онъув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+авыр	каты	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+авыр	кыйын	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+авыстырув	баска	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+агаш	отын	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+агув	агып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+агын	агым	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+адемшилик	адемди	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+адепсиз	уятсыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+адет	кылык	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+ажейип	алемет	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ажеп	сейир	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ажеп	тамаша	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ажепленуьв	ажепсинуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аз	аз	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+аз	азакай	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аз	бир	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+аз	кем	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аз-аздан	аз-аз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+азайган	кемиген	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+азайтув	кемитуьв	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+азаплав	кыйнав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+азаплав	язалав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+азарланув	соьгинуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+азаюв	кайтув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+айдав	айдап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айлак	каты	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+айлак	эсапсыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айландырув	бурув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+айланув	бурылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айланув	уьйирилуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айлежи	кылыплы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айлекер	айлежи	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айткысыз	соьз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айтув	айтып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айтув	анълатув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айтув	билдируьв	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+айтув	дев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айтув	каргав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айтув	коьрсетуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айтув	кутлав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айтув	соьйлев	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+айтув	уьндев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айыплы	шуьшли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айырув	айырып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айырув	уьзуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айырык	ашык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+айырылув	калув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+акелуьв	акелип	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+акетуьв	акелуьв	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+акетуьв	алып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аккуратный	мукаят	2	0	a word of the pair is not a Nogai word
+аклык	алаллык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алал	намыслы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алаллык	дурыслык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алдын	алды	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алдында	коьплер	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алдырув	сувык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алеклев	бузув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алемет	сейир	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алмав	илгери	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алмав	тийгисте	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	акетуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	батырып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	коьз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	коьширип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	сувык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	сувырып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	табув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	тавып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	тартып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	тилеп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	шыгарув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	шыгарып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алув	юлкып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алувшы	баскыншы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алып	баска	3	1	next to each other once only; elsewhere a comma or a bracket stands between them
+алыс	узак	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+алыслык	узаклык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алыстан	яхшы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+алысув	сав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аманласув	сав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+анълав	туьсинуьв	8	0	never next to each other: a comma, a bracket or a removed word stands between them
+анъламастан	эс	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+анъланыслы	ашык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+анъланыслы	манели	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+анълаткан	зат	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+анълатув	туьсиндируьв	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+арекетли	куьшли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+арсыз	бетсиз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+арттырув	оьстируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+артув	коьбеюв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+артув	оьсип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+артув	оьсуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+артык	керексиз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аруьв	бек	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аруьв	ярасык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аруьв	яхшы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+асирет	болув	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+аслык	болмав	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+аслык	онъыс	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+асув	асып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+асыгув	алгасав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+асыгып	асыгыста	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+асыкпав	созув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ат	аталув	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+атув	атып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+атув	шешекейленуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашав	оюв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашатув	ас	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашув	ашып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашув	уьшин	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+ашув	юбанув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашувландырув	коздырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашувланув	каарланув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашувланув	козув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашувланув	тынышсызланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашувлы	кутырынган	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашувсыз	арамлыксыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашык	анъланыслы	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашык	белгили	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашык	туьсинимли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ашык	ярык	4	1	next to each other once only; elsewhere a comma or a bracket stands between them
+аьлсизлендируьв	аьлден	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+аьлсизленуьв	аьлсирев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аьлсизленуьв	карувсызланув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+аьлсизленуьв	мадарсызланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аьлсирев	абдырав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аьлсирев	аьлсизленуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+аьше	аьши	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+аьше	мен	9	0	never next to each other: a comma, a bracket or a removed word stands between them
+аяв	ян	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ба	бе	2	0	a word of the pair is not a Nogai word
+бааламав	кем	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бааланув	баасы	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+баалы	сыйлы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+баалы	яхшы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+баасыз	ушсыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бай	ярасык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+байланыссыз	уьзикли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+байланыстырув	бириктируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+байлык	моллык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бала	кеде	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+балав	йорув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бале	каза	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бари	болганы	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+барув	алып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+барув	йоьнев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+барув	келуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+барув	ушып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+барув	юрип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+барув	юруьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+барув	ялдап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+барып	келип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бас	соган	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+баслав	туьзуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+басув	басып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+басув	сыгув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+басув	тегислев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+басылган	тапталган	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+батув	кирленуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+батув	коьмилуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+батырув	бояв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+батырув	кирлев	6	0	never next to each other: a comma, a bracket or a removed word stands between them
+бегитуьв	беркитуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бежать	рысцой	2	0	a word of the pair is not a Nogai word
+без	остатка	2	0	a word of the pair is not a Nogai word
+бездеятельный	арекетсиз	2	0	a word of the pair is not a Nogai word
+бездируьв	коймав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бек	айлак	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+белги	тамга	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+берк	каты	6	0	never next to each other: a comma, a bracket or a removed word stands between them
+берк	шыдамлы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+беркитуьв	катырув	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+бермев	тыныш	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+беруьв	айтып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+беруьв	деп	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+беруьв	коьргистуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+беруьв	оьш	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+беруьв	разылык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+беруьв	соьйлеп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+беруьв	тапшырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+беруьв	ыслатув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бес	бесев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+билдирмей	ясыртыннан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+билдируьв	айтув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+билдируьв	коьрсетуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+билдируьв	соьйлев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+билдируьв	хабар	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+билдируьв	хабарлав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+билдируьв	эситтируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+билимли	окымыс	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+билуьв	анълав	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+билуьв	билип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+билуьв	колдан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+билуьв	сорастырып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+билуьв	танув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бир	бир	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+бир	ев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бирдей	бир	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+бирдей	тенъ	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бирден	куьтпестен	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бирлескен	бириккен	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+битим	сын	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+битируьв	кутылув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+биюв	орада	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бойсынув	коьнуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болаяк	етер	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+более	плотным	2	0	a word of the pair is not a Nogai word
+болласув	сав	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+болса	солай	4	1	next to each other once only; elsewhere a comma or a bracket stands between them
+болув	алек	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	атаклы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	бар	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	бийлев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	болып	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	етуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	йок	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	керегуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	коьзден	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	суьюв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	тенълесуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	тоьмен	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	турув	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	туьнъилуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	шыгып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	эмленуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	этип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	этпеге	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	язылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+болув	ярав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+больше	уьйкен	2	0	a word of the pair is not a Nogai word
+бос	манесиз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+босатув	эркин	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+боьлик	кесек	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+боьлистируьв	уьлестируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+боьлуьв	боьлистируьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+боьлуьв	уьзуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+боьртуьв	коьбуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бояв	кирлев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бояв	сырлав	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+бузув	бузып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бузув	енъуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+бузув	нызамсызлык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бузув	сындырув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+бузув	уватув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бузылган	бузык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бузылув	кыйратылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+бузып	йиберуьв	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+бурув	айландырув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+бурылув	айланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+буьгилуьв	ийилуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+буьгуьв	июв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+буьтинлей	боьлимсиз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+былгав	карыстырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+быстро	переместиться	2	0	a word of the pair is not a Nogai word
+быстро	распространиться	2	0	a word of the pair is not a Nogai word
+быстро	тез	3	0	a word of the pair is not a Nogai word
+вакыт	заман	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+взаимное	согласие	2	0	a word of the pair is not a Nogai word
+взять	алув	2	0	a word of the pair is not a Nogai word
+внешний	вид	2	0	a word of the pair is not a Nogai word
+вниз	тоьменге	2	0	a word of the pair is not a Nogai word
+внутрь	ишке	2	0	a word of the pair is not a Nogai word
+внутрь	киргистуьв	2	0	a word of the pair is not a Nogai word
+внушающий	страх	2	0	a word of the pair is not a Nogai word
+во	что-л	4	0	a word of the pair is not a Nogai word
+возникнуть	келип	2	0	a word of the pair is not a Nogai word
+возникнуть	тувув	2	0	a word of the pair is not a Nogai word
+волосы	шаш	2	0	a word of the pair is not a Nogai word
+воспаление	кызарув	2	0	a word of the pair is not a Nogai word
+вперёд	алдыга	3	0	a word of the pair is not a Nogai word
+времени	дейим	2	0	a word of the pair is not a Nogai word
+времени	заман	2	0	a word of the pair is not a Nogai word
+время	бир	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+время	уборки	2	0	a word of the pair is not a Nogai word
+вручить	отдать	2	0	a word of the pair is not a Nogai word
+всегда	аьр	2	0	a word of the pair is not a Nogai word
+вспомогательный	ярдамшы	2	0	a word of the pair is not a Nogai word
+выгода	пайда	2	0	a word of the pair is not a Nogai word
+выдумать	присочинить	2	0	a word of the pair is not a Nogai word
+выдёргивать	юлкув	2	0	a word of the pair is not a Nogai word
+вызвать	тувдырув	2	0	a word of the pair is not a Nogai word
+вынуть	шыгарып	2	0	a word of the pair is not a Nogai word
+выставить	вперёд	2	0	a word of the pair is not a Nogai word
+вытерпеть	шыдав	2	0	a word of the pair is not a Nogai word
+га	ге	2	0	a word of the pair is not a Nogai word
+геройлык	батирлик	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+грубый	каты	2	0	a word of the pair is not a Nogai word
+да	неге	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+дав	палван	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+дай	дей	11	0	a word of the pair is not a Nogai word
+далеко	алыска	4	0	a word of the pair is not a Nogai word
+дан	ден	6	0	never next to each other: a comma, a bracket or a removed word stands between them
+данъклы	айтылган	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+даянув	шыдав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+даянып	шыдап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+дей	болув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+дей	болып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+дей	тай	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+дейим	коьп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+действие	алув	2	0	a word of the pair is not a Nogai word
+действительный	шынты	2	0	a word of the pair is not a Nogai word
+ден	тан	7	0	a word of the pair is not a Nogai word
+деньгами	подарками	3	0	a word of the pair is not a Nogai word
+дефектли	кемшиликли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+дирилдев	калтырав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+для	беседы	2	0	a word of the pair is not a Nogai word
+для	защиты	2	0	a word of the pair is not a Nogai word
+до	какого-л	3	0	a word of the pair is not a Nogai word
+до	конца	2	0	a word of the pair is not a Nogai word
+до	чего-л	3	0	a word of the pair is not a Nogai word
+добавить	косув	3	0	a word of the pair is not a Nogai word
+должность	куллык	2	0	a word of the pair is not a Nogai word
+другое	место	6	0	a word of the pair is not a Nogai word
+дурыс	акыйкат	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+дурыс	тувра	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+дурыс	туьз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+дурыс	ушын	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+дурыслык	акыйкатлык	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+дурыслык	тувралык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+дурыслык	туьзлик	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+дуть	эсип	2	0	a word of the pair is not a Nogai word
+духами	ийисли	3	0	a word of the pair is not a Nogai word
+душпан	яв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+дуьнъкей	авмедий	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ды	ди	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ев	ашав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+енъиллендируьв	енъил	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ер	ирин	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ер	орын	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+если	эгер	3	0	a word of the pair is not a Nogai word
+естественный	табиат	2	0	a word of the pair is not a Nogai word
+етекши	басшы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+еткеруьв	еткерип	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+етуьв	етисуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+етуьв	келуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+етуьв	туьсуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ехать	объездом	2	0	a word of the pair is not a Nogai word
+ещё	раз	2	0	a word of the pair is not a Nogai word
+за	кого-л	2	0	a word of the pair is not a Nogai word
+за	что-л	10	0	a word of the pair is not a Nogai word
+за	что-либо	3	0	a word of the pair is not a Nogai word
+заблудиться	адасув	2	0	a word of the pair is not a Nogai word
+зайти	далеко	3	0	a word of the pair is not a Nogai word
+заклеить	ябыстырув	2	0	a word of the pair is not a Nogai word
+закрыть	ябув	2	0	a word of the pair is not a Nogai word
+заман	аьр	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+заметить	коьрмей	2	0	a word of the pair is not a Nogai word
+заново	кайтара	5	0	a word of the pair is not a Nogai word
+заново	кайтарадан	4	0	a word of the pair is not a Nogai word
+запереть	киртлев	2	0	a word of the pair is not a Nogai word
+заполниться	чем-л	2	0	a word of the pair is not a Nogai word
+заркылтпайтаган	сукландырмайтаган	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+застрять	батув	2	0	a word of the pair is not a Nogai word
+зат	бос	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+зат	йок	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+зацепить	илине	2	0	a word of the pair is not a Nogai word
+звук	сес	2	0	a word of the pair is not a Nogai word
+знак	белги	2	0	a word of the pair is not a Nogai word
+знакомый	таныс	2	0	a word of the pair is not a Nogai word
+значении	ашык	2	0	a word of the pair is not a Nogai word
+значении	бир	2	0	a word of the pair is not a Nogai word
+значении	коьрине	2	0	a word of the pair is not a Nogai word
+значении	существительного	3	0	a word of the pair is not a Nogai word
+значении	эркин	2	0	a word of the pair is not a Nogai word
+зорлав	кыстав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+зыян	зарар	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+зыянлав	зарарлав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+из	металла	2	0	a word of the pair is not a Nogai word
+из	частей	2	0	a word of the pair is not a Nogai word
+известие	хабар	2	0	a word of the pair is not a Nogai word
+изворотливый	кылыплы	2	0	a word of the pair is not a Nogai word
+излев	изленуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+излучать	свет	2	0	a word of the pair is not a Nogai word
+изменить	баска	2	0	a word of the pair is not a Nogai word
+изменчивый	туьрлене	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+износить	кийип	2	0	a word of the pair is not a Nogai word
+изнурить	арыкландырув	2	0	a word of the pair is not a Nogai word
+ийилуьв	энъкеюв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ийискилев	ийискилеп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ийтев	туьртуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ийтуьвлев	ийтуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+илуьв	асув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+илуьв	тагув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+иной	другой	2	0	a word of the pair is not a Nogai word
+ис	куллык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ис	ярамаган	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ислев	куллык	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+испаряющееся	вещество	2	0	a word of the pair is not a Nogai word
+исполненный	одушевления	2	0	a word of the pair is not a Nogai word
+исправить	туьзетуьв	2	0	a word of the pair is not a Nogai word
+исправлять	туьзетуьв	2	0	a word of the pair is not a Nogai word
+испытание	тергев	2	0	a word of the pair is not a Nogai word
+исчезнуть	йок	4	0	a word of the pair is not a Nogai word
+ишируьв	ас	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ишуьв	ас	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ишуьв	уьйле	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йиберуьв	босатув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йиберуьв	кувып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йиберуьв	сув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йигит	баьтир	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йип	топ	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йогалув	йок	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йогары	энъ	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+йойтылув	йойылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йок	ол	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йоклав	аьлин	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йоннав	сыдыртув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+йонув	йонып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йорыкка	бирге	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йорыклав	бир	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йоьнъкиген	аьлсиреген	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йоьнъкуьв	аьлсирев	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+йыгылув	тоьменге	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йыйылув	йыйылысув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йыйыстырув	сыпырып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йылав	сыйт	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йыллык	сроке	2	0	a word of the pair is not a Nogai word
+йылытув	исситуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йылытув	кыздырув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+йырлав	йыр	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+йыртув	юлкув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йыртылув	соьгилуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+йыртылув	тозув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кабув	шертуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кавга	согыс	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кагув	кагып	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+кагув	коьзди	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кагув	силкуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кагув	согув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кагып	киргистуьв	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+кадав	кагув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кадав	тигип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кадер	сол	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+каза	бале	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+кайгы	касуьвет	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кайгырув	мунъаюв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кайгысыз	ойсыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кайда-ды	бир	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+кайрав	оьткирлев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кайтарув	кери	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кайтув	кайтадан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+какого-л	времени	2	0	a word of the pair is not a Nogai word
+какое-л	время	2	0	a word of the pair is not a Nogai word
+какой-л	продукт	2	0	a word of the pair is not a Nogai word
+каком-л	месте	2	0	a word of the pair is not a Nogai word
+калган	корланган	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+калган	уьйренген	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+калдырув	бетин	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+калдырув	тамашаландырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+калтырав	дирилдев	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+калув	айырылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+калув	сересуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+калув	тамашаланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+камышы	сыбырткы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+камышылав	сыбырткылав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+капалув	ялгызланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+каплав	ябув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+каптырылув	илинуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карав	анъылып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карав	багув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карав	карап	9	0	never next to each other: a comma, a bracket or a removed word stands between them
+карав	карас	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карав	сынав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карав	сынап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карав	тергев	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+карав	тергеп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карав	тиклеп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карав	этип	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+карав	юбатув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карас	карав	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+картина	суьврет	2	0	a word of the pair is not a Nogai word
+карувсыз	куьшсиз	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+карувсызланув	куьшсизленуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карувсызлык	куьшсизлик	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карыстырув	араластырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+карыстырув	тартув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+касына	келуьв	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+касында	янында	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+катув	катып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+каты	аявсыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+каты	бек	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+каты	берк	4	1	next to each other once only; elsewhere a comma or a bracket stands between them
+каты	кутырган	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+каты	куьшли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+качаться	шайкалув	2	0	a word of the pair is not a Nogai word
+кашув	бас	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кашув	кашып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кебуьв	курув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+келбетенз	костансыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+келеекте	алдыда	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+келим	туьсим	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+келисим	келисуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+келистируьв	ярастырув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+келисуьв	ярасув	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+келуьв	бир	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+келуьв	етуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+келуьв	ялдап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кемируьв	кемирип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кемитуьв	азайтув	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+кемуьв	азаюв	7	0	never next to each other: a comma, a bracket or a removed word stands between them
+кепкен	курыган	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кере	бир	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кере	коьп	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+керекли	манели	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кесек	уьлис	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кесуьв	кесип	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кесуьв	кыркув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кесуьв	туврав	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кеткен	авелги	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	айырылып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	акетуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	билине	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	касыннан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	кетип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	коьшуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	озып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	сувга	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	шавып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	шашылып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	шетке	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	шыгув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	шыгып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кетуьв	ювырып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кеширинъиз	деп	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+кешируьв	афув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+киргистуьв	йиберуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кирлев	батырув	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+кирленуьв	батув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кируьв	внутрь	2	0	a word of the pair is not a Nogai word
+кируьв	оьтуьв	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+кируьв	сувык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+киюв	аяк	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+клеветать	яла	2	0	a word of the pair is not a Nogai word
+клеймо	тамгалав	2	0	a word of the pair is not a Nogai word
+козгав	силкуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+козгалмай	кыймылдамай	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+козгалув	силкинуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+коймав	арттан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+колай	баасыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+конец	сонъы	2	0	a word of the pair is not a Nogai word
+конув	басув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коркув	уьркуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коркынышлы	кавыфлы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+корлав	мыскыллав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+корсалав	саклав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+косув	арттырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+косув	беруьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+косув	бириктируьв	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+косув	косып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+косув	толтырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+косув	уьстев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+косылган	коьп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+косылув	кайтадан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+косып	киргистип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьбейтуьв	арттырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьбеюв	артув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьбеюв	оьсуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьбуьв	сисуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьндируьв	унатув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьргисиз	ишти	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьринетаган	зат	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+коьринис	тыскы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьрисуьв	йолыгысув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьрсетуьв	билдируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьруьв	айырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьруьв	бастан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьруьв	деп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьруьв	эслев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьруьв	яратув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коьтерилуьв	наверх	2	0	a word of the pair is not a Nogai word
+коьтерилуьв	оьсуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+коюв	айтып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+красивый	аруьв	2	0	a word of the pair is not a Nogai word
+кувак	туьп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+куванышлы	шатлыклы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кувув	кувып	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+куда-л	акетуьв	2	0	a word of the pair is not a Nogai word
+куда-л	кируьв	2	0	a word of the pair is not a Nogai word
+куда-либо	салув	2	0	a word of the pair is not a Nogai word
+куйылув	тоьгилуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+куйылув	шашылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кулланув	пайдаланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+куллык	ис	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+курав	туьзуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+курув	кебуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+курув	туьзуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+курытув	кептируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кутарув	шыктажлав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+куткарув	ярдамласув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кутылув	битируьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кутылув	битуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кутылув	сонъына	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кутылув	таюв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+куьйип	кетуьв	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+куьрестируьв	даваласув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+куьш	куват	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+куьшеюв	куьшленуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+куьшли	бек	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+куьшли	куьши	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+куьюв	янув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+куюв	тоьгуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кыдырув	эрик	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кызув	бек	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кызыксынувшан	билмеге	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кызыктырув	заркылтув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кыйнав	азаплав	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+кыйнав	аьлсизлендируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кыйналув	азап	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кыйрав	опырав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кыйын	авыр	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+кылык	адет	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кылыплы	айлекер	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кылыплы	эпли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кылыплык	эплик	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кымтанув	оранув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кымыршытув	буьртиклер	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кырга	тавга	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кырув	оьлтируьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+кыскартув	шабып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+кысув	сыгув	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+кышув	кышынув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+легко	без	2	0	a word of the pair is not a Nogai word
+линия	сызык	2	0	a word of the pair is not a Nogai word
+лицемерие	эки	2	0	a word of the pair is not a Nogai word
+лишиться	айырылув	3	0	a word of the pair is not a Nogai word
+лишнее	арттырып	2	0	a word of the pair is not a Nogai word
+лишнее	артык	2	0	a word of the pair is not a Nogai word
+ложь	оьтирик	2	0	a word of the pair is not a Nogai word
+ломкий	хрупкий	2	0	a word of the pair is not a Nogai word
+льдом	бузлав	2	0	a word of the pair is not a Nogai word
+ма	ме	4	0	a word of the pair is not a Nogai word
+май	майлы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+майлав	май	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+майысув	буьгилуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+мактав	бек	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ман	мен	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ман	толтырув	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+мане	туьп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+манели	бирдей	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+манели	туьпли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+манесиз	бос	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+манетлик	акша	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+манъгазы	ер	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+массаж	увув	2	0	a word of the pair is not a Nogai word
+мелкая	частица	2	0	a word of the pair is not a Nogai word
+местах	туьрли	2	0	a word of the pair is not a Nogai word
+месте	кайда-ды	2	0	a word of the pair is not a Nogai word
+местность	як	2	0	a word of the pair is not a Nogai word
+место	баска	2	0	a word of the pair is not a Nogai word
+место	бир	4	0	a word of the pair is not a Nogai word
+место	кешуьв	2	0	a word of the pair is not a Nogai word
+место	орын	2	0	a word of the pair is not a Nogai word
+минсиз	мини	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+минувший	озган	2	0	a word of the pair is not a Nogai word
+минуьв	ювырып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+минуя	что-л	2	0	a word of the pair is not a Nogai word
+много	ходить	2	0	a word of the pair is not a Nogai word
+музыке	игре	2	0	a word of the pair is not a Nogai word
+мукаят	сахый	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+мукаятсыз	сахыйсыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+мунапык	огырсыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+мутпав	эсте	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+мутув	эстен	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+мутылмас	эстен	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+мыскыллав	маскаралав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+на	другое	6	0	a word of the pair is not a Nogai word
+на	лошади	3	0	a word of the pair is not a Nogai word
+на	поверхность	2	0	a word of the pair is not a Nogai word
+на	прокат	2	0	a word of the pair is not a Nogai word
+на	реке	2	0	a word of the pair is not a Nogai word
+на	части	3	0	a word of the pair is not a Nogai word
+на	что-л	5	0	a word of the pair is not a Nogai word
+на	что-либо	2	0	a word of the pair is not a Nogai word
+на	чём-л	2	0	a word of the pair is not a Nogai word
+надвое	экиге	2	0	a word of the pair is not a Nogai word
+надеть	салув	2	0	a word of the pair is not a Nogai word
+называть	ат	2	0	a word of the pair is not a Nogai word
+налет	мунапык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+намыслы	тувра	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+нан	нен	6	0	a word of the pair is not a Nogai word
+наполнить	толтырув	2	0	a word of the pair is not a Nogai word
+направление	йоьнелис	2	0	a word of the pair is not a Nogai word
+натолкнуться	на	2	0	a word of the pair is not a Nogai word
+начало	басланув	2	0	a word of the pair is not a Nogai word
+начать	баслав	2	0	a word of the pair is not a Nogai word
+начать	дуть	2	0	a word of the pair is not a Nogai word
+не	заметить	2	0	a word of the pair is not a Nogai word
+не	сильно	2	0	a word of the pair is not a Nogai word
+не	стеснённый	2	0	a word of the pair is not a Nogai word
+невиновный	шуьшсиз	2	0	a word of the pair is not a Nogai word
+негиз	туьп	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+недостаток	кемшилик	2	0	a word of the pair is not a Nogai word
+незаметно	билдирмей	2	0	a word of the pair is not a Nogai word
+незаметно	подойти	2	0	a word of the pair is not a Nogai word
+некоторое	время	5	0	a word of the pair is not a Nogai word
+неодушевлённых	предметах	2	0	a word of the pair is not a Nogai word
+нечаянно	билмей	2	0	a word of the pair is not a Nogai word
+ничего	не	3	0	a word of the pair is not a Nogai word
+нур	савле	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+нурланув	савлеленуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+об	одежде	2	0	a word of the pair is not a Nogai word
+об	одушевлённых	2	0	a word of the pair is not a Nogai word
+об	осадках	2	0	a word of the pair is not a Nogai word
+оберегать	саклав	2	0	a word of the pair is not a Nogai word
+обмотать	орав	2	0	a word of the pair is not a Nogai word
+обнаружиться	билинуьв	2	0	a word of the pair is not a Nogai word
+обратить	внимание	2	0	a word of the pair is not a Nogai word
+обувь	тоздырув	2	0	a word of the pair is not a Nogai word
+одежда	кийим	2	0	a word of the pair is not a Nogai word
+однажды	бир	2	0	a word of the pair is not a Nogai word
+одно	место	5	0	a word of the pair is not a Nogai word
+одновременно	бир	2	0	a word of the pair is not a Nogai word
+одобрять	макул	2	0	a word of the pair is not a Nogai word
+озган	оьткен	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+озгарув	озгарып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+озгарувшы	йол	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+озув	кувып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+озув	озып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+озябнуть	тонъув	2	0	a word of the pair is not a Nogai word
+ой	пикир	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+ойлав	деп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ойлав	ойланув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+ойлан	сонъ	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ойланув	ойга	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ойнав	коьрсетуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ойсыз	каьрсиз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ойын-куьлки	эрик	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оказаться	тяжелее	2	0	a word of the pair is not a Nogai word
+олтыртув	казып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+онъайтлы	колайлы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+опередить	озув	2	0	a word of the pair is not a Nogai word
+опырав	бузылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+орав	кымтав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+орав	шырмав	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+оранув	кымтанув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+организовать	уйгынлав	2	0	a word of the pair is not a Nogai word
+организовать	уйыстырув	2	0	a word of the pair is not a Nogai word
+орман	агашлык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оружием	шаншув	2	0	a word of the pair is not a Nogai word
+орынластырув	салув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+осадках	явув	2	0	a word of the pair is not a Nogai word
+осал	яман	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+осаллатув	бузув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+освободить	от	2	0	a word of the pair is not a Nogai word
+от	нормы	2	0	a word of the pair is not a Nogai word
+отверстие	тесик	3	0	a word of the pair is not a Nogai word
+отверстие	тесуьв	2	0	a word of the pair is not a Nogai word
+отвинтиться	буралып	3	0	a word of the pair is not a Nogai word
+открытый	ашык	2	0	a word of the pair is not a Nogai word
+отлак	оьрис	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+отметить	белгилев	2	0	a word of the pair is not a Nogai word
+отнести	числу	2	0	a word of the pair is not a Nogai word
+отрекомендовать	себя	2	0	a word of the pair is not a Nogai word
+отступающий	от	2	0	a word of the pair is not a Nogai word
+отчётливый	ашык	2	0	a word of the pair is not a Nogai word
+очень	бек	2	0	a word of the pair is not a Nogai word
+очень	красивый	2	0	a word of the pair is not a Nogai word
+очень	сильно	2	0	a word of the pair is not a Nogai word
+очень	сильный	2	0	a word of the pair is not a Nogai word
+очень	хороший	2	0	a word of the pair is not a Nogai word
+очищать	от	2	0	a word of the pair is not a Nogai word
+оьзгертуьв	авыстырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьзгеруьв	туьрленуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьзи	тап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьзине	оьз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьзлендируьв	оьзинъдики	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оькинишке	мен	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьли	оьлген	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьнер	усталык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьстируьв	коьбейтуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьстируьв	тербиялав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьсуьв	артув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьсуьв	коьтерилуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьтирик	ойлап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьтирикши	алдавшы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьткен	кеткен	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+оьтуьв	оьтип	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+па	пе	2	0	a word of the pair is not a Nogai word
+пайда	хайыр	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+пайдаланув	кулланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+пайдаланув	яратув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+пайдалы	керекли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+палван	пелван	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+передовой	алдышы	2	0	a word of the pair is not a Nogai word
+переместиться	тез	2	0	a word of the pair is not a Nogai word
+перенести	коьруьв	2	0	a word of the pair is not a Nogai word
+переносном	значении	56	0	a word of the pair is not a Nogai word
+пилой	пышып	2	0	a word of the pair is not a Nogai word
+плохой	осал	3	0	a word of the pair is not a Nogai word
+плохой	яман	2	0	a word of the pair is not a Nogai word
+по	возрасту	2	0	a word of the pair is not a Nogai word
+по	краям	2	0	a word of the pair is not a Nogai word
+победить	енъуьв	2	0	a word of the pair is not a Nogai word
+повалить	йыгув	2	0	a word of the pair is not a Nogai word
+повреждённый	бузылган	2	0	a word of the pair is not a Nogai word
+подарить	беруьв	2	0	a word of the pair is not a Nogai word
+подарками	акша	2	0	a word of the pair is not a Nogai word
+подбежать	ювырып	2	0	a word of the pair is not a Nogai word
+подо	что-л	4	0	a word of the pair is not a Nogai word
+подстерегать	анъылув	2	0	a word of the pair is not a Nogai word
+поймать	ыслав	3	0	a word of the pair is not a Nogai word
+показать	коьрсетуьв	2	0	a word of the pair is not a Nogai word
+покрыться	ябынув	2	0	a word of the pair is not a Nogai word
+положение	тургыстув	2	0	a word of the pair is not a Nogai word
+поместить	орынластырув	2	0	a word of the pair is not a Nogai word
+помощь	ярдам	2	0	a word of the pair is not a Nogai word
+помчаться	лошадях	2	0	a word of the pair is not a Nogai word
+понять	анълав	2	0	a word of the pair is not a Nogai word
+поражение	согып	2	0	a word of the pair is not a Nogai word
+портить	бузув	2	0	a word of the pair is not a Nogai word
+порядок	йыйыстырув	2	0	a word of the pair is not a Nogai word
+поселиться	орынласув	2	0	a word of the pair is not a Nogai word
+поставить	салув	2	0	a word of the pair is not a Nogai word
+постановление	карар	2	0	a word of the pair is not a Nogai word
+постоянно	аьр	2	0	a word of the pair is not a Nogai word
+потерять	влиятельность	2	0	a word of the pair is not a Nogai word
+появиться	келип	2	0	a word of the pair is not a Nogai word
+предположить	деп	2	0	a word of the pair is not a Nogai word
+прежний	вид	2	0	a word of the pair is not a Nogai word
+прекратить	токтатув	2	0	a word of the pair is not a Nogai word
+преследовать	ызлав	2	0	a word of the pair is not a Nogai word
+при	указании	2	0	a word of the pair is not a Nogai word
+прибавить	косув	2	0	a word of the pair is not a Nogai word
+привести	порядок	2	0	a word of the pair is not a Nogai word
+привыкнуть	уьйренуьв	2	0	a word of the pair is not a Nogai word
+придать	стоячее	2	0	a word of the pair is not a Nogai word
+прийти	упадок	2	0	a word of the pair is not a Nogai word
+приладить	уйкастырув	2	0	a word of the pair is not a Nogai word
+приняться	за	3	0	a word of the pair is not a Nogai word
+приобрести	табув	3	0	a word of the pair is not a Nogai word
+пристанище	турак	2	0	a word of the pair is not a Nogai word
+приступить	чему-л	2	0	a word of the pair is not a Nogai word
+произнести	айтув	2	0	a word of the pair is not a Nogai word
+прокат	кулланып	2	0	a word of the pair is not a Nogai word
+проложить	себе	2	0	a word of the pair is not a Nogai word
+промежуточный	слой	2	0	a word of the pair is not a Nogai word
+процесс	оьсуьв	2	0	a word of the pair is not a Nogai word
+прочный	берк	2	0	a word of the pair is not a Nogai word
+проявиться	коьринуьв	2	0	a word of the pair is not a Nogai word
+пути	йолда	2	0	a word of the pair is not a Nogai word
+пышный	бай	2	0	a word of the pair is not a Nogai word
+пышув	пышып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+развитие	коьтерилуьв	2	0	a word of the pair is not a Nogai word
+разговаривать	соьйлесуьв	2	0	a word of the pair is not a Nogai word
+различие	баскалык	2	0	a word of the pair is not a Nogai word
+размешать	былгав	2	0	a word of the pair is not a Nogai word
+разнообразный	аьр	2	0	a word of the pair is not a Nogai word
+разные	стороны	2	0	a word of the pair is not a Nogai word
+разных	местах	2	0	a word of the pair is not a Nogai word
+разорвать	уьзуьв	3	0	a word of the pair is not a Nogai word
+разорваться	йыртылув	2	0	a word of the pair is not a Nogai word
+разрушить	бузув	2	0	a word of the pair is not a Nogai word
+разъединить	айырув	2	0	a word of the pair is not a Nogai word
+раскрыть	ашув	2	0	a word of the pair is not a Nogai word
+распространиться	яйылув	2	0	a word of the pair is not a Nogai word
+распространять	яюв	2	0	a word of the pair is not a Nogai word
+расстояние	путь	2	0	a word of the pair is not a Nogai word
+растениях	эгуьв	2	0	a word of the pair is not a Nogai word
+растолстеть	семирип	2	0	a word of the pair is not a Nogai word
+расув	ыласув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+резкий	каты	2	0	a word of the pair is not a Nogai word
+резкое	изменение	2	0	a word of the pair is not a Nogai word
+результатсыз	сонъы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+реформа	кайтара	2	0	a word of the pair is not a Nogai word
+сабыр	ювас	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+савлай	буьтинлей	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+савыт	алат	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сайын	аьр	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+саклав	карап	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+саклав	корсалав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+саклав	тутув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+салпырап	турув	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+салув	беруьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+салув	курув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+салув	орныннан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+салув	орынластырув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+салув	тыюв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+салув	юклев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+салув	юмырткалав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+салув	ясав	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+санав	санап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+санав	эсаплав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сасув	бырыгув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сгнить	шируьв	2	0	a word of the pair is not a Nogai word
+сгореть	янып	3	0	a word of the pair is not a Nogai word
+сдвинуться	места	2	0	a word of the pair is not a Nogai word
+сделать	более	4	0	a word of the pair is not a Nogai word
+сделать	вывод	2	0	a word of the pair is not a Nogai word
+сделать	гладким	2	0	a word of the pair is not a Nogai word
+сделать	заново	2	0	a word of the pair is not a Nogai word
+сделать	отверстие	2	0	a word of the pair is not a Nogai word
+сделать	этуьв	2	0	a word of the pair is not a Nogai word
+себе	путь	2	0	a word of the pair is not a Nogai word
+себеп	соны	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+себепли	сога	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+себуьв	тоьгуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сездирмей	коьринмей	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сезуьв	билуьв	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+сезуьв	туьсинуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сейир	эс	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+селекелев	корлав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+семируьв	толысув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сендируьв	ынандырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сеним	уьмит	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сенуьв	ынанув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сиз	сыз	2	0	a word of the pair is not a Nogai word
+сильно	бек	2	0	a word of the pair is not a Nogai word
+сильный	куьшли	2	0	a word of the pair is not a Nogai word
+сисуьв	боьртуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сквозь	что-л	2	0	a word of the pair is not a Nogai word
+скопиться	коьп	2	0	a word of the pair is not a Nogai word
+слой	арасына	2	0	a word of the pair is not a Nogai word
+слой	чего-л	2	0	a word of the pair is not a Nogai word
+смысл	мане	3	0	a word of the pair is not a Nogai word
+собалак	барак	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+совсем	тамам	2	0	a word of the pair is not a Nogai word
+согласиться	чем-либо	5	0	a word of the pair is not a Nogai word
+согув	йоннав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+согув	урув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+согув	шабув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+согылув	урынув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+согып	кагып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+соединить	бириктируьв	2	0	a word of the pair is not a Nogai word
+создавать	туьзуьв	2	0	a word of the pair is not a Nogai word
+сознание	эс	2	0	a word of the pair is not a Nogai word
+созревать	писуьв	2	0	a word of the pair is not a Nogai word
+созув	созып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+созып	еткеруьв	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+сол	ол	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+солга	сол	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+солда	сол	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сонъ	соннан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сонъ	сонъ	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сонъы	ахыры	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сонъы	ызы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+составить	туьзуьв	2	0	a word of the pair is not a Nogai word
+составленный	из	2	0	a word of the pair is not a Nogai word
+соьзбе-соьз	тувра	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+соьйлесуьв	соьз	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+соьйлесуьв	хабарласув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+соьле	энди	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+соьлеги	алиги	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сперва	алды	2	0	a word of the pair is not a Nogai word
+спуститься	туьсуьв	2	0	a word of the pair is not a Nogai word
+становиться	красным	2	0	a word of the pair is not a Nogai word
+стать	более	2	0	a word of the pair is not a Nogai word
+стать	известным	2	0	a word of the pair is not a Nogai word
+сторону	таюв	2	0	a word of the pair is not a Nogai word
+стоячее	положение	3	0	a word of the pair is not a Nogai word
+страх	коркынышлы	2	0	a word of the pair is not a Nogai word
+стремление	шалысув	2	0	a word of the pair is not a Nogai word
+структура	туьзилис	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сувлы	сувы	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+сугув	тыгув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сулыплы	эпли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+суровый	каты	2	0	a word of the pair is not a Nogai word
+существенный	керекли	2	0	a word of the pair is not a Nogai word
+суьйрев	суьйреп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+суьртинуьв	ыскыланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сыгув	сыгып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сыз	сиз	2	0	a word of the pair is not a Nogai word
+сызув	сызып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сыйлав	коьтеруьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сыйлык	савга	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сык	каты	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сынав	сынап	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+сындырув	бузув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+сындырув	сындырып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+сындырув	уватув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сыюв	орынласув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+сыюв	сыйынув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+табув	алув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+табув	ойлап	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+табув	тавып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тагув	ат	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тай	тей	4	0	a word of the pair is not a Nogai word
+тайком	билдирмей	2	0	a word of the pair is not a Nogai word
+талав	тонав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+талап	алып	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+тамам	коьтере	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тамамлав	йорыклав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тамгалав	тамга	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тан	тен	8	0	a word of the pair is not a Nogai word
+танъ	адепли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+таралув	яйылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+таралув	ян-якка	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+таркав	таралув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+таркатув	соьгуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+тартув	бувув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тартув	созув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+таслав	былактыргышлав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+таслав	перестать	2	0	a word of the pair is not a Nogai word
+таслав	салув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+татым	яшав	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+таюв	кашув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+таюв	ясырынув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+таяв	тирек	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тегис	бир	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+тегисленуьв	язылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тез	кыбырдайтаган	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+тез	токтавсыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тез	шалт	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+тен	нан	4	0	a word of the pair is not a Nogai word
+тенълев	тенълестируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тербетуьв	шайкав	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+тербиялав	шыныктырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тергев	карав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тергев	сынав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тергев	явап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тери	мех	2	0	a word of the pair is not a Nogai word
+терисине	карсысына	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тесуьв	тесик	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тесуьв	тесип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тесуьв	шаншып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тешкеруьв	тергев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тиев	юклев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тийисли	борышлы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тийисуьв	буздырысув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тирек	таяныш	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+тиренуьв	суьенуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тири	оьткир	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тислев	кабув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тислев	тислеп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+то	что	4	0	a word of the pair is not a Nogai word
+тозган	эскирген	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тоздырув	эскиртуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тозув	эскируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+токтав	токталув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+токтав	тыншаймага	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+токтатув	басув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+токтатув	токтав	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+толтырув	этуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+толтырылув	толынув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+толув	болув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+толчком	ийтеп	2	0	a word of the pair is not a Nogai word
+только	при	2	0	a word of the pair is not a Nogai word
+тому	подобное	2	0	a word of the pair is not a Nogai word
+тонав	талав	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+тонкий	слой	3	0	a word of the pair is not a Nogai word
+тонъув	сересуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+торопить	асыктырув	2	0	a word of the pair is not a Nogai word
+тоьбелев	йоннав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тоьгуьв	тоьгип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тоьгуьв	шашув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тоьлев	беруьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тоьлев	тоьлеп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тоьсев	яюв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+тоюв	тойынув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тувра	туьз	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+тувув	шыгув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+тукым	сой	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тур	мен	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+турув	бир	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+турув	карап	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+турув	куьтип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+турув	яшав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тускав	каратув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тутка	сап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тутув	ыслап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьз	дурыс	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьзетуьв	ямав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьзилис	курылыс	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьзуьв	курув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьзуьв	этуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьйир	буьртик	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьрким	куьп	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьрким	топар	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьрлендируьв	авыстырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьрленуьв	авысув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьрли	аьр	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьрли	тукымлы	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+туьрли	туьрли-туьрли	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьсиндирген	анълаткан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьсиндирип	болмайтаган	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+туьсиндируьв	анълатув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьсинуьв	манесин	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьсируьв	салув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьски	ас	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+туьсуьв	зырганап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьсуьв	йылысып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьсуьв	каргып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьсуьв	кируьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьсуьв	колайланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьсуьв	тоьменлев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+туьсуьв	туьсип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тыгув	салув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+тыгув	сугув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тыгыз	сык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тынмастан	токтамастан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тынув	басылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тынълатув	оьзине	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тыныш	сабыр	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+тыныш	тынышлык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тыюв	токтатув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+тяжелее	авыр	2	0	a word of the pair is not a Nogai word
+убить	оьлтируьв	2	0	a word of the pair is not a Nogai word
+увак	увак	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уваклав	туврав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уваклав	уватув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+уватув	бузув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уватув	яншув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уватылув	увакланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+увеличиваться	коьбеюв	3	0	a word of the pair is not a Nogai word
+увеличить	коьбейтуьв	2	0	a word of the pair is not a Nogai word
+увув	сылав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+увыс	бир	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ударить	согув	2	0	a word of the pair is not a Nogai word
+узактан	алыстан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+узнать	билуьв	2	0	a word of the pair is not a Nogai word
+уйгынлав	туьзуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+уйклав	уйклап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уйыстырув	уйгынлав	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+указании	на	2	0	a word of the pair is not a Nogai word
+укоротить	кесип	2	0	a word of the pair is not a Nogai word
+укоротить	кыскартув	3	0	a word of the pair is not a Nogai word
+украсть	урлав	2	0	a word of the pair is not a Nogai word
+украсть	урлап	2	0	a word of the pair is not a Nogai word
+уменьшить	кемитуьв	2	0	a word of the pair is not a Nogai word
+уменьшиться	кемуьв	2	0	a word of the pair is not a Nogai word
+умерший	оьли	2	0	a word of the pair is not a Nogai word
+уместиться	сыюв	2	0	a word of the pair is not a Nogai word
+умственном	отношении	3	0	a word of the pair is not a Nogai word
+унамав	макул	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уничтожить	йок	4	0	a word of the pair is not a Nogai word
+уплатить	тоьлев	3	0	a word of the pair is not a Nogai word
+урсысув	соьз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+условиться	соьйлесип	2	0	a word of the pair is not a Nogai word
+установить	салув	2	0	a word of the pair is not a Nogai word
+устранить	йок	2	0	a word of the pair is not a Nogai word
+устроить	определить	2	0	a word of the pair is not a Nogai word
+утолить	жажду	2	0	a word of the pair is not a Nogai word
+участь	язмыш	2	0	a word of the pair is not a Nogai word
+уьзилип	туьсуьв	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+уьзуьв	токтатув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уьйкен	бек	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+уьйкен	уллы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уьймелеклесуьв	топарласув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уьйренуьв	окув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уьйретуьв	йолга	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уьйсиз	юртсыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уьлги	калып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уьмит	даме	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уьндемев	соьйлемев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уьндемей	йыланмай	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уялув	уятка	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уялшан	уялшанъ	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уянув	уйкыдан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уятсыз	бетсиз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+уятсыз	ис	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+хороший	бек	2	0	a word of the pair is not a Nogai word
+чего-л	уьстинде	2	0	a word of the pair is not a Nogai word
+человек	адем	2	0	a word of the pair is not a Nogai word
+чем	нужно	2	0	a word of the pair is not a Nogai word
+чем-л	билуьв	2	0	a word of the pair is not a Nogai word
+чем-либо	деп	2	0	a word of the pair is not a Nogai word
+через	край	3	0	a word of the pair is not a Nogai word
+через	что-л	8	0	a word of the pair is not a Nogai word
+что-л	ана	2	0	a word of the pair is not a Nogai word
+что-л	артына	2	0	a word of the pair is not a Nogai word
+что-л	оьткеруьв	2	0	a word of the pair is not a Nogai word
+чуждый	ят	2	0	a word of the pair is not a Nogai word
+ша	ше	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+шабув	кесуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шабыс	ат	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шагынув	зарланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шайкав	босатув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шайкав	козгав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шайкав	ойнатув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шайкалув	козгалув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+шайкалып	баслав	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+шайнав	шайнап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шак	вакыт	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шакырув	шакырып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шалысув	мырат	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шалысув	ымтылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шаншув	кадав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шаншув	сугув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шаншылув	кадалув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шанышкылы	тегенекли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шарт	аьл	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шатлык	коьнъиллилик	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шатлыклы	коьнъилли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шашув	себуьв	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+шегуьв	оьлшев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шет	кырый	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+ший	писпеген	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шоршып	йиберуьв	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+шоькир	тегенек	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шунъкыр	туьпсиз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шуьшсиз	куьнасыз	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	алып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	беруьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	вывод	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	ерине	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	йок	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	йоюв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	казып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	коьтеруьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	ойлап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	сорып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	тартып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарув	шыгарып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгарылув	ерине	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгув	бир	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгув	йоргалав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгув	карав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгув	карап	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгув	карсылык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгув	келуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгув	саклав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгув	тувув	6	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгув	шыгып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгув	ювыртып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыгув	ярып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыдав	даянув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шыдап	болмайтаган	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+шынты	акыйкат	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+шырылдав	сарнав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ызы	ахыры	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ызы	сонъы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ынанув	сенуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+ынанып	болмастай	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+ыскыланув	уйкаланув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ыслав	тутув	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+ысланув	тутынув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+эгуьв	олтыртув	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+эзиетлев	азаплав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+эзуьв	кысув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+эзуьв	уватув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+экилете	эки	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+эри	байы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+эркин	бойсынмаган	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+эркин	эркинине	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+эс	анъ	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+эсаплав	санав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+эсапсыз	бек	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+эслев	абайлав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	алек	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	беруьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	бетин	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	билдируьв	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	бир	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	бос	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	ислев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	каьрлев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	кетируьв	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	курытув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	маскарага	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	сав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	селеке	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	табан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	тайдырув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	токтатув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	туьзетуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	тыювлык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	уятка	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	шашув	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	эмлев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+этуьв	язув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+юбанув	алданув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+юбатув	шайкав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+юванлав	семируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ювас	сабыр	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ювув	ювып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ювыкта	ювык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+юкалак	юка	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+юклев	тиев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+юлкув	уьзуьв	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+юлкув	юлкып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+юруьв	барув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+юруьв	канъып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ябув	каплав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ябынув	буьркенуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ябыскак	арттан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ябысув	ябысып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+явып	баслады	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+ягув	куьйдируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ягув	от	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ягув	ягып	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+ягымлы	ак	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ягымлы	суьйдимли	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+язалав	кыйнав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+язув	эрик	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+язув	язып	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+яйца	юмыртка	2	0	a word of the pair is not a Nogai word
+яйылув	таралув	4	0	never next to each other: a comma, a bracket or a removed word stands between them
+як	бет	5	0	never next to each other: a comma, a bracket or a removed word stands between them
+якласувшы	саклавшы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ялгыз	айырым	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ялдав	юзуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ялдап	юзип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ямав	иритип	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+яман	бузык	3	1	next to each other once only; elsewhere a comma or a bracket stands between them
+яман	осал	6	0	never next to each other: a comma, a bracket or a removed word stands between them
+яманлав	яман	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+янландырув	тирилтуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+янув	куьюв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+янув	пыскув	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+янув	тутанув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+яншув	эзуьв	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+янъылув	янъылысув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+янъылыс	дурыс	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+янъыртув	янъыдан	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+янында	касында	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ярав	керегуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ярастырув	келистируьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ярасув	келисуьв	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+яркырав	йылтырав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ярык	ашык	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ярык	савле	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ярылув	тырсылдав	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ярылув	уватылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+яс	янъы	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ясав	салув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ясалма	оьтирик	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+яслык	человеке	2	0	a word of the pair is not a Nogai word
+ясырув	билдирмев	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ят	шет	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ятак	яткын	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+ятув	йыгылув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+яхшы	аруьв	6	0	never next to each other: a comma, a bracket or a removed word stands between them
+яхшы	ийги	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+яхшы	пайдалы	3	1	next to each other once only; elsewhere a comma or a bracket stands between them
+яхшы	сулыплы	2	1	next to each other once only; elsewhere a comma or a bracket stands between them
+яхшылык	ийгилик	3	0	never next to each other: a comma, a bracket or a removed word stands between them
+яшав	оьмир	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+яюв	кокытув	2	0	never next to each other: a comma, a bracket or a removed word stands between them
+яюв	яйып	2	0	never next to each other: a comma, a bracket or a removed word stands between them

@@ -1,0 +1,24 @@
+step,words,corpus_count_total,base_score_total,bigrams,bigram_weight_total
+"v0 (keyboard_data_v0.zip, nog)",23090,60909,617241,3564,9659
+rows removed: A1 suffix citation,-32,-76,-771,0,0
+rows removed: G1 + T1 Russian: glosses and translations,-251,-1016,-10160,0,0
+rows removed: G1 Russian sense gloss in brackets,-4657,-7467,-74671,0,0
+rows removed: I1 IDS form with a decomposed «й»,-268,0,-268,0,0
+rows removed: T1 Russian translation of an example,-992,-1119,-11190,0,0
+rows removed: X1 pronoun form of the Apertium lexicon,-15,0,-16,0,0
+rows restored: F1 line v0 dropped as Russian,191,196,1960,0,0
+rows restored: I1 IDS form with a decomposed «й»,203,0,203,0,0
+rows restored: Q1 one-word field with punctuation,6,0,6,0,0
+rows restored: X1 pronoun form of the Apertium lexicon,6,0,6,0,0
+"rows kept, count corrected: C1 count corrected",0,1500,15169,0,0
+P1 pairs removed: a word of the pair is not a Nogai word,0,0,0,-368,-906
+"P1 pairs removed: never next to each other: a comma, a bracket or a removed word stands between them",0,0,0,-924,-2150
+P1 pairs removed: next to each other once only; elsewhere a comma or a bracket stands between them,0,0,0,-41,-91
+P1 + F1 pairs new (weight 2 or more only after the repair),0,0,0,86,187
+"P1 + F1 pairs kept, weight corrected",0,0,0,0,38
+the sources read again,17281,52927,537509,2317,6737
+"merged: S1 «ъ» typed for «ь» after а, о, у",-9,0,-1,0,0
+merged: S2 «нь» typed for «нъ»,-3,0,0,0,0
+"merged: M1 IDS transcription «йа», «йу» for «я», «ю»",-124,0,-2,0,0
+pairs re-keyed by the merges,0,0,0,0,0
+this dictionary,17145,52927,537506,2317,6737

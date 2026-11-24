@@ -1,0 +1,537 @@
+{
+ "source": {
+  "artifact": "nogai_words.sqlite",
+  "content_version": "1",
+  "cleanup_version": "1",
+  "note": "token-weighted; count of a word = base_score // 10; words known only from a word list (count 0) are left out"
+ },
+ "statistics_dictionary_text": {
+  "word_types": 13352,
+  "word_tokens": 52927,
+  "characters": 325107,
+  "alphabet_letters": 310954,
+  "mean_word_length_letters": 5.88,
+  "alphabet_letter_percent": {
+   "а": 11.82,
+   "ы": 7.397,
+   "к": 6.668,
+   "л": 6.53,
+   "в": 6.13,
+   "т": 5.776,
+   "р": 5.429,
+   "е": 5.403,
+   "и": 5.207,
+   "н": 4.627,
+   "с": 4.522,
+   "у": 3.788,
+   "б": 2.7,
+   "уь": 2.601,
+   "г": 2.588,
+   "й": 2.58,
+   "п": 2.082,
+   "о": 2.049,
+   "ш": 1.999,
+   "м": 1.932,
+   "д": 1.842,
+   "з": 1.764,
+   "оь": 1.091,
+   "я": 1.085,
+   "э": 0.731,
+   "нъ": 0.692,
+   "ю": 0.463,
+   "аь": 0.168,
+   "х": 0.161,
+   "ж": 0.072,
+   "ь": 0.031,
+   "ф": 0.031,
+   "ц": 0.018,
+   "ч": 0.017,
+   "щ": 0.004,
+   "ё": 0.003,
+   "ъ": 0.001
+  },
+  "digraph_percent_of_letters": {
+   "аь": 0.168,
+   "нъ": 0.692,
+   "оь": 1.091,
+   "уь": 2.601
+  },
+  "digraphs_together_percent_of_letters": 4.551,
+  "hard_sign": {
+   "percent_of_characters": 0.663,
+   "rank_among_characters": 25,
+   "after_percent": {
+    "н": 99.814,
+    "г": 0.046,
+    "и": 0.046,
+    "к": 0.046,
+    "у": 0.046
+   },
+   "outside_нъ_percent_of_letters": 0.001
+  },
+  "soft_sign": {
+   "percent_of_characters": 3.721,
+   "after_percent": {
+    "у": 66.846,
+    "о": 28.038,
+    "а": 4.323,
+    "л": 0.322,
+    "т": 0.231,
+    "н": 0.124
+   },
+   "outside_аь_оь_уь_percent_of_letters": 0.031
+  },
+  "rare_letters_percent_of_letters": {
+   "щ": 0.004,
+   "ё": 0.003,
+   "ф": 0.031,
+   "ц": 0.018,
+   "ч": 0.017,
+   "ж": 0.072,
+   "х": 0.161,
+   "ю": 0.463,
+   "э": 0.731
+  },
+  "old_or_foreign_digraphs_tokens": {
+   "гъ": 1,
+   "къ": 1,
+   "гь": 0,
+   "нг": 452
+  }
+ },
+ "statistics_web_text": {
+  "source": "Agisight/rf-keyboard-corpora, data/nog/Renat_Shakhmirzov/frequencies/nog_monocorpus_freq.csv (FineWeb-2, Nogai; collected 2025-08-03)",
+  "alphabet_letters": 3783628,
+  "alphabet_letter_percent": {
+   "а": 12.609,
+   "е": 7.113,
+   "л": 6.801,
+   "ы": 6.743,
+   "и": 6.736,
+   "н": 6.71,
+   "р": 5.921,
+   "к": 4.97,
+   "т": 4.401,
+   "д": 4.27,
+   "с": 4.042,
+   "о": 3.568,
+   "м": 3.291,
+   "г": 2.87,
+   "б": 2.562,
+   "й": 2.432,
+   "в": 1.897,
+   "з": 1.66,
+   "п": 1.58,
+   "у": 1.548,
+   "ш": 1.453,
+   "нъ": 1.249,
+   "я": 1.132,
+   "э": 0.8,
+   "оь": 0.783,
+   "уь": 0.769,
+   "аь": 0.52,
+   "х": 0.362,
+   "ь": 0.236,
+   "ж": 0.225,
+   "ю": 0.215,
+   "ц": 0.172,
+   "ф": 0.161,
+   "ч": 0.138,
+   "ъ": 0.034,
+   "щ": 0.024,
+   "ё": 0.005
+  },
+  "digraph_percent_of_letters": {
+   "аь": 0.52,
+   "нъ": 1.249,
+   "оь": 0.783,
+   "уь": 0.769
+  },
+  "digraphs_together_percent_of_letters": 3.32,
+  "hard_sign_outside_нъ_percent_of_letters": 0.034,
+  "soft_sign_outside_аь_оь_уь_percent_of_letters": 0.236,
+  "rare_letters_percent_of_letters": {
+   "щ": 0.024,
+   "ё": 0.005,
+   "ф": 0.161,
+   "ц": 0.172,
+   "ч": 0.138,
+   "ж": 0.225,
+   "х": 0.362,
+   "ю": 0.215,
+   "э": 0.8
+  }
+ },
+ "model": {
+  "screen_pt": 402.0,
+  "long_press_delay_s": 0.3,
+  "tap_rates_s": {
+   "0.25 s per tap": 0.25,
+   "0.18 s per tap": 0.18
+  },
+  "note": "model-based estimates, not measured typing speed"
+ },
+ "candidates": {
+  "A0": {
+   "title": "Russian iOS keyboard as it is (ъ under ь only)",
+   "rows": [
+    "й ц у к е н г ш щ з х",
+    "ф ы в а п р о л д ж э",
+    "я ч с м и т ь б ю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "cells_in_the_widest_row": 11,
+   "narrowest_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "dictionary_text": {
+    "key_presses_per_word": 6.143,
+    "key_presses_per_100_letters": 104.55,
+    "long_presses_per_100_words": 4.09,
+    "long_presses_per_100_letters": 0.696,
+    "words_needing_a_long_press_percent": 4.051,
+    "thumb_travel_pt_per_letter": 50.88,
+    "same_thumb_transitions_percent": 42.577,
+    "seconds_per_100_words": {
+     "0.25 s per tap": 154.8,
+     "0.18 s per tap": 111.8
+    }
+   },
+   "web_text_agisight": {
+    "key_presses_per_100_letters": 103.32,
+    "long_presses_per_100_letters": 1.288,
+    "seconds_per_100_letters": {
+     "0.25 s per tap": 26.22,
+     "0.18 s per tap": 18.98
+    }
+   },
+   "keys_not_in_their_russian_place": [],
+   "letters_without_a_key": [
+    "ъ",
+    "ё"
+   ],
+   "digraph_entry": {
+    "аь": "2 taps, alternating thumbs, 153 pt apart",
+    "нъ": "tap н, long press on ь",
+    "оь": "2 taps, same thumb, 65 pt apart",
+    "уь": "2 taps, alternating thumbs, 210 pt apart"
+   }
+  },
+  "A": {
+   "title": "Russian iOS layout + the Agisight long-press mapping (аь нъ оь уь under а н о у)",
+   "rows": [
+    "й ц у к е н г ш щ з х",
+    "ф ы в а п р о л д ж э",
+    "я ч с м и т ь б ю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "cells_in_the_widest_row": 11,
+   "narrowest_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "dictionary_text": {
+    "key_presses_per_word": 6.102,
+    "key_presses_per_100_letters": 103.86,
+    "long_presses_per_100_words": 4.09,
+    "long_presses_per_100_letters": 0.696,
+    "words_needing_a_long_press_percent": 4.051,
+    "thumb_travel_pt_per_letter": 50.09,
+    "same_thumb_transitions_percent": 42.12,
+    "seconds_per_100_words": {
+     "0.25 s per tap": 153.8,
+     "0.18 s per tap": 111.1
+    }
+   },
+   "web_text_agisight": {
+    "key_presses_per_100_letters": 102.07,
+    "long_presses_per_100_letters": 1.288,
+    "seconds_per_100_letters": {
+     "0.25 s per tap": 25.9,
+     "0.18 s per tap": 18.76
+    }
+   },
+   "keys_not_in_their_russian_place": [],
+   "letters_without_a_key": [
+    "ъ",
+    "ё"
+   ],
+   "digraph_entry": {
+    "аь": "2 taps, alternating thumbs, 153 pt apart",
+    "нъ": "long press on н",
+    "оь": "2 taps, same thumb, 65 pt apart",
+    "уь": "2 taps, alternating thumbs, 210 pt apart"
+   }
+  },
+  "B": {
+   "title": "ъ on щ's key, щ under ш (chosen)",
+   "rows": [
+    "й ц у к е н г ш ъ з х",
+    "ф ы в а п р о л д ж э",
+    "я ч с м и т ь б ю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "cells_in_the_widest_row": 11,
+   "narrowest_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "dictionary_text": {
+    "key_presses_per_word": 6.143,
+    "key_presses_per_100_letters": 104.55,
+    "long_presses_per_100_words": 0.04,
+    "long_presses_per_100_letters": 0.006,
+    "words_needing_a_long_press_percent": 0.038,
+    "thumb_travel_pt_per_letter": 50.82,
+    "same_thumb_transitions_percent": 42.577,
+    "seconds_per_100_words": {
+     "0.25 s per tap": 153.6,
+     "0.18 s per tap": 110.6
+    }
+   },
+   "web_text_agisight": {
+    "key_presses_per_100_letters": 103.32,
+    "long_presses_per_100_letters": 0.029,
+    "seconds_per_100_letters": {
+     "0.25 s per tap": 25.84,
+     "0.18 s per tap": 18.61
+    }
+   },
+   "keys_not_in_their_russian_place": [
+    "щ"
+   ],
+   "letters_without_a_key": [
+    "щ",
+    "ё"
+   ],
+   "digraph_entry": {
+    "аь": "2 taps, alternating thumbs, 153 pt apart",
+    "нъ": "2 taps, same thumb, 108 pt apart",
+    "оь": "2 taps, same thumb, 65 pt apart",
+    "уь": "2 taps, alternating thumbs, 210 pt apart"
+   }
+  },
+  "C": {
+   "title": "a «нъ» key on щ's key; ъ under ь, щ under ш",
+   "rows": [
+    "й ц у к е н г ш нъ з х",
+    "ф ы в а п р о л д ж э",
+    "я ч с м и т ь б ю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "cells_in_the_widest_row": 11,
+   "narrowest_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "dictionary_text": {
+    "key_presses_per_word": 6.102,
+    "key_presses_per_100_letters": 103.86,
+    "long_presses_per_100_words": 0.05,
+    "long_presses_per_100_letters": 0.008,
+    "words_needing_a_long_press_percent": 0.045,
+    "thumb_travel_pt_per_letter": 50.14,
+    "same_thumb_transitions_percent": 42.12,
+    "seconds_per_100_words": {
+     "0.25 s per tap": 152.6,
+     "0.18 s per tap": 109.8
+    }
+   },
+   "web_text_agisight": {
+    "key_presses_per_100_letters": 102.07,
+    "long_presses_per_100_letters": 0.063,
+    "seconds_per_100_letters": {
+     "0.25 s per tap": 25.54,
+     "0.18 s per tap": 18.39
+    }
+   },
+   "keys_not_in_their_russian_place": [
+    "щ"
+   ],
+   "letters_without_a_key": [
+    "щ",
+    "ъ",
+    "ё"
+   ],
+   "digraph_entry": {
+    "аь": "2 taps, alternating thumbs, 153 pt apart",
+    "нъ": "1 tap, its own key",
+    "оь": "2 taps, same thumb, 65 pt apart",
+    "уь": "2 taps, alternating thumbs, 210 pt apart"
+   }
+  },
+  "D": {
+   "title": "the Agisight draft (nog_key_default.json): 12 + 12 + 11 keys, a key for each of нъ аь оь уь",
+   "rows": [
+    "й ц у к е н г ш щ з х нъ",
+    "ф ы в а п р о л д ж э аь",
+    "я ч с м и т ь б ю оь уь"
+   ],
+   "keys_per_row": [
+    12,
+    12,
+    11
+   ],
+   "cells_in_the_widest_row": 13,
+   "narrowest_key_pt": {
+    "402 pt screen": 24.38,
+    "375 pt screen": 22.31
+   },
+   "dictionary_text": {
+    "key_presses_per_word": 5.875,
+    "key_presses_per_100_letters": 100.0,
+    "long_presses_per_100_words": 0.02,
+    "long_presses_per_100_letters": 0.004,
+    "words_needing_a_long_press_percent": 0.023,
+    "thumb_travel_pt_per_letter": 51.77,
+    "same_thumb_transitions_percent": 52.186,
+    "seconds_per_100_words": {
+     "0.25 s per tap": 146.9,
+     "0.18 s per tap": 105.8
+    }
+   },
+   "web_text_agisight": {
+    "key_presses_per_100_letters": 100.0,
+    "long_presses_per_100_letters": 0.039,
+    "seconds_per_100_letters": {
+     "0.25 s per tap": 25.01,
+     "0.18 s per tap": 18.01
+    }
+   },
+   "keys_not_in_their_russian_place": [
+    "а",
+    "б",
+    "в",
+    "г",
+    "д",
+    "е",
+    "ж",
+    "з",
+    "и",
+    "й",
+    "к",
+    "л",
+    "м",
+    "н",
+    "о",
+    "п",
+    "р",
+    "с",
+    "т",
+    "у",
+    "ф",
+    "х",
+    "ц",
+    "ч",
+    "ш",
+    "щ",
+    "ы",
+    "ь",
+    "э",
+    "ю",
+    "я"
+   ],
+   "letters_without_a_key": [
+    "ъ",
+    "ё"
+   ],
+   "digraph_entry": {
+    "аь": "1 tap, its own key",
+    "нъ": "1 tap, its own key",
+    "оь": "1 tap, its own key",
+    "уь": "1 tap, its own key"
+   }
+  },
+  "E": {
+   "title": "the draft cut to Apple's 12-key rows: нъ on щ's key, уь and оь as 12th keys, 9 letters below",
+   "rows": [
+    "й ц у к е н г ш нъ з х уь",
+    "ф ы в а п р о л д ж э оь",
+    "я ч с м и т ь б ю"
+   ],
+   "keys_per_row": [
+    12,
+    12,
+    9
+   ],
+   "cells_in_the_widest_row": 12,
+   "narrowest_key_pt": {
+    "402 pt screen": 26.92,
+    "375 pt screen": 24.67
+   },
+   "dictionary_text": {
+    "key_presses_per_word": 5.885,
+    "key_presses_per_100_letters": 100.17,
+    "long_presses_per_100_words": 0.05,
+    "long_presses_per_100_letters": 0.008,
+    "words_needing_a_long_press_percent": 0.045,
+    "thumb_travel_pt_per_letter": 52.88,
+    "same_thumb_transitions_percent": 51.45,
+    "seconds_per_100_words": {
+     "0.25 s per tap": 147.1,
+     "0.18 s per tap": 105.9
+    }
+   },
+   "web_text_agisight": {
+    "key_presses_per_100_letters": 100.52,
+    "long_presses_per_100_letters": 0.063,
+    "seconds_per_100_letters": {
+     "0.25 s per tap": 25.15,
+     "0.18 s per tap": 18.11
+    }
+   },
+   "keys_not_in_their_russian_place": [
+    "а",
+    "в",
+    "г",
+    "д",
+    "е",
+    "ж",
+    "з",
+    "й",
+    "к",
+    "л",
+    "н",
+    "о",
+    "п",
+    "р",
+    "у",
+    "ф",
+    "х",
+    "ц",
+    "ш",
+    "щ",
+    "ы",
+    "э"
+   ],
+   "letters_without_a_key": [
+    "щ",
+    "ъ",
+    "ё"
+   ],
+   "digraph_entry": {
+    "аь": "2 taps, alternating thumbs, 163 pt apart",
+    "нъ": "1 tap, its own key",
+    "оь": "1 tap, its own key",
+    "уь": "1 tap, its own key"
+   }
+  }
+ }
+}

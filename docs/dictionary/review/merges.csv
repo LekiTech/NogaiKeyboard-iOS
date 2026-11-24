@@ -1,0 +1,137 @@
+source,target,rule,source_base_score,target_base_score_before,target_base_score_after
+айа,ая,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,20,21
+айавсыз,аявсыз,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,41,42
+айак,аяк,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,352,353
+айаклы,аяклы,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,20,21
+айув,аюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,51,52
+бетйавлык,бетявлык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,10,11
+бийала,бияла,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,11,12
+бийув,биюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,51,52
+бийуьв,биюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,52,52
+бойав,бояв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,180,181
+бойак,бояк,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,131,132
+болайак,болаяк,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,391,392
+даъм,даьм,"S1 «ъ» typed for «ь» after а, о, у",20,41,61
+дуныйа,дуныя,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,12,13
+зайалав,заялав,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,10,11
+идейа,идея,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,1,2
+ийув,июв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,121,122
+йабув,ябув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,421,422
+йавап,явап,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,262,263
+йаваплы,яваплы,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,31,32
+йавырын,явырын,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,11,12
+йага,яга,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,151,152
+йагув,ягув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,441,442
+йагы,ягы,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,130,131
+йаде,яде,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,212,213
+йаз,яз,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,52,53
+йазлык,язлык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,32,33
+йазув,язув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,591,592
+йазык,язык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,1,2
+йай,яй,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,22,23
+йайлав,яйлав,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,30,31
+йайув,яюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,381,382
+йайып,яйып,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,70,71
+йак,як,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,282,283
+йал,ял,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,21,22
+йалав,ялав,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,21,22
+йаланъаш,яланъаш,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,21,22
+йаланъашланган,яланъашланган,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,1,2
+йалдав,ялдав,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,20,21
+йалдап,ялдап,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,90,91
+йалпак,ялпак,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,40,41
+йалшы,ялшы,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,11,12
+йалын,ялын,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,30,31
+йаман,яман,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,702,703
+йаманлав,яманлав,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,71,72
+йаманлык,яманлык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,151,152
+йамгыр,ямгыр,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,191,192
+йан,ян,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,171,172
+йанбас,янбас,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,20,21
+йануварлар,януварлар,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,40,41
+йанъы,янъы,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,371,372
+йанъыдан,янъыдан,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,231,232
+йанъылув,янъылув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,51,52
+йанъылыс,янъылыс,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,232,233
+йанъылыслык,янъылыслык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,30,31
+йанъыртув,янъыртув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,61,62
+йанында,янында,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,80,81
+йанышув,янышув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,51,52
+йапырак,япырак,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,31,32
+йар,яр,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,81,82
+йара,яра,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,102,103
+йарасык,ярасык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,271,272
+йардам,ярдам,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,301,302
+йарлы,ярлы,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,81,82
+йарты,ярты,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,60,61
+йартысы,яртысы,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,50,51
+йарув,ярув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,171,172
+йарык,ярык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,482,483
+йас,яс,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,392,393
+йасав,ясав,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,580,581
+йастык,ястык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,10,11
+йасыл,ясыл,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,41,42
+йасылша,ясылша,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,31,32
+йасын,ясын,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,40,41
+йасыртын,ясыртын,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,371,372
+йасырув,ясырув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,101,102
+йатак,ятак,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,41,42
+йатув,ятув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,201,202
+йахшы,яхшы,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,1082,1083
+йахшылык,яхшылык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,300,301
+йашав,яшав,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,480,481
+йувув,ювув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,111,112
+йувык,ювык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,332,333
+йувыклав,ювыклав,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,60,61
+йувыртпа,ювыртпа,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,11,12
+йуз,юз,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,292,293
+йузик,юзик,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,20,21
+йузим,юзим,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,40,41
+йузуьв,юзуьв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,20,21
+йука,юка,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,111,112
+йукли,юкли,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,31,32
+йулдыз,юлдыз,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,172,173
+йума,юма,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,30,31
+йумсак,юмсак,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,312,313
+йумыртка,юмыртка,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,61,62
+йумырык,юмырык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,20,21
+йун,юн,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,111,112
+йурек,юрек,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,282,283
+йурип,юрип,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,160,161
+йуритуьв,юритуьв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,60,61
+йуркан,юркан,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,31,32
+йурт,юрт,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,31,32
+йуруьв,юруьв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,851,852
+йутув,ютув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,51,52
+йыйув,йыюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,371,372
+кайа,кая,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,41,42
+кенъейув,кенъеюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,41,42
+кийуьв,киюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,90,91
+койан,коян,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,21,22
+коънъил,коьнъил,"S1 «ъ» typed for «ь» after а, о, у",10,391,401
+коърсетуьвши,коьрсетуьвши,"S1 «ъ» typed for «ь» after а, о, у",10,80,90
+коьньилли,коьнъилли,S2 «нь» typed for «нъ»,10,160,170
+куйув,куюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,361,362
+кыйув,кыюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,40,41
+кыркайак,кыркаяк,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,1,2
+ойув,оюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,111,112
+оътирик,оьтирик,"S1 «ъ» typed for «ь» after а, о, у",1,351,351
+сизинь,сизинъ,S2 «нь» typed for «нъ»,10,221,231
+соъз,соьз,"S1 «ъ» typed for «ь» after а, о, у",20,1143,1163
+судьйа,судья,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,1,2
+суъврет,суьврет,"S1 «ъ» typed for «ь» after а, о, у",10,103,113
+суъетаган,суьетаган,"S1 «ъ» typed for «ь» after а, о, у",10,110,120
+суьйув,суьюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,192,193
+сыйа,сыя,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,51,52
+тийув,тиюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,301,302
+тийуьв,тиюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,302,302
+туъги,туьги,"S1 «ъ» typed for «ь» after а, о, у",10,50,60
+туърлентуьв,туьрлентуьв,"S1 «ъ» typed for «ь» after а, о, у",10,31,41
+туьйуьв,туьюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,61,62
+тыйув,тыюв,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,141,142
+тыйувлык,тыювлык,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,51,52
+уйа,уя,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,41,42
+уйанув,уянув,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,30,31
+уйат,уят,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,61,62
+ыхтыйар,ыхтыяр,"M1 IDS transcription «йа», «йу» for «я», «ю»",1,10,11
+яланьашланув,яланъашланув,S2 «нь» typed for «нъ»,10,10,20

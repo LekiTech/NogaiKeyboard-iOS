@@ -1,0 +1,46 @@
+Copyright © 2026 LekiTech (https://github.com/LekiTech). All rights reserved.
+
+This repository — including its source code, app icons, and the bundled
+word dictionary — is made available for viewing and reference only.
+
+No permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, or sell any part of this repository, in source or binary form,
+for any purpose, without prior written permission from LekiTech.
+
+Viewing and forking on GitHub are permitted solely to the extent required by
+the GitHub Terms of Service.
+
+Third-party components remain under their own licenses:
+- The assignment of the two-character Nogai letters to Russian keys on a
+  long press (data/nog/Renat_Shakhmirzov/mapping/nog_key_mapping.json), the
+  letter counts of Nogai web text (…/frequencies/nog_monocorpus_freq.csv)
+  and the draft layout (…/keyboard/nog_key_default.json) from
+  https://github.com/Agisight/rf-keyboard-corpora — MIT License,
+  Copyright (c) 2025 Agisight (Ali Kuzhuget); the Nogai files were
+  contributed by Renat Shakhmirzov.
+- The transcription of the Russian iOS keyboard (layout/rus) from
+  https://github.com/Agisight/ios-system-keyboard — MIT License,
+  Copyright (c) 2025 Agisight.
+  Copies of both licenses and of the files used are in
+  Tests/NogaiCoreTests/Fixtures/agisight/.
+- The sources of the dictionary, kept unmodified in
+  dictionary-source/upstream/ with their license files:
+  - nogai_russian_dictionary.json from
+    https://github.com/shakhmirzovrenat/Dataset-of-nogai-language. —
+    MIT License, Copyright (c) 2026 shakhmirzovrenat (prepared and
+    contributed by Shakhmirzov Renat Safarovich);
+  - apertium-nog.nog.lexc from https://github.com/apertium/apertium-nog —
+    GNU General Public License v3 (COPYING), Copyright (c) 2013–2014
+    Kevin Brubeck Unhammer, Francis M. Tyers, Jonathan N. Washington,
+    Tino Didriksen;
+  - the Nogai rows (list 73, Madzhid Khalilov) of the Intercontinental
+    Dictionary Series, https://github.com/intercontinental-dictionary-series/ids —
+    Creative Commons Attribution 4.0 International. Key, Mary Ritchie &
+    Comrie, Bernard (eds.) 2023. The Intercontinental Dictionary Series.
+    Leipzig: Max Planck Institute for Evolutionary Anthropology.
+  The dictionary takes word forms, their counts and word pairs from these
+  files; see docs/DICTIONARY.md.
+- Emoji catalog data (General Keyboard) derived from Unicode® emoji-test.txt
+  — © Unicode, Inc.
+
+For permission requests, contact LekiTech: https://github.com/LekiTech
